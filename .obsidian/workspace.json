@@ -20,6 +20,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "d6dc8360ed32c073",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87961d62862252dc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Books/Systems Analysis and Design.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -85,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAD/Chapter 11.md",
+                "file": "Books/Systems Analysis and Design.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAD/Chapter 11.md",
+                "file": "Books/Systems Analysis and Design.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAD/Chapter 11.md"
+                "file": "Books/Systems Analysis and Design.pdf"
               }
             }
           }
@@ -143,9 +160,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efa7a399d3344543",
-  "lastOpenFiles": []
+  "active": "87961d62862252dc",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "SAD/Chapter 11.md"
+  ]
 }
