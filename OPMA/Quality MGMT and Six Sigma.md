@@ -1,0 +1,39 @@
+- What is quality? 
+	- Conformance to specifications 
+	- Value 
+	- Design quality 
+	- Fitness for use 
+	- Support 
+	- Psychological impressions 
+	- Meet or exceed customer expectations
+- Quality Concepts
+	- A failure to satisfy a customer is considered a defect
+	- Prevention costs
+	- Appraisal costs
+	- Internal failure Costs
+	- External failure costs
+	- Ethics and quality
+- Malcolm Baldrige Award
+	- Promotes recognizes and publicizes quality strategies and achievements by leading organizations
+	- It's awarded annually after a rigorous application and review process
+	- Established by US dept of Commerce
+	- Administered by the National Institute of Standards and Tech
+	- Given annually to companies that demonstrate quality in products and processes
+	- Up to 18 awards may be given annually in:
+		- Manufacturing
+		- Service
+		- Small business
+		- Education
+		- Health care
+		- Non-profits
+- Scoring Baldrige Applicants
+	- Applications are scored on total points out of 1000
+	- Those >650 selected for site visits, which decide final winner
+-  Six Sigma Analytical Tools
+	- Flowcharts
+	- Run-charts
+	- Pareto chart
+	- Check sheet
+	- Cause and effect diagram
+	- Opportunity flow diagram
+- 
