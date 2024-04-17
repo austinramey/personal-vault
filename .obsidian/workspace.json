@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "39ba0c324c068df8",
+    "type": "split",
+    "children": [
+      {
+        "id": "36a857db6d1260ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efa7a399d3344543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAD/Chapter 11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e57979fdbd6a12a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b53d4876c59b850",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5b9a6f4769b2104",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41883840575f7732",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a70e4422d687d2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a7c0cdef5d4102d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3d5cd1ef6cd657f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3729272f93db7139",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SAD/Chapter 11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d830adac2b2c9bef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SAD/Chapter 11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "425ace7ec422cb01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c6cb68e3ad318b26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SAD/Chapter 11.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "efa7a399d3344543",
+  "lastOpenFiles": []
+}

@@ -1,2 +1,5 @@
 - Forefront of most minds: **construction** of a new system
+- Resistance to change:
+	- Most people will push against it, especially for new ideas
+	- Not everyone is keen to SAD concepts
 - 
