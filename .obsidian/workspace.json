@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "36a857db6d1260ba",
+        "id": "8340e41ea4954a07",
         "type": "tabs",
         "children": [
           {
-            "id": "efa7a399d3344543",
+            "id": "893e17bdb5f44e67",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "SAD/Chapter 11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "1aa98846e2b8d7e6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cfcd5a53935f8ace",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books/Systems Analysis and Design.pdf"
+                "file": "Drawing 2024-04-17 13.50.28.excalidraw.md"
               }
             }
           }
@@ -85,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -102,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAD/Chapter 11.md",
+                "file": "Drawing 2024-04-17 13.50.28.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAD/Chapter 11.md",
+                "file": "Drawing 2024-04-17 13.50.28.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAD/Chapter 11.md"
+                "file": "Drawing 2024-04-17 13.50.28.excalidraw.md"
               }
             }
           }
@@ -164,11 +145,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efa7a399d3344543",
+  "active": "893e17bdb5f44e67",
   "lastOpenFiles": [
-    "Books/Systems Analysis and Design.pdf",
-    "SAD/Chapter 11.md",
+    "Excalidraw/Drawing 2024-04-10 08.27.45.excalidraw.md",
     "Books/asdfadsfasfd.md",
+    "SAD/Chapter 11.md",
+    "Excalidraw/Drawing 2024-04-17 19.58.21.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-17 13.51.42.excalidraw.md",
+    "Drawing 2024-04-17 13.50.28.excalidraw.md",
+    "Books/Systems Analysis and Design.pdf",
     "Untitled.md"
   ]
 }
