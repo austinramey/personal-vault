@@ -22,18 +22,16 @@
         ]
       },
       {
-        "id": "d6dc8360ed32c073",
+        "id": "1aa98846e2b8d7e6",
         "type": "tabs",
         "children": [
           {
-            "id": "87961d62862252dc",
+            "id": "cfcd5a53935f8ace",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Books/asdfadsfasfd.md",
-                "mode": "source",
-                "source": false
+                "file": "Books/Systems Analysis and Design.pdf"
               }
             }
           }
@@ -87,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -167,9 +166,9 @@
   },
   "active": "efa7a399d3344543",
   "lastOpenFiles": [
-    "Books/asdfadsfasfd.md",
     "Books/Systems Analysis and Design.pdf",
-    "Untitled.md",
-    "SAD/Chapter 11.md"
+    "SAD/Chapter 11.md",
+    "Books/asdfadsfasfd.md",
+    "Untitled.md"
   ]
 }
