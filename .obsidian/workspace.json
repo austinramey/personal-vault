@@ -11,9 +11,11 @@
             "id": "893e17bdb5f44e67",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Books/SAD.pdf"
+                "file": "OPMA/04-22.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/SAD.pdf",
+                "file": "OPMA/04-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/SAD.pdf",
+                "file": "OPMA/04-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/SAD.pdf"
+                "file": "OPMA/04-22.md"
               }
             }
           }
@@ -147,8 +150,10 @@
   },
   "active": "893e17bdb5f44e67",
   "lastOpenFiles": [
-    "School Links.md",
+    "OPMA/Quality MGMT and Six Sigma.md",
+    "OPMA/04-22.md",
     "Books/SAD.pdf",
+    "School Links.md",
     "Untitled.md",
     "Books/Business Communication_ Developing Leaders for a Networked World.epub",
     "Drawing 2024-04-17 13.50.28.excalidraw.md",
@@ -156,7 +161,6 @@
     "Books/asdfadsfasfd.md",
     "SAD/Chapter 11.md",
     "Excalidraw/Drawing 2024-04-17 19.58.21.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-17 13.51.42.excalidraw.md",
-    "Books/SAD.pdf"
+    "Excalidraw/Drawing 2024-04-17 13.51.42.excalidraw.md"
   ]
 }
