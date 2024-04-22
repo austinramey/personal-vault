@@ -11,9 +11,9 @@
             "id": "893e17bdb5f44e67",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Drawing 2024-04-17 13.50.28.excalidraw.md"
+                "file": "Books/Systems Analysis and Design, 8e -- Alan Dennis, Barbara Wixom, Roberta M_ Roth -- 1, 8th, 2021 -- Wiley -- 9781119803799 -- 0f2948ea8b87affa4f438f81bf585caf -- Anna’s Archive.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawing 2024-04-17 13.50.28.excalidraw.md",
+                "file": "Books/Systems Analysis and Design, 8e -- Alan Dennis, Barbara Wixom, Roberta M_ Roth -- 1, 8th, 2021 -- Wiley -- 9781119803799 -- 0f2948ea8b87affa4f438f81bf585caf -- Anna’s Archive.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawing 2024-04-17 13.50.28.excalidraw.md",
+                "file": "Books/Systems Analysis and Design, 8e -- Alan Dennis, Barbara Wixom, Roberta M_ Roth -- 1, 8th, 2021 -- Wiley -- 9781119803799 -- 0f2948ea8b87affa4f438f81bf585caf -- Anna’s Archive.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing 2024-04-17 13.50.28.excalidraw.md"
+                "file": "Books/Systems Analysis and Design, 8e -- Alan Dennis, Barbara Wixom, Roberta M_ Roth -- 1, 8th, 2021 -- Wiley -- 9781119803799 -- 0f2948ea8b87affa4f438f81bf585caf -- Anna’s Archive.pdf"
               }
             }
           }
@@ -147,13 +147,15 @@
   },
   "active": "893e17bdb5f44e67",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Books/Systems Analysis and Design, 8e -- Alan Dennis, Barbara Wixom, Roberta M_ Roth -- 1, 8th, 2021 -- Wiley -- 9781119803799 -- 0f2948ea8b87affa4f438f81bf585caf -- Anna’s Archive.pdf",
+    "Books/Business Communication_ Developing Leaders for a Networked World.epub",
+    "Drawing 2024-04-17 13.50.28.excalidraw.md",
     "Excalidraw/Drawing 2024-04-10 08.27.45.excalidraw.md",
     "Books/asdfadsfasfd.md",
     "SAD/Chapter 11.md",
     "Excalidraw/Drawing 2024-04-17 19.58.21.excalidraw.md",
     "Excalidraw/Drawing 2024-04-17 13.51.42.excalidraw.md",
-    "Drawing 2024-04-17 13.50.28.excalidraw.md",
-    "Books/Systems Analysis and Design.pdf",
-    "Untitled.md"
+    "Books/Systems Analysis and Design.pdf"
   ]
 }
