@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/SQLite.md",
+                "file": "Java/Notes from Book.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,7 +42,23 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "2043f8d17201891d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65263b4201efc9d0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Books/Java How to Program.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/SQLite.md",
+                "file": "Books/Java How to Program.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/SQLite.md",
+                "file": "Books/Java How to Program.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/SQLite.md"
+                "file": "Books/Java How to Program.pdf"
               }
             }
           }
@@ -170,10 +186,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d9279bef92ea2f2",
+  "active": "b11ffb264d93f048",
   "lastOpenFiles": [
-    "Java/Network Programming.md",
+    "Java/Notes from Book.md",
     "Java/SQLite.md",
+    "Java/Network Programming.md",
     "Books/Java How to Program.pdf",
     "Books/Java How to Program, Early Objects, 11th Edition - Harvey Deitel, Paul J. Deitel.pdf",
     "Java/Lecture 21.pptx",
