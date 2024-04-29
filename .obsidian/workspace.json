@@ -13,25 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAD/Final Exam Notes.md",
+                "file": "Cybersec/Final Exam Notes.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "223e4b70d492332a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1d77ccd9c9f8274d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books/SAD.pdf"
               }
             }
           }
@@ -85,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -102,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAD/Final Exam Notes.md",
+                "file": "Cybersec/Final Exam Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAD/Final Exam Notes.md",
+                "file": "Cybersec/Final Exam Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAD/Final Exam Notes.md"
+                "file": "Cybersec/Final Exam Notes.md"
               }
             }
           }
@@ -166,8 +149,9 @@
   },
   "active": "8d9279bef92ea2f2",
   "lastOpenFiles": [
-    "Books/SAD.pdf",
     "SAD/Final Exam Notes.md",
+    "Cybersec/Final Exam Notes.md",
+    "Books/SAD.pdf",
     "Java/Notes from Book.md",
     "Java/Network Programming.md",
     "Books/Java How to Program.pdf",
