@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "8d9279bef92ea2f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/SQLite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b11ffb264d93f048",
             "type": "leaf",
             "state": {
@@ -29,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Network Programming.md",
+                "file": "Java/SQLite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Network Programming.md",
+                "file": "Java/SQLite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Network Programming.md"
+                "file": "Java/SQLite.md"
               }
             }
           }
@@ -158,10 +170,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc2848436f6c7a71",
+  "active": "8d9279bef92ea2f2",
   "lastOpenFiles": [
-    "Books/Java How to Program.pdf",
     "Java/Network Programming.md",
+    "Java/SQLite.md",
+    "Books/Java How to Program.pdf",
     "Books/Java How to Program, Early Objects, 11th Edition - Harvey Deitel, Paul J. Deitel.pdf",
     "Java/Lecture 21.pptx",
     "Cybersec/Chapter 12.md",
