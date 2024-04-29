@@ -42,4 +42,19 @@
 	- etc.
 ## Scrum
 - Process
-	- 
+	- Product Owner creates features that are requested
+	- Team meets regarding the backlog before the spring starts.
+	- After this, each emoloyee makes a sprint backlog, and then work for it in 10-14 days
+	- Daily Stand Up- Meeting to discuss sprint logs nad suhc
+- Meetings
+
+| Session                   | Purpose | Timing       | Partic |
+| ------------------------- | ------- | ------------ | ------ |
+| Release Planning          |         | 2-4 hrs      |        |
+| Spring Planning           |         | 2-4 hrs      |        |
+| Daily Planning            |         | 15 min daily |        |
+| Sprint Retrospective      |         | 1-1.5 hrs    |        |
+| Product Back-log Grooming |         |              |        |
+- Team velocity
+	- Measure of how fast a groupof people can produce certain unit of work
+- How much work todi and le
