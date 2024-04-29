@@ -29,4 +29,17 @@
 	- Simplicity is essential
 	- Best archs., requirements and designs emerge from self-organizing teams
 	- Reflect on how to become more effective, then tune and adjust accordingly
-- 
+- Benefits
+	- Quicker time to market
+	- Ability to manage changing priorities
+	- Business alignment
+	- Project visibility
+	- Team morale
+- Types of Aglie methods
+	- Scrum
+	- ScrumBan
+	- Kanban
+	- etc.
+## Scrum
+- Process
+	- 
