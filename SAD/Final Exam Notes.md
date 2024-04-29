@@ -89,4 +89,16 @@
 ### Dynamic Systems Development
 - Iterative, incremental approach based on four-phases
 	- Feasibility and business study
-	- 
+	- Functionality model/prototype iteration
+	- Design and build iteration
+	- Implementation
+- Relies on direct and frequent collaboration between devs and users
+### Feature Driven Development
+- Organizes software dev around completing features- 
+	- Develop an overall model
+	- Build a features list
+	- Plan by feature
+	- Design by feature
+	- Build by feature
+### Lean Software Development
+- 
