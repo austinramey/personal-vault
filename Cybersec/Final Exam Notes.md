@@ -9,7 +9,15 @@
 - <mark style="background: #D2B3FFA6;">Decryption</mark> is the act of unscrambling ciphertext into plaintext
 - <mark style="background: #D2B3FFA6;">Algorithm</mark>: the mathematical process for which encryption and decryption happens
 - <mark style="background: #D2B3FFA6;">Cipher</mark>: algorithm to encrypt or decrypt info
+- Algorithms without only an encryption step are called <mark style="background: #D2B3FFA6;">one-way algorithms</mark>. The output of which is called a <mark style="background: #D2B3FFA6;">hash</mark>.
+- Every cipher and any plaintext you want to encrypt needs a <mark style="background: #D2B3FFA6;">key</mark>
+- Broken into two categories:
+	- <mark style="background: #D2B3FFA6;">Public</mark>: use the same key to encrypt and decrypt
+	- <mark style="background: #D2B3FFA6;">Public</mark> (asymmetric): use different keys to encrypt and decrypt
+- The number of possible keys to a cipher is a <mark style="background: #D2B3FFA6;">keyspace</mark>
 - 
+
+
 # Chapter 10 - 
 - 
 # Chapter 11 - 
