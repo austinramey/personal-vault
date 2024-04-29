@@ -9,3 +9,6 @@ create table contacts (name text, phone integer, email text);
 
 insert into contacts (name, phone, email) values('Austin', '123', 'gmail.com')
 ```
+
+- Accessing a certain database
+`sqlite3 [FILE NAME].db`
