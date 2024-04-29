@@ -15,6 +15,11 @@
 	- <mark style="background: #D2B3FFA6;">Public</mark>: use the same key to encrypt and decrypt
 	- <mark style="background: #D2B3FFA6;">Public</mark> (asymmetric): use different keys to encrypt and decrypt
 - The number of possible keys to a cipher is a <mark style="background: #D2B3FFA6;">keyspace</mark>
+- Ways that this helps with cybersecurity concepts
+	- Confidentiality: allows data to be kept safe from criminals
+	- Integrity: can use <mark style="background: #D2B3FFA6;">checksums</mark> to ensure that the same data is always sent back and forth
+	- Authentication: checks identity of both sender and receiver and ensures that only the intended recipients receive the message
+## Business and Security Requirements for Cryptography
 - 
 
 

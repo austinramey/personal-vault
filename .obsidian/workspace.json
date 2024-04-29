@@ -36,8 +36,19 @@
                 "file": "Books/Kim D, Solomon MG - Fundamentals of Information_240221_083826-1.pdf"
               }
             }
+          },
+          {
+            "id": "0a94b65945f7f136",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Books/Java How to Program.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -104,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersec/Final Exam Notes.md",
+                "file": "Books/Java How to Program.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersec/Final Exam Notes.md",
+                "file": "Books/Java How to Program.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersec/Final Exam Notes.md"
+                "file": "Books/Java How to Program.pdf"
               }
             }
           }
@@ -166,10 +176,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab4820685c460d3e",
+  "active": "0a94b65945f7f136",
   "lastOpenFiles": [
-    "Books/Kim D, Solomon MG - Fundamentals of Information_240221_083826-1.pdf",
     "Cybersec/Final Exam Notes.md",
+    "Books/Kim D, Solomon MG - Fundamentals of Information_240221_083826-1.pdf",
     "SAD/Final Exam Notes.md",
     "Books/SAD.pdf",
     "Java/Notes from Book.md",
