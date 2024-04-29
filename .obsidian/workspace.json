@@ -6,9 +6,10 @@
       {
         "id": "8340e41ea4954a07",
         "type": "tabs",
+        "dimension": 41.856925418569254,
         "children": [
           {
-            "id": "8d9279bef92ea2f2",
+            "id": "ab4820685c460d3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,6 +17,23 @@
                 "file": "Cybersec/Final Exam Notes.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "57788ae3a54df786",
+        "type": "tabs",
+        "dimension": 58.143074581430746,
+        "children": [
+          {
+            "id": "8d9279bef92ea2f2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Books/Kim D, Solomon MG - Fundamentals of Information_240221_083826-1.pdf"
               }
             }
           }
@@ -69,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -147,10 +166,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d9279bef92ea2f2",
+  "active": "ab4820685c460d3e",
   "lastOpenFiles": [
-    "SAD/Final Exam Notes.md",
+    "Books/Kim D, Solomon MG - Fundamentals of Information_240221_083826-1.pdf",
     "Cybersec/Final Exam Notes.md",
+    "SAD/Final Exam Notes.md",
     "Books/SAD.pdf",
     "Java/Notes from Book.md",
     "Java/Network Programming.md",
