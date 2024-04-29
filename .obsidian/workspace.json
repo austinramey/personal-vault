@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -149,9 +150,10 @@
   },
   "active": "b11ffb264d93f048",
   "lastOpenFiles": [
+    "Java/Network Programming.md",
+    "Books/Java How to Program, Early Objects, 11th Edition - Harvey Deitel, Paul J. Deitel.pdf",
     "Java/Lecture 21.pptx",
     "Cybersec/Chapter 12.md",
-    "Java/Network Programming.md",
     "Java",
     "Color sheet!.md",
     "OPMA/04-22.md",
