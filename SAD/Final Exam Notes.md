@@ -57,4 +57,36 @@
 | Product Back-log Grooming |         |              |        |
 - Team velocity
 	- Measure of how fast a groupof people can produce certain unit of work
-- How much work todi and le
+	- How much work can people do in a short time
+### Inputs:
+	- Team Velcoty
+	- Pridict backing
+	- busines sonditions
+	- Product backlog
+	- Business and ondiditio
+- Spring planning meething
+	- 1. What 
+		- Analyze and evaludate product backlog
+		- Select high priority backlog items based on velocity
+	- 2. How
+		- Create sprint backlog from stories in Part 1
+		- Confirm size
+		- Commit so sprint backlog
+### Output
+- Sprint backlog
+- Team commitment
+### Crystal Development Methodology
+- Lightweight and flexible approach to develop software
+- Consists of several agile processes including
+	- Clear
+	- Clear Yellow
+	- Crystal orange
+	- Etc.
+- Incorporates several essential properties:
+	- Teams are encouraged to work as a team, not individual
+	- Communication is the most critical aspect
+	- Simplicity is stored in terms of PM, requirements and other project elements
+### Dynamic Systems Development
+- Iterative, incremental approach based on four-phases
+	- Feasibility and business study
+	- 
