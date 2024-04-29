@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b11ffb264d93f048",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books/Java How to Program.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "2043f8d17201891d",
@@ -108,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -124,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Java How to Program.pdf",
+                "file": "Java/Notes from Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Java How to Program.pdf",
+                "file": "Java/Notes from Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Java How to Program.pdf"
+                "file": "Java/Notes from Book.md"
               }
             }
           }
@@ -186,12 +177,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b11ffb264d93f048",
+  "active": "8d9279bef92ea2f2",
   "lastOpenFiles": [
+    "Books/Java How to Program.pdf",
     "Java/Notes from Book.md",
     "Java/SQLite.md",
     "Java/Network Programming.md",
-    "Books/Java How to Program.pdf",
     "Books/Java How to Program, Early Objects, 11th Edition - Harvey Deitel, Paul J. Deitel.pdf",
     "Java/Lecture 21.pptx",
     "Cybersec/Chapter 12.md",
