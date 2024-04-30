@@ -59,9 +59,21 @@
                 "file": "Books/Java How to Program.pdf"
               }
             }
+          },
+          {
+            "id": "591ed998454cebcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Network Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Java How to Program.pdf",
+                "file": "Java/Network Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Java How to Program.pdf",
+                "file": "Java/Network Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Java How to Program.pdf"
+                "file": "Java/Network Programming.md"
               }
             }
           }
@@ -190,10 +202,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a94b65945f7f136",
+  "active": "f5b9a6f4769b2104",
   "lastOpenFiles": [
-    "Java/Final Notes from Book.md",
     "Books/Java How to Program.pdf",
+    "Java/Final Notes from Book.md",
     "Cybersec/Final Exam Notes.md",
     "Books/Kim D, Solomon MG - Fundamentals of Information_240221_083826-1.pdf",
     "SAD/Final Exam Notes.md",
