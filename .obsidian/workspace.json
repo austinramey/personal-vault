@@ -41,26 +41,6 @@
         "dimension": 58.143074581430746,
         "children": [
           {
-            "id": "8d9279bef92ea2f2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books/Kim D, Solomon MG - Fundamentals of Information_240221_083826-1.pdf"
-              }
-            }
-          },
-          {
-            "id": "0a94b65945f7f136",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books/Java How to Program.pdf"
-              }
-            }
-          },
-          {
             "id": "591ed998454cebcf",
             "type": "leaf",
             "state": {
@@ -72,8 +52,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -204,14 +182,14 @@
   },
   "active": "591ed998454cebcf",
   "lastOpenFiles": [
+    "Books/Kim D, Solomon MG - Fundamentals of Information_240221_083826-1.pdf",
+    "Java/Network Programming.md",
     "Java/Final Notes from Book.md",
     "Cybersec/Final Exam Notes.md",
     "Books/Java How to Program.pdf",
-    "Books/Kim D, Solomon MG - Fundamentals of Information_240221_083826-1.pdf",
     "SAD/Final Exam Notes.md",
     "Books/SAD.pdf",
     "Java/Notes from Book.md",
-    "Java/Network Programming.md",
     "Java/SQLite.md",
     "Books/Java How to Program, Early Objects, 11th Edition - Harvey Deitel, Paul J. Deitel.pdf",
     "Java/Lecture 21.pptx",
