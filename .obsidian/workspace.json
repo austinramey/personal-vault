@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d0ee0c7bb5248c3",
+            "id": "d20772d9af7cde57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4322 - Strategic Management/8-19.md",
+                "file": "4325 - Enterprise System Management/Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4322 - Strategic Management/8-19.md",
+                "file": "4325 - Enterprise System Management/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4322 - Strategic Management/8-19.md",
+                "file": "4325 - Enterprise System Management/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4322 - Strategic Management/8-19.md"
+                "file": "4325 - Enterprise System Management/Chapter 1.md"
               }
             }
           }
@@ -158,9 +158,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1d0ee0c7bb5248c3",
+  "active": "d20772d9af7cde57",
   "lastOpenFiles": [
     "4322 - Strategic Management/8-19.md",
+    "4325 - Enterprise System Management/Chapter 1.md",
     "4322 - Strategic Management",
     "4325 - Enterprise System Management/8-19.md",
     "Archive/SAD/Final Exam Notes.md",
