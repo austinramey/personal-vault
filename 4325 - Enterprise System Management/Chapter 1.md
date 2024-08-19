@@ -7,4 +7,7 @@ Two Perspectives of Leadership
 - External Control Perspective
 	- External forces determine the organization's success
 		- Economic downturns
-		- 
+- Romantic view
+	- A leader is the key force in the organization's success
+		- Steve Jobs
+- 
