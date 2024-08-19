@@ -39,6 +39,9 @@ Asset Classes
 - Derivatives
 
 ### Attributes of Investments
-- Direct Investment: direct personal investment
-- Indirect investment: using a broker to handle transactions
-- 
+- **Direct Investment**: direct personal investment
+- **Indirect investment**: using a broker to handle transactions
+- For Each, they can be in domestic of foreign
+	- **Domestic**: issued by domestic companies
+	- **Foreign**: issued by foreign companies
+
