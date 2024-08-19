@@ -23,4 +23,26 @@ Defining Strategy Management
 	- Allocate necessary resources
 	- Design the org to bring intended strats to reality
 
-Two fundam
+Two fundamental Questions
+1. How should we compete to create a competitive advantage in the mktplace
+2. How can we create competitive advantages in the mktplace that are unique, valuable, and difficult for rivals to copy or substitute
+
+Key attributes to strategic management
+- Directs organization
+- Includes multiple stakeholders
+- Needs to incorporate short and long term perspectives
+- Recognizes trade-offs between efficiency and effectiveness
+
+Managers need to be ambidextrous
+- Focus on long term effectiveness
+	- Expand product scope by exploring new opportunities
+- At the same time
+	- Focus on short-term effectiveness
+
+Intended vs Realized stats
+Intended
+- Organziation decisssions are determined by analysis
+- Rarely survive in the original form
+Realized
+- Much different
+- Changes a lot by the end
