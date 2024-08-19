@@ -45,3 +45,15 @@ Asset Classes
 	- **Domestic**: issued by domestic companies
 	- **Foreign**: issued by foreign companies
 
+### Types of Investments
+- Fixed-Income securities
+	- Bonds
+	- Convertible Securities
+	- Preferred Stock
+	- Question: Why fixed incomes are attractive during periods of high interest rates?
+- Common Stock
+	- Represents an **ownership** share of corps
+	- Return comes through **dividends** and **capital gains**
+	- Capital gain might be **realized** or **unrealized**
+
+
