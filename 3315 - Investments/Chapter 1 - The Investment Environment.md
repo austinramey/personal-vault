@@ -56,4 +56,6 @@ Asset Classes
 	- Return comes through **dividends** and **capital gains**
 	- Capital gain might be **realized** or **unrealized**
 
-
+### Example
+1. Capital gain = 172.12 - 119.62 = 52.50
+2. Total dollar return = 
