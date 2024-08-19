@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d20772d9af7cde57",
+            "id": "1a3f2d9b76ba825a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4325 - Enterprise System Management/Chapter 1.md",
+                "file": "3315 - Investments/Syllabus.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4325 - Enterprise System Management/Chapter 1.md",
+                "file": "3315 - Investments/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4325 - Enterprise System Management/Chapter 1.md",
+                "file": "3315 - Investments/Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4325 - Enterprise System Management/Chapter 1.md"
+                "file": "3315 - Investments/Syllabus.md"
               }
             }
           }
@@ -154,16 +154,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d20772d9af7cde57",
+  "active": "1a3f2d9b76ba825a",
   "lastOpenFiles": [
-    "4322 - Strategic Management/8-19.md",
     "4325 - Enterprise System Management/Chapter 1.md",
+    "3315 - Investments/Syllabus.md",
+    "3315 - Investments",
+    "4322 - Strategic Management/Syllabus.md",
     "4322 - Strategic Management",
-    "4325 - Enterprise System Management/8-19.md",
+    "4325 - Enterprise System Management/Syllabus.md",
     "Archive/SAD/Final Exam Notes.md",
     "Archive/SAD/Chapter 11.md",
     "Archive/OPMA/Quality MGMT and Six Sigma.md",
@@ -187,7 +188,6 @@
     "Java/Lecture 21.pptx",
     "Archive/Java",
     "Color sheet!.md",
-    "Books/Business Communication_ Developing Leaders for a Networked World.epub",
     "Drawing 2024-04-17 13.50.28.excalidraw.md",
     "Excalidraw/Drawing 2024-04-10 08.27.45.excalidraw.md",
     "Books/asdfadsfasfd.md",
