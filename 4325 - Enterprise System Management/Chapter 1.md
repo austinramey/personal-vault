@@ -10,4 +10,17 @@ Two Perspectives of Leadership
 - Romantic view
 	- A leader is the key force in the organization's success
 		- Steve Jobs
-- 
+
+Defining Strategy Management
+- Strategic management involves
+- Analysis
+	- Strategic Goals
+	- Internal and external environment
+- Decisions - Formulation
+	- What industries should we compete in?
+	- How should we compete in those industries?
+- Actions - Implementation of strategy
+	- Allocate necessary resources
+	- Design the org to bring intended strats to reality
+
+Two fundam
