@@ -38,3 +38,7 @@ Asset Classes
 - Equity
 - Derivatives
 
+### Attributes of Investments
+- Direct Investment: direct personal investment
+- Indirect investment: using a broker to handle transactions
+- 
