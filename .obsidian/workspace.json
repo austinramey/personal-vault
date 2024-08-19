@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7e2fbac7b8379f9c",
+        "id": "072c98112ca4f512",
         "type": "tabs",
         "children": [
           {
-            "id": "c7d8df848de09f24",
+            "id": "5121fe421faade88",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Enterprise System Management/8-19.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -32,12 +36,8 @@
             "id": "f5b9a6f4769b2104",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Network Programming.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -62,8 +62,19 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "91e61c52a6065f60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Network Programming.md",
+                "file": "Enterprise System Management/8-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Network Programming.md",
+                "file": "Enterprise System Management/8-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Network Programming.md"
+                "file": "Enterprise System Management/8-19.md"
               }
             }
           }
@@ -145,8 +156,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f5b9a6f4769b2104",
+  "active": "5121fe421faade88",
   "lastOpenFiles": [
+    "Enterprise System Management/8-19.md",
+    "Enterprise System Management",
+    "Untitled.canvas",
     "Java/Network Programming.md",
     "Cybersec/Final Exam Notes.md",
     "Books/Kim D, Solomon MG - Fundamentals of Information_240221_083826-1.pdf",
