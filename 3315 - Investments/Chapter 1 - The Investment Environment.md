@@ -55,7 +55,18 @@ Asset Classes
 	- Represents an **ownership** share of corps
 	- Return comes through **dividends** and **capital gains**
 	- Capital gain might be **realized** or **unrealized**
+- Derivatives
+	- Include options and futures contracts
+	- Securities that derive their value from some underlying asset (share of stock or commodity)
+- Mutual funds
+	- Portfolio of stocks, bonds and other securities created by pooling funds of many different investors
+	- Allow investors to construct diversified portfolios without investing a lot of money
+		- Passive (index) funds vs active mutual funds
+	- Expense ratio: a fee charged to investors based on a percentage of the asset invested in a fund
 
 ### Example
 1. Capital gain = 172.12 - 119.62 = 52.50
-2. Total dollar return = 
+2. Total dollar return = income + capital gain
+= 3.33+52.50=56.33
+3. Rate of return = Total dollar return/capital gain = 56.33/119.62 = 47.10%
+
