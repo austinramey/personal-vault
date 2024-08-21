@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3315 - Investments/Chapter 1 - The Investment Environment.md",
+                "file": "4325 - Enterprise System Management/Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3315 - Investments/Chapter 1 - The Investment Environment.md",
+                "file": "4325 - Enterprise System Management/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3315 - Investments/Chapter 1 - The Investment Environment.md",
+                "file": "4325 - Enterprise System Management/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3315 - Investments/Chapter 1 - The Investment Environment.md"
+                "file": "4325 - Enterprise System Management/Chapter 1.md"
               }
             }
           }
@@ -159,15 +158,16 @@
   },
   "active": "b4cedf71691c28e8",
   "lastOpenFiles": [
-    "School Links.md",
+    "4325 - Enterprise System Management/4325 - The Digital Transformation Playbook.pdf",
+    "4325 - Enterprise System Management/Chapter 1.md",
+    "4325 - Enterprise System Management/Syllabus.md",
+    "4322 - Strategic Management/Syllabus.md",
     "3315 - Investments/Chapter 1 - The Investment Environment.md",
+    "School Links.md",
     "3315 - Investments/Syllabus.md",
     "Untitled Kanban.md",
-    "4325 - Enterprise System Management/Chapter 1.md",
     "3315 - Investments",
-    "4322 - Strategic Management/Syllabus.md",
     "4322 - Strategic Management",
-    "4325 - Enterprise System Management/Syllabus.md",
     "Archive/SAD/Final Exam Notes.md",
     "Archive/SAD/Chapter 11.md",
     "Archive/OPMA/Quality MGMT and Six Sigma.md",
@@ -188,7 +188,6 @@
     "Books/SAD.pdf",
     "Books/Java How to Program, Early Objects, 11th Edition - Harvey Deitel, Paul J. Deitel.pdf",
     "Java/Lecture 21.pptx",
-    "Archive/Java",
     "Color sheet!.md",
     "Drawing 2024-04-17 13.50.28.excalidraw.md",
     "Excalidraw/Drawing 2024-04-10 08.27.45.excalidraw.md",
