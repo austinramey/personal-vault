@@ -16,7 +16,7 @@
 - Knowledge workers and other intellectual assets drive competitive advantage and wealth creation
 - Networks and relationships + technology = enhanced collaboration
 
-## Strategy Formulation
+# Strategy Formulation
 Corporate strategy and business strategy sound the same
 But they are not!
 - Business-level strategy: how to compete in the given business field
@@ -29,3 +29,23 @@ But they are not!
 ### Entrepreneurial strategy and competitive dynamics
 - How do we recognize viable opportunities?
 - How do we formulate effective strategies?
+
+# Strategy Implementation
+**Strategy implementation** takes action to implement the formulated strategy
+- Ensure proper strategic control systems
+- Establishing appropriate org design
+- Coordinate activities with suppliers, customers, alliance partners
+- Leadership ensures commitment to excellence and ethical behavior
+- Promote learning an continuous improvement
+- Act entrepreneurial in creating new opportunities
+## Strategic control and corporate governance
+- Exercise Informal control
+	- Monitor and scan the environment
+	- Respond effectively to threats and opportunities
+- Exercise behavioral control
+	- Proper balance of rewards and incentives
+	- Appropriate cultures and boundaries
+
+## Creating effective organizational design
+- Org structures must be consistent with strategy
+- Org boundaries must be flexible and permeable
