@@ -81,8 +81,11 @@ Asset Classes
 - **Capital gain**: amount gained from selling a CA that exceeds its original purchase price
 ## Example
 1. Joni and Cara taxes:
-		- Joni: (.1 * 9525) + (.12*29174*)
-1. 
+	- Joni: (.1 * 9525) + (.12 * 29174) + (.22 * 50000-38700) = 6939.50
+		- Cara: (.1 * 9525) + (.12 * 38700-9526) + (.22 * 82500-38701) + (.24 * 100000-82501) = 18288.92
+2. 100,000 / 50,000 = 2
+3. Cara: 18.288%; Joni: 13.879%, Difference of 4.409%
+4. Due to the progressive nature of income taxes, that means that Cara pays a higher fraction of her income in taxes
 # Types of Investments
 - Fixed-Income securities
 	- Bonds
