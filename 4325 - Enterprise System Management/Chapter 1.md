@@ -53,4 +53,16 @@ Realized
 		- EPM: Software that helps plan, budget, predict and report on an org's financial results
 	- Ties together multiple business process and enable the flow of data between them
 	- Eliminate data duplication and provide data integrity
-- 
+- What are the day-to-day ERP business activities?
+	- Accounting, finance, procurement, etc
+- What are the ERP models?
+	- Complete, integrated platforms
+	- Central hub for end-to-end workflow and data
+	- Either the premises or on the cloud
+- Provides transparency of the business process by tracking production, logistics and financials
+## ERP Characteristics
+- Integrates with front office applications to build holistic views of customers
+- Applications are embedded with next gen tech
+## ERP Fundamentals
+- Designed around a single DB
+	- For normalization, common defs and user expe
