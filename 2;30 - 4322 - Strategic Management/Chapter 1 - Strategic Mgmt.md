@@ -95,4 +95,20 @@ But they are not!
 - Firms can measure a **triple bottom line**, assessing <mark style="background: #D2B3FFA6;">financial</mark>, <mark style="background: #D2B3FFA6;">social</mark> AND <mark style="background: #D2B3FFA6;">environmental</mark> performance
 ## Empowered Strategic Management
 - **Strategic management** requires an integrative view of the organization
-- ALL functional areas and activities must work tog
+- ALL functional areas and activities must work together to achieve goals and objectives
+- Leaders are needed throughout:
+	- **Local line leaders** have profit and loss responsibility
+	- **Executive leaders** champion and guide ideas
+	- **Internal networks** have conviction and clarity of ideas
+## Coherence in Strategic Direction
+- Orgs express priorities best through stated goals and objectives that form a **hierarchy of goals**
+	- **Vision** evokes powerful and compelling mental images of a shared future
+	- **Mission** encompasses the organization's current purpose, basis of competition, and competitive advantage
+	- **Strategic objectives** operationalize the mission statement with specific yardsticks
+**Organizational vision**
+- A "massively inspiring" goal, overarching, long term
+- A destination driven by and evoking passion
+- Developed and implemented by leaders
+- Fundamental statement of an org's values, and goals
+- Captures hearts and minds of employees
+- Can backfire and erode a company's credibility
