@@ -86,7 +86,7 @@ Realized
 
 ## History of ERP
 - The economic order quality (EOQ) model - 1913
-	- Paper based manufacturing system for producting scheduling
+	- Paper based manufacturing system for producing scheduling
 - Material requirements planning  - 1964
 	- Combined EOQ concepts with the mainframe computer
 - Manufacturing resource planning (MRP 2) - 1983
