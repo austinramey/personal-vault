@@ -45,7 +45,7 @@ Asset Classes
 	- **Domestic**: issued by domestic companies
 	- **Foreign**: issued by foreign companies
 
-### Types of Investments
+# Types of Investments
 - Fixed-Income securities
 	- Bonds
 	- Convertible Securities
@@ -58,11 +58,17 @@ Asset Classes
 - Derivatives
 	- Include options and futures contracts
 	- Securities that derive their value from some underlying asset (share of stock or commodity)
-- Mutual funds
-	- Portfolio of stocks, bonds and other securities created by pooling funds of many different investors
-	- Allow investors to construct diversified portfolios without investing a lot of money
-		- Passive (index) funds vs active mutual funds
-	- Expense ratio: a fee charged to investors based on a percentage of the asset invested in a fund
+- Alternative Groups
+	- Mutual funds
+		- Portfolio of stocks, bonds and other securities created by pooling funds of many different investors
+		- Allow investors to construct diversified portfolios without investing a lot of money
+			- Passive (index) funds vs active mutual funds
+		- Expense ratio: a fee charged to investors based on a percentage of the asset invested in a fund
+	- Exchange-traded funds (ETFs)
+		- Similar to mutual funds, except ETF shares trade on exchanges
+	- Hedge Funds
+		- Funds that pool resources from diff. investors, but have higher minimum investments, while being less regulated
+		- Charge much hig
 
 ### Example
 1. Capital gain = 172.12 - 119.62 = 52.50
@@ -70,3 +76,10 @@ Asset Classes
 = 3.33+52.50=56.33
 3. Rate of return = Total dollar return/capital gain = 56.33/119.62 = 47.10%
 
+# Types of Investors
+## Individual Investors
+- Invest for personal financial goals (retirement, mortgage, etc)
+## Institutional Investors
+- Paid to manage other people's money
+- Trade large volumes of securities
+- Include: 
