@@ -45,7 +45,21 @@ But they are not!
 - Exercise behavioral control
 	- Proper balance of rewards and incentives
 	- Appropriate cultures and boundaries
-
 ## Creating effective organizational design
 - Org structures must be consistent with strategy
 - Org boundaries must be flexible and permeable
+## Creating a learning organization and an ethical organizaiton
+- Effecitve learders:
+	- Set a direction
+	- Design the org
+	- Develip and org committed to excellence and ethical behavior
+- Create a learning environment
+
+# Corporate Governance
+## Board of Directors
+- Elected reps of the owners
+- Ensure interest and motives of mgmt are aligned with those of the owners
+	- Create an effective and engaged board
+	- Address shareholder activism
+	- Provide proper managerial rewards and incentives
+	- Establish external control mechanisms
