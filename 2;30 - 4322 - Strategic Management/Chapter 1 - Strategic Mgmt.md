@@ -79,7 +79,7 @@ But they are not!
 - Community
 	- Good citizenship behavior such as charities, employment, not polluting the environment
 
-## Two views of Stakeholder Managment
+## Two views of Stakeholder Management
 ### Zero Sum
 - Stakeholders compete for attention and resources
 - The gain of one is a loss to the other
@@ -89,3 +89,10 @@ But they are not!
 - Stakeholders receive mutual benefits
 - More beneficial version of the view of stakeholders
 
+# Social responsibility and Environmental Sustainability
+- Firms have more than one stakeholder and must go beyond a focus solely on financial results
+- **Social responsibility** is the expectation that businesses or individuals will strive to improve the overall welfare and society
+- Firms can measure a **triple bottom line**, assessing <mark style="background: #D2B3FFA6;">financial</mark>, <mark style="background: #D2B3FFA6;">social</mark> AND <mark style="background: #D2B3FFA6;">environmental</mark> performance
+## Empowered Strategic Management
+- **Strategic management** requires an integrative view of the organization
+- ALL functional areas and activities must work tog
