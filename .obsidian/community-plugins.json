@@ -2,5 +2,6 @@
   "obsidian-git",
   "obsidian-kanban",
   "highlightr-plugin",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "autocorrect-formatter"
 ]
