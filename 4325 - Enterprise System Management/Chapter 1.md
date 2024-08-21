@@ -90,4 +90,18 @@ Realized
 - Material requirements planning  - 1964
 	- Combined EOQ concepts with the mainframe computer
 - Manufacturing resource planning (MRP 2) - 1983
-	- "modules" as a key software archi
+	- "modules" as a key software architectural component
+	- Integrated core manufacturing components
+- Enterprose Resource Planing
+	- Able to handle business activities beyond manufacturing - to finance, customer relationship management, human resources data, etc.
+
+## ERP Deployment Models
+- From on-premise to the cloud
+	- ERP tech embraced the Internet
+		- New features
+		- Modern security demands
+		- Emerging tech
+- A new ERP model
+	- SaaS
+		- Reduced operation expenses
+		- Reduced capital expenses
