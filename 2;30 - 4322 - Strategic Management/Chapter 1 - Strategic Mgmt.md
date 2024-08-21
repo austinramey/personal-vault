@@ -63,3 +63,29 @@ But they are not!
 	- Address shareholder activism
 	- Provide proper managerial rewards and incentives
 	- Establish external control mechanisms
+## Other stakeholders
+- Stockholders
+	- Dividends, capital appreciation
+- Employees
+	- Wages, benefits, safe working environment, job security
+- Suppliers
+	- Payment on time, assurance of continued relationship
+- Creditors
+	- Payment of interest, repayment of principal
+- Customers
+	- Value, warranties
+- Government
+	- taxes, compliance with regulations
+- Community
+	- Good citizenship behavior such as charities, employment, not polluting the environment
+
+## Two views of Stakeholder Managment
+### Zero Sum
+- Stakeholders compete for attention and resources
+- The gain of one is a loss to the other
+- Toxic view, should be routed out
+### Symbiosis
+- Stakeholders are dependent upon each other for success and well-being
+- Stakeholders receive mutual benefits
+- More beneficial version of the view of stakeholders
+
