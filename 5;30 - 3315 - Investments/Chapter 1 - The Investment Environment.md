@@ -79,8 +79,10 @@ Asset Classes
 ## Capital Gains and Losses
 - **Capital asset**: property owned and used by the taxpayer for personal reasons
 - **Capital gain**: amount gained from selling a CA that exceeds its original purchase price
-- 
-
+## Example
+1. Joni and Cara taxes:
+		- Joni: (.1 * 9525) + (.12*29174*)
+1. 
 # Types of Investments
 - Fixed-Income securities
 	- Bonds
