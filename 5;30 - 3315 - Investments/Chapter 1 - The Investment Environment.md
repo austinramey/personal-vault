@@ -86,6 +86,14 @@ Asset Classes
 2. 100,000 / 50,000 = 2
 3. Cara: 18.288%; Joni: 13.879%, Difference of 4.409%
 4. Due to the progressive nature of income taxes, that means that Cara pays a higher fraction of her income in taxes
+## Example 2
+- Imagine that James, a single person has other taxable income totaling $75,000. James sold 500 shares of stock at $12 per share. He purchased this stock at $10 per share. 
+1. If James held the asset for more than 12 months, what is his total tax?
+2. If James held the asset for less than 12 months, what is his total tax?
+3. If in addition to his $75,000 income, he earns $1,000 as interest income, what is his total tax? held the asset for more than 12 months.
+4. If James decide to hold the asset and not sell it, does he need to pay tax on capital gain?
+
+1. 
 # Types of Investments
 - Fixed-Income securities
 	- Bonds
