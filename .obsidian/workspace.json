@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4325 - Enterprise System Management/Chapter 1.md",
+                "file": "2;30 - 4322 - Strategic Management/Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4325 - Enterprise System Management/Chapter 1.md",
+                "file": "2;30 - 4322 - Strategic Management/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4325 - Enterprise System Management/Chapter 1.md",
+                "file": "2;30 - 4322 - Strategic Management/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4325 - Enterprise System Management/Chapter 1.md"
+                "file": "2;30 - 4322 - Strategic Management/Chapter 1.md"
               }
             }
           }
@@ -158,17 +158,18 @@
   },
   "active": "b4cedf71691c28e8",
   "lastOpenFiles": [
+    "2;30 - 4322 - Strategic Management/Syllabus.md",
+    "2;30 - 4322 - Strategic Management/Chapter 1.md",
+    "1;00 - 4325 - Enterprise System Management/Chapter 1.md",
     "Untitled.md",
-    "4325 - Enterprise System Management/Chapter 1.md",
-    "4325 - Enterprise System Management/4325 - The Digital Transformation Playbook.pdf",
-    "4325 - Enterprise System Management/Syllabus.md",
-    "4322 - Strategic Management/Syllabus.md",
-    "3315 - Investments/Chapter 1 - The Investment Environment.md",
+    "1;00 - 4325 - Enterprise System Management/4325 - The Digital Transformation Playbook.pdf",
+    "1;00 - 4325 - Enterprise System Management/Syllabus.md",
+    "5;30 - 3315 - Investments/Chapter 1 - The Investment Environment.md",
     "School Links.md",
-    "3315 - Investments/Syllabus.md",
+    "5;30 - 3315 - Investments/Syllabus.md",
     "Untitled Kanban.md",
-    "3315 - Investments",
-    "4322 - Strategic Management",
+    "5;30 - 3315 - Investments",
+    "2;30 - 4322 - Strategic Management",
     "Archive/SAD/Final Exam Notes.md",
     "Archive/SAD/Chapter 11.md",
     "Archive/OPMA/Quality MGMT and Six Sigma.md",
@@ -182,7 +183,7 @@
     "Archive/Cybersec/Chapter 12.md",
     "Archive/Cybersec/Final Exam Notes.md",
     "Archive",
-    "4325 - Enterprise System Management",
+    "1;00 - 4325 - Enterprise System Management",
     "Untitled.canvas",
     "Books/Kim D, Solomon MG - Fundamentals of Information_240221_083826-1.pdf",
     "Books/Java How to Program.pdf",
@@ -193,7 +194,6 @@
     "Drawing 2024-04-17 13.50.28.excalidraw.md",
     "Excalidraw/Drawing 2024-04-10 08.27.45.excalidraw.md",
     "Books/asdfadsfasfd.md",
-    "Excalidraw/Drawing 2024-04-17 19.58.21.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-17 13.51.42.excalidraw.md"
+    "Excalidraw/Drawing 2024-04-17 19.58.21.excalidraw.md"
   ]
 }
