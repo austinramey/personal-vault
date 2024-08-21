@@ -65,4 +65,29 @@ Realized
 - Applications are embedded with next gen tech
 ## ERP Fundamentals
 - Designed around a single DB
-	- For normalization, common defs and user expe
+	- For normalization, common defs and user experiences
+	- Connecting the people who use them
+
+## What ERP is
+- The vehicle for integrating people, processes and technologies across the enterprise
+- Collects, organizes, analyzes and distributes data to every individual and system
+- Ensures that all data fields and attributes roll up to the correct account in the general ledger
+- *Key principle:* the central collection of data for wide distribution
+
+## The benefits of ERP-induced improved workflows
+- Improved business insight
+- Lower operation costs
+- Enhanced collaboration
+- Improved efficiency
+- Consistent infrastructure
+- Higher user-adoption rates
+- Reduced risk
+- Lower mgmt and operation costs
+
+## History of ERP
+- The economic order quality (EOQ) model - 1913
+	- Paper based manufacturing system for producting scheduling
+- Material requirements planning  - 1964
+	- Combined EOQ concepts with the mainframe computer
+- Manufacturing resource planning (MRP 2) - 1983
+	- "modules" as a key software archi
