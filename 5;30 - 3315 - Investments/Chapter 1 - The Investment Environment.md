@@ -38,12 +38,32 @@ Asset Classes
 - Equity
 - Derivatives
 
-### Attributes of Investments
+# Attributes of Investments
 - **Direct Investment**: direct personal investment
 - **Indirect investment**: using a broker to handle transactions
 - For Each, they can be in domestic of foreign
 	- **Domestic**: issued by domestic companies
 	- **Foreign**: issued by foreign companies
+- What is risk?
+	- **Uncertainty** surrounding the return that a particular investment will generate:
+		- **Low-risk:** more predictable, lower average return
+		- **High-risk**: less predictable, higher average return
+	- **Diversification:** holding different types of assets in an investment portfolio
+- Investment Goal
+	1. Short-term
+		- Maturities of **one year or less**
+		- Maturities of **longer than one year**
+## Short-Term Investments
+- Main characteristics
+	1. Have a life of one year or less
+	2. Little risk
+	3. Provides liquidity
+		- Planning for and providing for **adequate liquidity** in the event of **unexpected expenses/opportunities** is an important plan
+		- Large part of investment plan is planning for **adequate liquidity** in the event of **unexpected expenses or opportunities**
+		- **Liquidity:** ability to convert an investment into cash quickly, with no drop in value
+- Advantages and Disadvantages
+	- High liquidity, low risk of default
+	- Low levels of return, loss of potential purchasing power from inflation
 
 # Types of Investments
 - Fixed-Income securities
