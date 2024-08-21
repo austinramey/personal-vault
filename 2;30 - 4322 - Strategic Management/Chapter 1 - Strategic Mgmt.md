@@ -15,3 +15,17 @@
 #### Assessing a firm's intellectual assets
 - Knowledge workers and other intellectual assets drive competitive advantage and wealth creation
 - Networks and relationships + technology = enhanced collaboration
+
+## Strategy Formulation
+Corporate strategy and business strategy sound the same
+But they are not!
+- Business-level strategy: how to compete in the given business field
+- Corporate-level strategy: What businesses to compete in; how businesses can be managed to achieve synergy
+- International strategy: What strategies are needed as business ventures beyond national boundaries
+- Entrepreneurial initiatives how can businesses create new value?
+### Formulating international strategy
+- What is the appropriate entry strategy?
+- How do we go about attaining competitive advantage in international markets?
+### Entrepreneurial strategy and competitive dynamics
+- How do we recognize viable opportunities?
+- How do we formulate effective strategies?
