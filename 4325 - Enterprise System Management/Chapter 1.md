@@ -46,3 +46,10 @@ Intended
 Realized
 - Much different
 - Changes a lot by the end
+
+# Enterprise Resource Planning
+- A type of software that comps use to manage day-to-day business activities
+	- *Enterprise performance management* is included in ERP
+		- EPM: Software that helps plan, budget, predict and report on an org's financial results
+	- Ties together multiple business process and enable the flow ifdata between tem
+	- El
