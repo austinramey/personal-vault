@@ -13,7 +13,7 @@
 	- Income from investment
 	- Increase in value of investment
 ### Attributes of Investments
-- Investmnet depends on **resources,** **goal**, and **willingness to take risk**
+- Investment depends on **resources,** **goal**, and **willingness to take risk**
 
 ### Different Types of Assets
 1. **Real assets**
@@ -66,9 +66,11 @@ Asset Classes
 		- Expense ratio: a fee charged to investors based on a percentage of the asset invested in a fund
 	- Exchange-traded funds (ETFs)
 		- Similar to mutual funds, except ETF shares trade on exchanges
+		- Instead of request being put in the next few days, these typically happen during the day
 	- Hedge Funds
 		- Funds that pool resources from diff. investors, but have higher minimum investments, while being less regulated
-		- Charge much hig
+		- Charge much higher fees than mutual funds
+			- Usually: Investors pay fees equal to 2% of assets invested plus 20% of any gains the fund may achieve
 
 ### Example
 1. Capital gain = 172.12 - 119.62 = 52.50
@@ -82,4 +84,8 @@ Asset Classes
 ## Institutional Investors
 - Paid to manage other people's money
 - Trade large volumes of securities
-- Include: 
+- Include: banks, life insurance companies, mutual funds, pension funds
+### Structure of Investment Process
+![[Pasted image 20240821174024.png]]
+### Reminder: Attributes of Investments
+- Investment depends on resources, goal, and willingness to take risk
