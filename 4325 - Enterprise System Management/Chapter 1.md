@@ -51,5 +51,6 @@ Realized
 - A type of software that comps use to manage day-to-day business activities
 	- *Enterprise performance management* is included in ERP
 		- EPM: Software that helps plan, budget, predict and report on an org's financial results
-	- Ties together multiple business process and enable the flow ifdata between tem
-	- El
+	- Ties together multiple business process and enable the flow of data between them
+	- Eliminate data duplication and provide data integrity
+- 
