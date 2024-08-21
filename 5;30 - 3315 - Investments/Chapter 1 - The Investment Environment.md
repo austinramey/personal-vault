@@ -64,6 +64,22 @@ Asset Classes
 - Advantages and Disadvantages
 	- High liquidity, low risk of default
 	- Low levels of return, loss of potential purchasing power from inflation
+- Used for:
+	- Savings
+		- Emphasis on safety and security instead of high yield
+	- Investment
+		- Yield is often as important as sefety
+		- Used as component of diversified portfolio
+		- Used as temporary outlet waiting for attractive permanent investments
+# Personal Taxes
+## Ordinary income
+- No matter type, it is taxed at one of 7 rates: 10, 12, 22, 24, 32, 35, or 37
+- There is one **tax-rate structure** for taxpayers who file **individual returns** and another for those who **file join returns** with a spouse
+![[Pasted image 20240821180843.png]]
+## Capital Gains and Losses
+- **Capital asset**: property owned and used by the taxpayer for personal reasons
+- **Capital gain**: amount gained from selling a CA that exceeds its original purchase price
+- 
 
 # Types of Investments
 - Fixed-Income securities
