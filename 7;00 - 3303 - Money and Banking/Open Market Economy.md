@@ -3,7 +3,7 @@
 	- Open 100%
 	- Closed 100% (Autarky?)
 ## Command vs Market
-- Market vs non-market
+- Market vs command
 	- Market: any mechanism that brings buyers and sellers to an agreement
 	- Market requires
 		- 2 sides
@@ -15,3 +15,9 @@
 			- Willingness to sell
 			- Properly able to convey ownership of something
 		- DOES NOT require a location
+	- Market Price: A price that is finally agreed upon
+	- Market transaction: A transaction that happens when a price is agreed upon
+- In a market economy: 
+	- You own your labor
+	- You own your own property
+	- No one can impose on you
