@@ -13,9 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7;00 - 3303 - Money and Banking/Syllabus.md",
+                "file": "7;00 - 3303 - Money and Banking/Chapter 2 - Overview of Financial System.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "190dbc5f3936fc09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e59ae327b6d0c4c7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "7;00 - 3303 - Money and Banking/Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition (2019, Pearson Education Limited) - libgen.li.pdf"
               }
             }
           }
@@ -78,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -94,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7;00 - 3303 - Money and Banking/Syllabus.md",
+                "file": "7;00 - 3303 - Money and Banking/Chapter 2 - Overview of Financial System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7;00 - 3303 - Money and Banking/Syllabus.md",
+                "file": "7;00 - 3303 - Money and Banking/Chapter 2 - Overview of Financial System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7;00 - 3303 - Money and Banking/Syllabus.md"
+                "file": "7;00 - 3303 - Money and Banking/Chapter 2 - Overview of Financial System.md"
               }
             }
           }
@@ -159,6 +176,7 @@
   "active": "b4cedf71691c28e8",
   "lastOpenFiles": [
     "7;00 - 3303 - Money and Banking/Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition (2019, Pearson Education Limited) - libgen.li.pdf",
+    "7;00 - 3303 - Money and Banking/Chapter 2 - Overview of Financial System.md",
     "7;00 - 3303 - Money and Banking/Syllabus.md",
     "Pasted Pics/Pasted image 20240821174024.png",
     "Pasted Pics",
@@ -195,7 +213,6 @@
     "Books/Kim D, Solomon MG - Fundamentals of Information_240221_083826-1.pdf",
     "Books/Java How to Program.pdf",
     "Color sheet!.md",
-    "Drawing 2024-04-17 13.50.28.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-10 08.27.45.excalidraw.md"
+    "Drawing 2024-04-17 13.50.28.excalidraw.md"
   ]
 }
