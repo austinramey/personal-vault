@@ -11,9 +11,11 @@
             "id": "b4cedf71691c28e8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "7;00 - 3303 - Money and Banking/Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition (2019, Pearson Education Limited) - libgen.li.pdf"
+                "file": "7;00 - 3303 - Money and Banking/Syllabus.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7;00 - 3303 - Money and Banking/Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition (2019, Pearson Education Limited) - libgen.li.pdf",
+                "file": "7;00 - 3303 - Money and Banking/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7;00 - 3303 - Money and Banking/Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition (2019, Pearson Education Limited) - libgen.li.pdf",
+                "file": "7;00 - 3303 - Money and Banking/Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7;00 - 3303 - Money and Banking/Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition (2019, Pearson Education Limited) - libgen.li.pdf"
+                "file": "7;00 - 3303 - Money and Banking/Syllabus.md"
               }
             }
           }
@@ -156,8 +158,8 @@
   },
   "active": "b4cedf71691c28e8",
   "lastOpenFiles": [
-    "7;00 - 3303 - Money and Banking/Syllabus.md",
     "7;00 - 3303 - Money and Banking/Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition (2019, Pearson Education Limited) - libgen.li.pdf",
+    "7;00 - 3303 - Money and Banking/Syllabus.md",
     "Pasted Pics/Pasted image 20240821174024.png",
     "Pasted Pics",
     "Pasted Pics/Pasted image 20240821182154.png",
