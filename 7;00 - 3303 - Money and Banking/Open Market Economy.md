@@ -21,3 +21,8 @@
 	- You own your labor
 	- You own your own property
 	- No one can impose on you
+- In a command economy:
+	- Another entity owns your labor
+	- Another entity owns your property
+	- This 3rd party can impose on all that you do and own
+	- Greater scarcity
