@@ -26,3 +26,4 @@
 	- Another entity owns your property
 	- This 3rd party can impose on all that you do and own
 	- Greater scarcity
+- Economic agent: someone who engages in any kind of economic activity
