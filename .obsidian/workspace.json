@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5;30 - 3315 - Investments/Chapter 1 - The Investment Environment.md",
+                "file": "Night - 3303 - Money and Banking/Syllabus.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5;30 - 3315 - Investments/Chapter 1 - The Investment Environment.md",
+                "file": "Night - 3303 - Money and Banking/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5;30 - 3315 - Investments/Chapter 1 - The Investment Environment.md",
+                "file": "Night - 3303 - Money and Banking/Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5;30 - 3315 - Investments/Chapter 1 - The Investment Environment.md"
+                "file": "Night - 3303 - Money and Banking/Syllabus.md"
               }
             }
           }
@@ -159,6 +158,9 @@
   },
   "active": "b4cedf71691c28e8",
   "lastOpenFiles": [
+    "5;30 - 3315 - Investments/Chapter 1 - The Investment Environment.md",
+    "Night - 3303 - Money and Banking/Syllabus.md",
+    "Night - 3303 - Money and Banking",
     "Pasted image 20240821182154.png",
     "Pasted image 20240821180843.png",
     "Pasted image 20240821174024.png",
@@ -168,7 +170,6 @@
     "Untitled.md",
     "1;00 - 4325 - Enterprise System Management/4325 - The Digital Transformation Playbook.pdf",
     "1;00 - 4325 - Enterprise System Management/Syllabus.md",
-    "5;30 - 3315 - Investments/Chapter 1 - The Investment Environment.md",
     "School Links.md",
     "5;30 - 3315 - Investments/Syllabus.md",
     "Untitled Kanban.md",
@@ -193,7 +194,6 @@
     "Books/Java How to Program.pdf",
     "Books/SAD.pdf",
     "Books/Java How to Program, Early Objects, 11th Edition - Harvey Deitel, Paul J. Deitel.pdf",
-    "Java/Lecture 21.pptx",
     "Color sheet!.md",
     "Drawing 2024-04-17 13.50.28.excalidraw.md",
     "Excalidraw/Drawing 2024-04-10 08.27.45.excalidraw.md",
