@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1;00 - 4325 - Enterprise System Management/Chapter 1 - Cont..md",
+                "file": "2;30 - 4322 - Strategic Management/Chapter 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1;00 - 4325 - Enterprise System Management/Chapter 1 - Cont..md",
+                "file": "2;30 - 4322 - Strategic Management/Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1;00 - 4325 - Enterprise System Management/Chapter 1 - Cont..md",
+                "file": "2;30 - 4322 - Strategic Management/Chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1;00 - 4325 - Enterprise System Management/Chapter 1 - Cont..md"
+                "file": "2;30 - 4322 - Strategic Management/Chapter 2.md"
               }
             }
           }
@@ -159,8 +158,10 @@
   },
   "active": "8c9498dd4bb81258",
   "lastOpenFiles": [
-    "1;00 - 4325 - Enterprise System Management/Chapter 1.md",
+    "2;30 - 4322 - Strategic Management/Chapter 1 - Strategic Mgmt.md",
+    "2;30 - 4322 - Strategic Management/Chapter 2.md",
     "1;00 - 4325 - Enterprise System Management/Chapter 1 - Cont..md",
+    "1;00 - 4325 - Enterprise System Management/Chapter 1.md",
     "7;00 - 3303 - Money and Banking/Open Market Economy.md",
     "7;00 - 3303 - Money and Banking/Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition (2019, Pearson Education Limited) - libgen.li.pdf",
     "7;00 - 3303 - Money and Banking/Syllabus.md",
@@ -170,7 +171,6 @@
     "Pasted Pics/Pasted image 20240821180843.png",
     "5;30 - 3315 - Investments/Chapter 1 - The Investment Environment.md",
     "7;00 - 3303 - Money and Banking",
-    "2;30 - 4322 - Strategic Management/Chapter 1 - Strategic Mgmt.md",
     "2;30 - 4322 - Strategic Management/Syllabus.md",
     "1;00 - 4325 - Enterprise System Management/4325 - The Digital Transformation Playbook.pdf",
     "1;00 - 4325 - Enterprise System Management/Syllabus.md",
