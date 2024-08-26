@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3f3b2016db23e285",
+        "id": "c5aebfaaa1abfdac",
         "type": "tabs",
         "children": [
           {
-            "id": "b4cedf71691c28e8",
+            "id": "8c9498dd4bb81258",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7;00 - 3303 - Money and Banking/Open Market Economy.md",
+                "file": "1;00 - 4325 - Enterprise System Management/Chapter 1 - Cont..md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7;00 - 3303 - Money and Banking/Open Market Economy.md",
+                "file": "1;00 - 4325 - Enterprise System Management/Chapter 1 - Cont..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7;00 - 3303 - Money and Banking/Open Market Economy.md",
+                "file": "1;00 - 4325 - Enterprise System Management/Chapter 1 - Cont..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7;00 - 3303 - Money and Banking/Open Market Economy.md"
+                "file": "1;00 - 4325 - Enterprise System Management/Chapter 1 - Cont..md"
               }
             }
           }
@@ -157,10 +157,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "91e61c52a6065f60",
+  "active": "8c9498dd4bb81258",
   "lastOpenFiles": [
-    "7;00 - 3303 - Money and Banking/Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition (2019, Pearson Education Limited) - libgen.li.pdf",
+    "1;00 - 4325 - Enterprise System Management/Chapter 1.md",
+    "1;00 - 4325 - Enterprise System Management/Chapter 1 - Cont..md",
     "7;00 - 3303 - Money and Banking/Open Market Economy.md",
+    "7;00 - 3303 - Money and Banking/Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition (2019, Pearson Education Limited) - libgen.li.pdf",
     "7;00 - 3303 - Money and Banking/Syllabus.md",
     "Pasted Pics/Pasted image 20240821174024.png",
     "Pasted Pics",
@@ -170,8 +172,6 @@
     "7;00 - 3303 - Money and Banking",
     "2;30 - 4322 - Strategic Management/Chapter 1 - Strategic Mgmt.md",
     "2;30 - 4322 - Strategic Management/Syllabus.md",
-    "1;00 - 4325 - Enterprise System Management/Chapter 1.md",
-    "Untitled.md",
     "1;00 - 4325 - Enterprise System Management/4325 - The Digital Transformation Playbook.pdf",
     "1;00 - 4325 - Enterprise System Management/Syllabus.md",
     "School Links.md",
