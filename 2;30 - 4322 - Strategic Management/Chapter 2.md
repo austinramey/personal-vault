@@ -58,3 +58,34 @@
 - Postponement of family formation
 ## Political/Legal
 <mark style="background: #FF5582A6;">Political/legal processes</mark> and legislation influence environmental regulations with which industries must comply
+- Tort reform
+- ADA act
+- Dereg. of utilities and other industries
+- Increases in federally mandated min wages
+- Taxation at local, state, federal levels
+- Leg. on corporate governance reforms in bookkeeping
+- Affordable Care Act
+## Technological
+<mark style="background: #FF5582A6;">Technological</mark> devs. lead to new products and services. They can create new industries and alter existing ones
+- Genetic engineering
+- Internet tech
+- Researching in synthetic mats.
+- Nanotech
+- Physiolytics
+Current social movement towards more data privacy presents opportunities for some firms to establish a competitive advantage around data privacy
+## Economic
+<mark style="background: #FF5582A6;">Economic</mark> forces affect all industries:
+- Interest rates
+- Unemployment
+- Consumer Price Index
+- Trends in GDP
+- Changes in stock market valuations
+- National debt
+## Global
+<mark style="background: #FF5582A6;">Global</mark> forces offer both opportunities and risks
+- Changes in global trade
+- Currency exchange rates
+- Fluctuation of Indian and Chinese economies
+- Trade agreements
+- Creation of the WTO
+- Increased risks associated with terrorism
