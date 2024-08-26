@@ -26,3 +26,6 @@
 	- Anticipate competitors' moves
 	- Decrease response time
 - Potential for unethical behavior while gathering intelligence
+## SWOT Analysis
+<mark style="background: #FF5582A6;">SWOT Analysis</mark>: technique for analyizing firm and industry conditions
+- 
