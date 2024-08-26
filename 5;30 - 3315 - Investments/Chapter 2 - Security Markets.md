@@ -28,3 +28,9 @@
 - <mark style="background: #FF5582A6;">Quiet period</mark>: period after prospectus is filed and the company must restrict what is said about the company
 - <mark style="background: #FF5582A6;">Red herring</mark>: preliminary prospectus available during the waiting period
 - <mark style="background: #FF5582A6;">Road show</mark>: series of presentations to potential investors
+# The Selling Process
+## IPO
+- <mark style="background: #FF5582A6;">Investment Banker</mark>: intermediary that assists companies in issuing new securities and advising firms with financial transactions
+	- For IPOs, their <mark style="background: #FFF3A3A6;">main role</mark> is <mark style="background: #FFF3A3A6;">underwriting</mark>
+	- <mark style="background: #FF5582A6;">Underwriting</mark>: purchases the security at agreed-upon price and bears risk of selling it to the public
+- 
