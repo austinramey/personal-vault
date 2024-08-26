@@ -26,6 +26,35 @@
 	- Anticipate competitors' moves
 	- Decrease response time
 - Potential for unethical behavior while gathering intelligence
-## SWOT Analysis
-<mark style="background: #FF5582A6;">SWOT Analysis</mark>: technique for analyizing firm and industry conditions
-- 
+# SWOT Analysis
+<mark style="background: #FF5582A6;">SWOT Analysis</mark>: technique for analyzing firm and industry conditions
+- A firm's internal conditions = Strengths + Weaknesses
+	- Where the firm excels or where it may be lacking
+- Any environmental or external conditions = Opportunities + Threats
+	- Developments that exist in gen. environment
+	- Activities among firms competing for the same customers
+- Must consider both internal and external factors simultaneously
+## The General Environment
+<mark style="background: #FF5582A6;">General environment</mark>: composed of factors that are both hard to predict and difficult to control
+- Demographic
+- Sociocultural
+- Political/Legal
+- Technological
+- Economic
+- Global
+## Demographic
+<mark style="background: #FF5582A6;">Demographics</mark> are easily understandable and quantifiable
+- Aging population
+- Rising affluence
+- Changes in ethnic composition
+- Geographic dist. of population
+- Greater disparities in income levels
+## Social
+<mark style="background: #FF5582A6;">Sociocultural</mark> forces influence the values, beliefs, and lifestyles of a society
+- More women in workforce
+- Increase in temp workers
+- Greater concern for fitness
+- Greater concern for the environment
+- Postponement of family formation
+## Political/Legal
+<mark style="background: #FF5582A6;">Political/legal processes</mark> and legislation influence environmental regulations with which industries must comply
