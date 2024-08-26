@@ -51,5 +51,5 @@
 - <mark style="background: #FFF3A3A6;">Extended Hours</mark> electronic-trading sessions
 	- Most securities exchanges and ECNs offer <mark style="background: #FFF3A3A6;">extended</mark> trading sessions <mark style="background: #FFF3A3A6;">before</mark> and <mark style="background: #FFF3A3A6;">after</mark> regular hours
 		- Allow US securities markets to compete more effectively with foreign securities markets
-		- After-hours markets are <mark style="background: #FFF3A3A6;">crossing markets</mark>: orders are only filled if matched with identicial opposing orders
+		- After-hours markets are <mark style="background: #FFF3A3A6;">crossing markets</mark>: orders are only filled if matched with identical opposing orders
 - 
