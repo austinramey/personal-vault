@@ -17,6 +17,13 @@
 | Customers as mass market       | Customers as dynamic network     |
 | Communications are broadcast   | Communications as two-way        |
 | Firm is key influencer         | Customers are the key influencer |
-| Marketing to persuade purchase |                                  |
-| One-way value flows            |                                  |
-| Economies of scale             |                                  |
+| Marketing to persuade purchase | Marketing to inspire purchase    |
+| One-way value flows            | Reciprocal value flows           |
+| Economies of scale             | Economies of value               |
+## Competition
+
+| From                                           | To  |
+| ---------------------------------------------- | --- |
+| Competition within defined industry            |     |
+| Clear distinctions between partners and rivals |     |
+|                                                |     |
