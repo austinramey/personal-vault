@@ -11,3 +11,12 @@
 	- Transforming how businesses **<mark style="background: #FFF3A3A6;">Innovate</mark>**
 	- Forcing us to <mark style="background: #FFF3A3A6;">think</mark> differently about how we understand and create <mark style="background: #FFF3A3A6;">value</mark>
 ## Customer
+
+| From                           | To                               |
+| ------------------------------ | -------------------------------- |
+| Customers as mass market       | Customers as dynamic network     |
+| Communications are broadcast   | Communications as two-way        |
+| Firm is key influencer         | Customers are the key influencer |
+| Marketing to persuade purchase |                                  |
+| One-way value flows            |                                  |
+| Economies of scale             |                                  |
