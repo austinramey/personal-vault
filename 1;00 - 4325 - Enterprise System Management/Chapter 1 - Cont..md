@@ -8,8 +8,9 @@
 	- Changing how we connect with <mark style="background: #FFF3A3A6;">Customers</mark>
 	- Transforming how we think about **<mark style="background: #FFF3A3A6;">Competition</mark>**
 	- How we think about **<mark style="background: #FFF3A3A6;">Data</mark>**
-	- Transforming how businesses **<mark style="background: #FFF3A3A6;">Innovate</mark>**
-	- Forcing us to <mark style="background: #FFF3A3A6;">think</mark> differently about how we understand and create <mark style="background: #FFF3A3A6;">value</mark>
+	- Transforming how businesses <mark style="background: #FFF3A3A6;">Innovate</mark>
+	- Think differently about how we understand and create <mark style="background: #FFF3A3A6;">value</mark>
+# Changes in Strategic Assumptions
 ## Customer
 
 | From                           | To                               |
@@ -22,8 +23,28 @@
 | Economies of scale             | Economies of value               |
 ## Competition
 
-| From                                           | To  |
-| ---------------------------------------------- | --- |
-| Competition within defined industry            |     |
-| Clear distinctions between partners and rivals |     |
-|                                                |     |
+| From                                           | To                                               |
+| ---------------------------------------------- | ------------------------------------------------ |
+| Competition within defined industry            | Competition accross fluid industries             |
+| Clear distinctions between partners and rivals | Blurred distinctions between partners and rivals |
+| Competition is a zero-sum game                 | Competitors co-op in key areas                   |
+| Key assets are held inside the firm            | Key assets reside in outside networks            |
+| Products with unique features and benefits     | Platforms with partners who exchange value       |
+| A few dominant competitors per category        | Winner-takes-all due to network effects          |
+## Data
+
+| From | To  |
+| ---- | --- |
+|      |     |
+
+## Innovate
+
+| From | To  |
+| ---- | --- |
+|      |     |
+
+## Value
+
+| From | To  |
+| ---- | --- |
+|      |     |
