@@ -23,6 +23,8 @@
 	- Seasoned equity offering
 	- Registration must be filed with the SEC
 #### The IPO Process
-- Underwriting: promoting stock and facilitating sale of the company's shares
-- Prospectus: registration statement describing the issue and the issuer
-- Quiet period: period after pros
+- <mark style="background: #FF5582A6;">Underwriting</mark>: promoting stock and facilitating sale of the company's shares
+- <mark style="background: #FF5582A6;">Prospectus</mark>: registration statement describing the issue and the issuer
+- <mark style="background: #FF5582A6;">Quiet period</mark>: period after prospectus is filed and the company must restrict what is said about the company
+- <mark style="background: #FF5582A6;">Red herring</mark>: preliminary prospectus available during the waiting period
+- <mark style="background: #FF5582A6;">Road show</mark>: series of presentations to potential investors
