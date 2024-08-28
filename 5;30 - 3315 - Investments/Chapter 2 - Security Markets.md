@@ -52,4 +52,15 @@
 	- Most securities exchanges and ECNs offer <mark style="background: #FFF3A3A6;">extended</mark> trading sessions <mark style="background: #FFF3A3A6;">before</mark> and <mark style="background: #FFF3A3A6;">after</mark> regular hours
 		- Allow US securities markets to compete more effectively with foreign securities markets
 		- After-hours markets are <mark style="background: #FFF3A3A6;">crossing markets</mark>: orders are only filled if matched with identical opposing orders
-	- 
+# Types of Securities Transactions
+## Long Purchase
+- <mark style="background: #FF5582A6;">Long purchase</mark>: transaction where investors buy securities, hoping to see an increase
+	- Object is to <mark style="background: #FFF3A3A6;">buy low and sell high</mark>
+	- Return comes from dividends or interest received plus difference between purchase and selling prices
+## Short Selling
+- <mark style="background: #FF5582A6;">Short selling</mark>: practice of selling borrowed securities
+	- Investor <mark style="background: #FFF3A3A6;">borrows</mark> securities from a broker
+	- Broker sells/buys securities <mark style="background: #FFF3A3A6;">owned by other investors</mark>
+		- Investor must make deposit equal to initial margin requirement to make short-sale proceeds
+		- Investors make money when <mark style="background: #FFF3A3A6;">stock prices go down</mark>
+- 
