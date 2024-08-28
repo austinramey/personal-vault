@@ -81,19 +81,36 @@
 - <mark style="background: #FF5582A6;">Maintenance margin</mark>:
 	- <mark style="background: #FFF3A3A6;">Minimum</mark> equity that must be kept in the margin account
 	- <mark style="background: #FFF3A3A6;">Margin call</mark> if value of securities falls too much
-Margin Ratio = Value of Security - Debit Balance / Value of Security
-$$
-V-D/V
-$$
-Margin Ratio = Equity Value / Value of Security
-Equity = Value of Security - Debit Balance
+Margin Ratio = Value of Security(V) - Debit Balance(D) / Value of Security(V)
+Margin Ratio = Equity Value(E) / Value of Security(V)
+Equity = Value of Security(V) - Debit Balance(D)
 ### Example 3
 - Assume you want to purchase 100 shares of stock at $40 per share at a time when the initial margin requirement is 70%. 
 	1. How much of the investment is provided by you (equity value)?
 	2. How much is the margin loan (debit balance)
 	3. What happens to the margin if over time the price moves to $65
-$$
-V = 100*40 = 4000  
+
+V = 100 * 40 = 4000  
 E = MR * V  
-0.7 * 4000 = 
-$$
+0.7 * 4000 = 2800
+4000 - 2800 = 1200 (THIS DOES NOT CHANGE)
+
+V = 100 * 65 = 6500
+E = .7 * 6500 = 4550
+6500 - 4550 = 1950
+
+### Example 4
+- Suppose you want to buy 100 shares of stock XY with the share price of $100. You want to buy the share on the margin and borrow $4000 from your brokerage.
+	1. What is the initial percentage margin?
+	2. If the price declines to $70 per share, what is the new percentage margin?
+	3. Suppose the maintenance margin is 30%. How far could the stock price fall before the investor would get a margin call?
+
+V = 100 * 100 = 10000
+D = 4000
+E = V-D = 10000-4000 = 6000
+Margin = 6000/10000 = 60%
+
+V = 7000
+E = 7000-4000 = 3000
+Margin = 3000/7000 = 43%
+
