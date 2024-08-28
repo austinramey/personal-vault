@@ -107,3 +107,5 @@ Depends on existing barriers to entry
 - Switching costs
 - Access to distribution channels
 - Cost disadvantages independent of scale
+## The Bargaining Power of Buyers
+- Buyers have bargainin
