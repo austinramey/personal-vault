@@ -89,3 +89,4 @@ Current social movement towards more data privacy presents opportunities for som
 - Trade agreements
 - Creation of the WTO
 - Increased risks associated with terrorism
+# Competitive Environment
