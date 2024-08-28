@@ -114,3 +114,23 @@ V = 7000
 E = 7000-4000 = 3000
 Margin = 3000/7000 = 43%
 
+MR = 30%
+V per share = ??
+30% = V - D / V = V - 4000 / V = 
+
+V = 100 * P
+D = 4000
+E = 100p - 4000
+.3 = 100p - 4000 / 100p
+30p = 100p - 4000
+70p = 4000
+p = 4000/70
+p = 57.40
+
+### Example 5
+- You want to buy 100 shares of stock at $50 per share because you feel it will rise to $75 within six months. 
+- The stock pays $2 per share in annual dividends, and during your 6-month holding period, you will receive half of that amount. 
+- You are going to buy the stock with 50% margin and will pay 10% annual interest on the margin loan.
+	1. If your expectation about stock price is correct, what is your six-month return on invested capital from a margin transaction?
+	2. What is your annual return on invested capital from a margin transaction?
+
