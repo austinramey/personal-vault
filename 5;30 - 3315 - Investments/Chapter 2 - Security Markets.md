@@ -63,4 +63,12 @@
 	- Broker sells/buys securities <mark style="background: #FFF3A3A6;">owned by other investors</mark>
 		- Investor must make deposit equal to initial margin requirement to make short-sale proceeds
 		- Investors make money when <mark style="background: #FFF3A3A6;">stock prices go down</mark>
-- 
+### Example 2
+1. Longing 100 shares of stock with inital 50 and selling 80 = 100(80-50) = 3000
+2. Longing 50 shares initial 40 selling 35 = 50(35-40) = -250
+3. Shorting 100 shares initial 50 selling 80 = 100(50-80) = -3000
+4. Shorting 50 shares initial 40 selling 35 = 50(40-35) = 250
+## Buying on the Margin
+- Borrowing <mark style="background: #FFF3A3A6;">part of the total purchase</mark> price of a position using a loan from a broker
+	- Taking a loan out to get more stocks
+- Investor contributes <mark style="background: #FFF3A3A6;">remaining</mark> portion
