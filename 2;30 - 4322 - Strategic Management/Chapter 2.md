@@ -108,4 +108,8 @@ Depends on existing barriers to entry
 - Access to distribution channels
 - Cost disadvantages independent of scale
 ## The Bargaining Power of Buyers
-- Buyers have bargainin
+- Buyers have bargaining power
+- Buyers can force down prices, bargain for higher quality or more services, or play competitors against each other
+- Buyer groups are powerful
+	- Profits are low and switching costs are few
+	- Backward integration is possible
