@@ -69,6 +69,31 @@
 3. Shorting 100 shares initial 50 selling 80 = 100(50-80) = -3000
 4. Shorting 50 shares initial 40 selling 35 = 50(40-35) = 250
 ## Buying on the Margin
-- Borrowing <mark style="background: #FFF3A3A6;">part of the total purchase</mark> price of a position using a loan from a broker
+- Borrowing <mark style="background: #FFF3A3A6;">part of the total purchase</mark> price of a position using a <mark style="background: #FFF3A3A6;">loan</mark> from a broker
 	- Taking a loan out to get more stocks
 - Investor contributes <mark style="background: #FFF3A3A6;">remaining</mark> portion
+- Margin refers to the percentage or amount contributed by the investor
+- Your profit when the <mark style="background: #FFF3A3A6;">stock rises</mark>
+	- Money go brrrr
+- <mark style="background: #FF5582A6;">Initial margin</mark> is set by the Federal Reserve
+	- Currently 50%
+	- Must give at least that much when taking a loan
+- <mark style="background: #FF5582A6;">Maintenance margin</mark>:
+	- <mark style="background: #FFF3A3A6;">Minimum</mark> equity that must be kept in the margin account
+	- <mark style="background: #FFF3A3A6;">Margin call</mark> if value of securities falls too much
+Margin Ratio = Value of Security - Debit Balance / Value of Security
+$$
+V-D/V
+$$
+Margin Ratio = Equity Value / Value of Security
+Equity = Value of Security - Debit Balance
+### Example 3
+- Assume you want to purchase 100 shares of stock at $40 per share at a time when the initial margin requirement is 70%. 
+	1. How much of the investment is provided by you (equity value)?
+	2. How much is the margin loan (debit balance)
+	3. What happens to the margin if over time the price moves to $65
+$$
+V = 100*40 = 4000  
+E = MR * V  
+0.7 * 4000 = 
+$$
