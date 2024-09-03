@@ -8,7 +8,6 @@
 - Must monitor and scan environment and competitors
 	- General environment
 	- Industry environment
-
 #### Assessing the internal environment of the firm
 - Analyze strength and relationships among activities that bring together a firms value chain
 - Analysis can uncover potential sources of competitive advantage
