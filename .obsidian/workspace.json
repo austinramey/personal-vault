@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/Chapter 3 - Assessing Internal Environment.md",
+                "file": "5;30 - 3315 - Investments/Time Value of Money (TVM).md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/Chapter 3 - Assessing Internal Environment.md",
+                "file": "5;30 - 3315 - Investments/Time Value of Money (TVM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/Chapter 3 - Assessing Internal Environment.md",
+                "file": "5;30 - 3315 - Investments/Time Value of Money (TVM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/Chapter 3 - Assessing Internal Environment.md"
+                "file": "5;30 - 3315 - Investments/Time Value of Money (TVM).md"
               }
             }
           }
@@ -159,8 +159,9 @@
   },
   "active": "5276e4075ffcbd9b",
   "lastOpenFiles": [
-    "1;00 - 4325 - Enterprise System Management/Chapter 2 - Harnessing Customer Connections.md",
     "2;30 - 4322 - Strategic Management/Chapter 3 - Assessing Internal Environment.md",
+    "5;30 - 3315 - Investments/Time Value of Money (TVM).md",
+    "1;00 - 4325 - Enterprise System Management/Chapter 2 - Harnessing Customer Connections.md",
     "5;30 - 3315 - Investments/Chapter 2 - Security Markets.md",
     "2;30 - 4322 - Strategic Management/Chapter 2.md",
     "1;00 - 4325 - Enterprise System Management/Chapter 1 - Cont..md",
@@ -193,7 +194,6 @@
     "Archive/Java/Final Notes from Book.md",
     "Archive/BCOM Lec/Chapter 17.md",
     "Archive/Cybersec/4-15.md",
-    "Archive/Cybersec/Chapter 12.md",
     "Archive",
     "1;00 - 4325 - Enterprise System Management",
     "Untitled.canvas",
