@@ -79,3 +79,13 @@ Related to wide range of activities
 - State-of-the-art facilities and equipment
 - Excellent prof. qualifications of personnel
 - Use of data analytics
+### HR Management
+Consists of activities involved in recruitment, hiring, training and dev, and compensation of all types of personnel
+- Employee recruiting, development, and retention mechanism
+- Quality relations with trade unions
+- Reward and incentive programs to motivate all employees
+### General admin
+- Effective planning systems to attain goals and objectives
+- Excellent relations with diverse stakeholder groups
+- Effective IT to coordinate and integrate value-creating activities
+- Ability of top mgmt to anticiapte and act on key environmental trends and events
