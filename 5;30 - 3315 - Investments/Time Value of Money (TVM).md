@@ -27,8 +27,18 @@
 	- The same interest and same growth rate each period
 ## Perpetuity
 $$
-PV = C/(1+r)^1 + 
+PV = C/(1+r)^1 + C/(1+r)^2 + C/(1+r)^3 + K
 $$
+![[Screenshot_2024-09-04_17-50-53.png]]
+
 ## Growing Perpetuity
+![[Screenshot_2024-09-04_17-52-57.png]]
 ## Annuity
+![[Screenshot_2024-09-04_17-53-36.png]]
 ## Growing Annuity
+![[Screenshot_2024-09-04_17-53-58.png]]
+## Example
+- A share of stock will pay a $3 dividend after one year, and after that dividends will grow at 5% for another 4 years.
+- From that point onwards, dividends will grow at 2% per year forever.
+- If the interest rate is 10%, what is the value of the share?
+
