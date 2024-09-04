@@ -31,7 +31,11 @@ Include all activities associated with transforming inputs into the final produc
 - Testing or quality control
 - Printing
 - Facility ops
-- Factors to consider include
+Factors to consider include
+- Efficient plant ops and layout
+- Incorporation of appropriate process tech
+### Outbound Logistics
+
 ## Support Activities
 - Either add value alone or through relationships with primary/support activities
 	- Procurement
