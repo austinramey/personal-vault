@@ -72,4 +72,10 @@ Involves how the firm purchases inputs in the value chain
 - Procurement of raw material
 - Development of collaborative win-win relationships with suppliers
 - Analysis and selection of alternative sources
-### 
+### Technology Development
+Related to wide range of activities
+- Effective RND activities for process and product inititives
+- Collaborative relationships between RND and other departments
+- State-of-the-art facilities and equipment
+- Excellent prof. qualifications of personnel
+- Use of data analytics
