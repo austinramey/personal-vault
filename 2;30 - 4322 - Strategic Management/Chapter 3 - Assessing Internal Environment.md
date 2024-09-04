@@ -35,6 +35,30 @@ Factors to consider include
 - Efficient plant ops and layout
 - Incorporation of appropriate process tech
 ### Outbound Logistics
+Includes collecting, storing, and distributing the product or service to buyers
+- Finished goods and warehousing
+- Material handling
+- Delivery vehicle operations
+- Order processing
+Factors to consider:
+- Effective shipping processes
+- Minimizing shipping costs by grouping goods into large lot sizes
+### Marketing and Sales
+Purchases of products and services by end users, and how to get buyers to make those purchases
+- Advertising and promotion
+- Sales force management
+- Pricing and price quoting
+- Channel selection and channel relations
+Factors to consider
+- Innovative approaches to promotion and advertising
+- Identification of customer segments and needs
+### Service
+Includes all actions associated with providing service to enhance or maintain the value of the product
+- Installation and repair
+- Training
+- Parts supply
+- Product adjustment
+Factors to consider include
 
 ## Support Activities
 - Either add value alone or through relationships with primary/support activities
