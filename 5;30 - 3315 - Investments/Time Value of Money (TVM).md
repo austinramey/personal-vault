@@ -42,3 +42,5 @@ $$
 - From that point onwards, dividends will grow at 2% per year forever.
 - If the interest rate is 10%, what is the value of the share?
 
+PV(growing annuity C=3, g=5%, N=5 periods, r=10%) + PV(PV(3 growing at 2% perp, r10%), N=6, r=10%)
+( C/(r-g) )( 1-((1+g)/(1+r))^N ) + (C*/(r-g))/(1+r)^N
