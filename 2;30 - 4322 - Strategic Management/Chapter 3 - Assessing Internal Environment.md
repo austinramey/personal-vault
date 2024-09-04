@@ -59,10 +59,17 @@ Includes all actions associated with providing service to enhance or maintain th
 - Parts supply
 - Product adjustment
 Factors to consider include
-
+- Quick response to customer needs
+- Quality of service personnel, ongoing training
 ## Support Activities
 - Either add value alone or through relationships with primary/support activities
 	- Procurement
 	- Tech department
 	- HR mgmt
 	- General admin
+### Procurement
+Involves how the firm purchases inputs in the value chain
+- Procurement of raw material
+- Development of collaborative win-win relationships with suppliers
+- Analysis and selection of alternative sources
+### 
