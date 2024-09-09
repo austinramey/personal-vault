@@ -46,5 +46,6 @@ Can either look at historical performance, or
 	- Provides a <mark style="background: #D2B3FFA6;">basis</mark> for future <mark style="background: #D2B3FFA6;">expectations</mark>
 	- <mark style="background: #D2B3FFA6;">Does not guarantee</mark> future performance
 ### Return and Inflation
-- Nominal Rate of Return: the return that the investment eanrs does not account the effects of inflation on purcahsing power
-- Real rate of return: measures the increase 
+- <mark style="background: #FF5582A6;">Nominal Rate of Return</mark>: the return that the investment earns does not account the effects of <mark style="background: #D2B3FFA6;">inflation</mark> on <mark style="background: #D2B3FFA6;">purchasing power</mark>
+- <mark style="background: #FF5582A6;">Real rate of return</mark>: measures the increase in <mark style="background: #D2B3FFA6;">purchasing power</mark> that the investment provides
+Real return >> Nominal return - inflation rate
