@@ -144,4 +144,13 @@ Balanced Scorecard Analysis
 - Employees
 - Owners
 - Customer satisfaciton
-- Ine
+- Internal processes
+- Innovation, learning and improvement activities
+- Financial perspectives
+Financial Ratio Analysis
+- Balance sheet
+- Income statement
+- Market valuation
+- Historical comparison
+- Comparison with industry norms
+- Comparison with key competitors
