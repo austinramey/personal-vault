@@ -107,4 +107,6 @@ Resources can lead to a competitive advantage:
 - <mark style="background: #D2B3FFA6;">Technological resources</mark>: data analytic algots, patents, copyrights, TMs
 - <mark style="background: #D2B3FFA6;">Organizational resources</mark>: effective planning processes, evaluation and control systems
 # Types of Intangible Firm Resources
-Intangible resources: 
+<mark style="background: #FF5582A6;">Intangible resources</mark>: difficult for competitors to account for or imitate, embedded in unique routines and practices
+- Human resources: trust, experience and capabilities of employees; managerial skills, firm specific practices and procedures
+- Innovation resources: 
