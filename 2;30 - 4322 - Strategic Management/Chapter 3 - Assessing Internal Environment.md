@@ -88,8 +88,8 @@ Consists of activities involved in recruitment, hiring, training and dev, and co
 - Effective planning systems to attain goals and objectives
 - Excellent relations with diverse stakeholder groups
 - Effective IT to coordinate and integrate value-creating activities
-- Ability of top mgmt to anticiapte and act on key environmental trends and events
+- Ability of top mgmt to anticipate and act on key environmental trends and events
 # Interrelationships Among VC Activities
 - Managers must not ignore importance of relationships among VC activities
-	- What are interreationships among activities within firm
+	- What are <mark style="background: #FF5582A6;">interrelationships</mark> among activities within firm
 	- What are the relationships among activities within the firm and with other stakeholders such as customers and suppliers?
