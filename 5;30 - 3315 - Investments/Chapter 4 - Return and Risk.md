@@ -36,4 +36,12 @@
 	- If <mark style="background: #D2B3FFA6;">IRR lessthan required return</mark> <mark style="background: #D2B3FFA6;">reject</mark> project
 ### Finding Growth rate
 - In addition to finding annual rate of return and IRR, we frequently need to find the growth rate
+- This rate reflects the compounded annual rate of change in some financial quantitiy, such as price of a stock or size of its dividend
+Compound Annual Growth Rate
+![[Screenshot_2024-09-09_18-16-57.png]]
+## Measuring Expected Return
+### Historical Performance
+- <mark style="background: #D2B3FFA6;">Average</mark> of a stock previous realized return over a spec. period
+	- Provides a <mark style="background: #D2B3FFA6;">basis</mark> for future <mark style="background: #D2B3FFA6;">expectations</mark>
+	- <mark style="background: #D2B3FFA6;">Does not guarantee</mark> future performance
 - 
