@@ -143,7 +143,7 @@ Other stakeholder groups can also appropriate a portion of rents
 Balanced Scorecard Analysis
 - Employees
 - Owners
-- Customer satisfaciton
+- Customer satisfaction
 - Internal processes
 - Innovation, learning and improvement activities
 - Financial perspectives
