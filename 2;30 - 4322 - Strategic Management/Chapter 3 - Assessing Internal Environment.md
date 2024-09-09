@@ -100,13 +100,27 @@ The RBV integrates two activities
 Resources can lead to a competitive advantage:
 - If they are valuable, rare, hard to duplicate
 - If tangible resources, intangible resource, and org capabilities are combined
-# Types of Tangible Firm Resources
+# Firm Resources
+## Tangible Firm Resources
 <mark style="background: #FF5582A6;">Tangible resources</mark> are assets that are relatively easy to identify
 - <mark style="background: #D2B3FFA6;">Physical assets</mark>: plant and facilities, location, machinery and equipment
 - <mark style="background: #D2B3FFA6;">Financial assets</mark>: cash and cash equivalents, borrowing capacity, capacity to raise equity
 - <mark style="background: #D2B3FFA6;">Technological resources</mark>: data analytic algots, patents, copyrights, TMs
 - <mark style="background: #D2B3FFA6;">Organizational resources</mark>: effective planning processes, evaluation and control systems
-# Types of Intangible Firm Resources
+## Intangible Firm Resources
 <mark style="background: #FF5582A6;">Intangible resources</mark>: difficult for competitors to account for or imitate, embedded in unique routines and practices
-- Human resources: trust, experience and capabilities of employees; managerial skills, firm specific practices and procedures
-- Innovation resources: 
+- <mark style="background: #D2B3FFA6;">Human resources</mark>: trust, experience and capabilities of employees; managerial skills, firm specific practices and procedures
+- <mark style="background: #D2B3FFA6;">Innovation resources</mark>: tech and scientific expertise, ideas, and innovation capabilities
+- <mark style="background: #D2B3FFA6;">Reputation resources</mark>: brand names, reputation for fairness with suppliers, non-zero sum relationships
+## Organizational Capabilities
+<mark style="background: #FF5582A6;">Organizational capabilities</mark>: competencies or skills that a firm employs to transform inputs into outputs
+Capacity to combine tangible and intangible resources, using org processes to attain desired ends:
+- Outstanding customer service
+- Excellent product dev. capabilities
+- Innovativeness of products and service, and flexibility in manu. processes
+- Ability to hire, motivate, and retain human capital
+## Sustainable Competitive Advantages
+Resources that can provide a firm with the potential for a sustainable competitive advantage have 4 attributes:
+1. Valuable: formulating and implementing strats to improve efficiency or effectiveness
+2. Rare or uncommon; difficult to exploit
+3. Diffi
