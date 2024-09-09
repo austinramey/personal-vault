@@ -93,3 +93,18 @@ Consists of activities involved in recruitment, hiring, training and dev, and co
 - Managers must not ignore importance of relationships among VC activities
 	- What are <mark style="background: #FF5582A6;">interrelationships</mark> among activities within firm
 	- What are the relationships among activities within the firm and with other stakeholders such as customers and suppliers?
+# Resource-Based View of a Firm
+The RBV integrates two activities
+1. Internal analysis of phenomena within a company
+2. External analysis of the industry and its competitive environment
+Resources can lead to a competitive advantage:
+- If they are valuable, rare, hard to duplicate
+- If tangible resources, intangible resource, and org capabilities are combined
+# Types of Tangible Firm Resources
+<mark style="background: #FF5582A6;">Tangible resources</mark> are assets that are relatively easy to identify
+- <mark style="background: #D2B3FFA6;">Physical assets</mark>: plant and facilities, location, machinery and equipment
+- <mark style="background: #D2B3FFA6;">Financial assets</mark>: cash and cash equivalents, borrowing capacity, capacity to raise equity
+- <mark style="background: #D2B3FFA6;">Technological resources</mark>: data analytic algots, patents, copyrights, TMs
+- <mark style="background: #D2B3FFA6;">Organizational resources</mark>: effective planning processes, evaluation and control systems
+# Types of Intangible Firm Resources
+Intangible resources: 
