@@ -121,6 +121,27 @@ Capacity to combine tangible and intangible resources, using org processes to at
 - Ability to hire, motivate, and retain human capital
 ## Sustainable Competitive Advantages
 Resources that can provide a firm with the potential for a sustainable competitive advantage have 4 attributes:
-1. Valuable: formulating and implementing strats to improve efficiency or effectiveness
-2. Rare or uncommon; difficult to exploit
-3. Diffi
+1. <mark style="background: #D2B3FFA6;">Valuable</mark>: formulating and implementing strats to improve efficiency or effectiveness
+2. <mark style="background: #D2B3FFA6;">Rare</mark> or uncommon; difficult to exploit
+3. <mark style="background: #D2B3FFA6;">Difficult to imitate</mark> or copy due to physical uniqueness, path dependency, casual ambiguity, or social complexity
+4. <mark style="background: #D2B3FFA6;">Difficult to substitute</mark> with strategically equivalent resources or capabilities
+### Sources of Inimitability
+- <mark style="background: #D2B3FFA6;">Physical uniqueness</mark>: Resources that are physically unique, therefore impossible to duplicate
+- <mark style="background: #D2B3FFA6;">Path dependency</mark>: hard to duplicate because of all that has happened along the path followed in the dev and/or accumulation of resources
+- <mark style="background: #D2B3FFA6;">Causal ambiguity</mark>: impossible to explain what caused a resource to exist or how to re-create it
+- <mark style="background: #D2B3FFA6;">Social complexity</mark>: resources that result from social engineering such as interpersonal relations
+### The generation and distribution of the Firm's Profits
+4 factors that help explain the extent to which employees and managers may be able to obtain a much higher level of profits that they generate
+1. Employee bargaining power
+2. Employee replacement cost
+3. Employee exit costs
+4. Manager margaining power
+Other stakeholder groups can also appropriate a portion of rents
+- Monopoly suppliers or a single buyer
+- Excessive taxation by the govt.
+### Evaluating Firm Performace
+Balanced Scorecard Analysis
+- Employees
+- Owners
+- Customer satisfaciton
+- Ine
