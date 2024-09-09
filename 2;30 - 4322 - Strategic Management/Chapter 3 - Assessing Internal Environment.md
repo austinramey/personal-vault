@@ -139,7 +139,7 @@ Resources that can provide a firm with the potential for a sustainable competiti
 Other stakeholder groups can also appropriate a portion of rents
 - Monopoly suppliers or a single buyer
 - Excessive taxation by the govt.
-### Evaluating Firm Performace
+### Evaluating Firm Performance
 Balanced Scorecard Analysis
 - Employees
 - Owners
