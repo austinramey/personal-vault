@@ -78,4 +78,11 @@ Longer period allows for a more accurate estimation
 - When deciding among alt investments, you should:
 	- Estimate expected return using PV methods and historical data
 	- Assess the risk of the investment by looking at historical returns using std dev
-	- Eval the risk-return chars of each investment option to make sure the return is reasonable given the level of ri
+	- Eval the risk-return chars of each investment option to make sure the return is reasonable given the level of risk
+	- Select the investments that offer highest expected returns associated with level of risk you are willing to accept
+- To accept a certain level of riskm investors require a certain return
+- Required return: the rate of return that fully compensates for investment's risk
+Required return on investment J = Real rate of return + Expected inflation premium + Risk premium for investment J
+![[Pasted image 20240911181023.png]]
+- The closes approximation to the real, risk-free rate of interest is the short-term
+	- Treasury bill rate minus the inflation rate
