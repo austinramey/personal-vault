@@ -12,7 +12,8 @@
 	- Supply not matching demand for tech-trained talent
 	- Hard to lure talent away from current position or city
 	- Best to locate work near schools to maintain connections
-- Attract millennials and gen z
-	- Tech-savviness, ability to inovate
-	- Rcially diverse
-	- Want challenging opportunities, flexible work 
+- Attract millennial and gen z
+	- Tech-savviness, ability to innovate
+	- Racially diverse
+	- Want challenging opportunities, flexible work options
+## How are you building your social skills?
