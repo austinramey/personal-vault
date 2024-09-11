@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -158,6 +159,8 @@
   },
   "active": "5276e4075ffcbd9b",
   "lastOpenFiles": [
+    "screen-2024-09-11-18-23-47.png",
+    "Pasted image 20240911182404.png",
     "5;30 - 3315 - Investments/Chapter 4 - Return and Risk.md",
     "5;30 - 3315 - Investments/Chapter 5 - Modern Portfolio Theories.md",
     "Pasted image 20240911181023.png",
@@ -185,7 +188,6 @@
     "Pasted Pics/Pasted image 20240821174024.png",
     "Pasted Pics",
     "Pasted Pics/Pasted image 20240821182154.png",
-    "Pasted Pics/Pasted image 20240821180843.png",
     "7;00 - 3303 - Money and Banking",
     "2;30 - 4322 - Strategic Management/Syllabus.md",
     "1;00 - 4325 - Enterprise System Management/4325 - The Digital Transformation Playbook.pdf",
@@ -199,7 +201,6 @@
     "Archive/OPMA/Quality MGMT and Six Sigma.md",
     "Archive/OPMA/04-22.md",
     "Archive/Java/SQLite.md",
-    "Archive/Java/Notes from Book.md",
     "Archive",
     "1;00 - 4325 - Enterprise System Management",
     "Untitled.canvas",
