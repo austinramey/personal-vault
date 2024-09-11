@@ -22,3 +22,17 @@
 - Do not bury your ask
 - Make it easy
 - Include your contact info
+# Letters of Recommendations
+- Date you need the letter by
+	- Should have a month to craft the letter
+- What program you are interested in
+- Why are you choosing that professor for writing?
+- Attach your CV
+# Developing Human Capital
+- Training and dev must take place at all levels of org.
+	- requires active involement of leaders at all levels
+	- Includes mentoring an sponsoring lower-level employees
+	- Emphasizes the need to monior progress and track dev so knowledge can be shared
+- Consider evaluraing human capital to assess the soft skills
+	- Use 360-degree eval and feedback systems
+- 
