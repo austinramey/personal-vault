@@ -16,4 +16,9 @@
 	- Tech-savviness, ability to innovate
 	- Racially diverse
 	- Want challenging opportunities, flexible work options
-## How are you building your social skills?
+# Let's Write an Email
+- Subject line is the most important part
+- Break text up as to read it better
+- Do not bury your ask
+- Make it easy
+- Include your contact info
