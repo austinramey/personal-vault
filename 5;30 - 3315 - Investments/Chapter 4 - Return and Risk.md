@@ -49,3 +49,4 @@ Can either look at historical performance, or
 - <mark style="background: #FF5582A6;">Nominal Rate of Return</mark>: the return that the investment earns does not account the effects of <mark style="background: #D2B3FFA6;">inflation</mark> on <mark style="background: #D2B3FFA6;">purchasing power</mark>
 - <mark style="background: #FF5582A6;">Real rate of return</mark>: measures the increase in <mark style="background: #D2B3FFA6;">purchasing power</mark> that the investment provides
 Real return >> Nominal return - inflation rate
+# Risk
