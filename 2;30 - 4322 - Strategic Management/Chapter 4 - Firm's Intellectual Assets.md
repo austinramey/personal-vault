@@ -35,4 +35,14 @@
 	- Emphasizes the need to monior progress and track dev so knowledge can be shared
 - Consider evaluraing human capital to assess the soft skills
 	- Use 360-degree eval and feedback systems
-- 
+# Retaining Human Capital
+- Retention mechanism must prevent transfer of valuable and sensitive info
+	- Help employees identifiy with orgs mission and goals
+## Redefining Jobs and Managing Diversity
+- Redefining jobs, such as breaking high-end knowledge work into specialized pieces, helps address skill shortages
+- Sound mgmt of diverse workforce can improve an org's effectiveness and comp advantages through
+	- Lower cost
+	- Better rep, leading to resouce acquisition
+	- Marketing sensitivity to client cultures
+	- Creativity through diversity of perspectives
+	- Better problem solving
