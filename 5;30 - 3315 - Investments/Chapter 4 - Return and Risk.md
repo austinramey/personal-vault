@@ -53,6 +53,7 @@ Real return >> Nominal return - inflation rate
 Longer period allows for a more accurate estimation
 - <mark style="background: #FF5582A6;">Risk</mark>: uncertainty surrounding the actual return that an investment will generate
 ## Measuring Risk
+![[screen-2024-09-11-17-49-14.png]]
 ### Variance and StdDev
 - Variance: Deviation from the mean or the expected value
 - <mark style="background: #FF5582A6;">Risk of a Single Asset</mark>: measured using std dev of returns
