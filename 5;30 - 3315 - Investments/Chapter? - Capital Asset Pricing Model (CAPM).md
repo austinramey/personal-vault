@@ -14,4 +14,6 @@
 Expected return on investment = Risk-free rate + Beta for investment * (Expected market return - Risk free rate)
 ![[screen-2024-09-18-18-08-59.png]]
 
-## Example 1
+## Measuring Beta for a Portfolio
+- The portfolio beta: calculated as the weighted average of the betas of the individual assets in the portfolio
+- 
