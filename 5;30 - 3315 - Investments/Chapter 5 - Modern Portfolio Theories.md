@@ -31,4 +31,11 @@ Systematic vs Idiosyncratic Risk
 - Total risk can be broken down into
 	1. Systematic/market/non-diversifiable risk
 	2. Idiosyncratic/firm-specific/diversifiable risk
+- Diversification should reduce idiosyncratic risk
+	- We want to elim. idio. risk because the reward for holding risky assets depends on systematic risk
+## Concept of Diversification
+- The lower the correlation, the greater the risk reduction that investors can achieve by combining those assets in a portfolio
+	- When corr. = 1, portfolios merely average the risk of the assets
+	- When corr < 1, portfolio's risk will be less than average
+	- When corr = -1, there will be some comb. of the assets that produce a portfolio with no risk at all
 - 
