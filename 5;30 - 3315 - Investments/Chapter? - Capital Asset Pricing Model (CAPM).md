@@ -16,4 +16,7 @@ Expected return on investment = Risk-free rate + Beta for investment * (Expected
 
 ## Measuring Beta for a Portfolio
 - The portfolio beta: calculated as the weighted average of the betas of the individual assets in the portfolio
-- 
+## Security Market Line (SML)
+- SML: graphically shows expected return for any security given its beta
+	- For each level of undiversifiable risk, the SML shows the return the investor should expect to earn in the marketplace
+	- It is the picture of CAPM
