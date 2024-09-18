@@ -10,4 +10,25 @@ What does it mean to have a negative wealth proportion?
 	- <mark style="background: #FF5582A6;">Income-oriented</mark>: designed to produce regular dividends and interest
 # Return of a Portfolio
 ![[screen-2024-09-11-18-23-47.png]]
+# Risk of a Portfolio
+- To quantify a <mark style="background: #FF5582A6;">single asset</mark> risk, we measure its stnd dev.
+- When combined in a portfolio, risk is affected by
+	- Standard deviation of each asset within the portfolio
+	- Weight of each asset
+	- Correlation between each asset in the portfolio
+## Measuring Assets Co-Movement
+Covariance and Correlation: Review of two stat concepts
+- Covariance: Measure if two returns move together or opposite to one another
+![[screen-2024-09-18-17-35-22.png]]
+- Correlation: Normalized covariance to measure that covar. lies between -1 and 1
+![[screen-2024-09-18-17-36-02.png]]
+	- Positively correlated: two series tend to move in same direction
+	- Negatively correlated: two series tend to move in opposite directions
+	- Uncorrelated: two series bear no relationship to each other
+# Diversification
+## Portfolio's Source of Risk
+Systematic vs Idiosyncratic Risk
+- Total risk can be broken down into
+	1. Systematic/market/non-diversifiable risk
+	2. Idiosyncratic/firm-specific/diversifiable risk
 - 

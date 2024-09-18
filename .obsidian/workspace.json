@@ -11,8 +11,12 @@
             "id": "199c0d14aee5fdcb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5;30 - 3315 - Investments/Chapter 5 - Modern Portfolio Theories.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -90,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1;00 - 4325 - Enterprise System Management/Chapter 4 - Turning Data into Assets.md",
+                "file": "5;30 - 3315 - Investments/Chapter 5 - Modern Portfolio Theories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1;00 - 4325 - Enterprise System Management/Chapter 4 - Turning Data into Assets.md",
+                "file": "5;30 - 3315 - Investments/Chapter 5 - Modern Portfolio Theories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1;00 - 4325 - Enterprise System Management/Chapter 4 - Turning Data into Assets.md"
+                "file": "5;30 - 3315 - Investments/Chapter 5 - Modern Portfolio Theories.md"
               }
             }
           }
@@ -152,8 +157,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "91e61c52a6065f60",
+  "active": "199c0d14aee5fdcb",
   "lastOpenFiles": [
+    "screen-2024-09-18-17-36-02.png",
+    "screen-2024-09-18-17-35-22.png",
     "5;30 - 3315 - Investments/Chapter 5 - Modern Portfolio Theories.md",
     "1;00 - 4325 - Enterprise System Management/Chapter 4 - Turning Data into Assets.md",
     "screen-2024-09-11-18-23-47.png",
@@ -181,7 +188,6 @@
     "7;00 - 3303 - Money and Banking/Open Market Economy.md",
     "7;00 - 3303 - Money and Banking/Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition (2019, Pearson Education Limited) - libgen.li.pdf",
     "7;00 - 3303 - Money and Banking/Syllabus.md",
-    "Pasted Pics/Pasted image 20240821174024.png",
     "Pasted Pics",
     "7;00 - 3303 - Money and Banking",
     "2;30 - 4322 - Strategic Management/Syllabus.md",
@@ -195,7 +201,6 @@
     "Archive/SAD/Chapter 11.md",
     "Archive/OPMA/Quality MGMT and Six Sigma.md",
     "Archive/OPMA/04-22.md",
-    "Archive/Java/SQLite.md",
     "Archive",
     "1;00 - 4325 - Enterprise System Management",
     "Untitled.canvas",
