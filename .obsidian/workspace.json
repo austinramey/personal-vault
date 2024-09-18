@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5;30 - 3315 - Investments/Chapter 5 - Modern Portfolio Theories.md",
+                "file": "1;00 - 4325 - Enterprise System Management/Chapter 4 - Turning Data into Assets.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5;30 - 3315 - Investments/Chapter 5 - Modern Portfolio Theories.md",
+                "file": "1;00 - 4325 - Enterprise System Management/Chapter 4 - Turning Data into Assets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5;30 - 3315 - Investments/Chapter 5 - Modern Portfolio Theories.md",
+                "file": "1;00 - 4325 - Enterprise System Management/Chapter 4 - Turning Data into Assets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5;30 - 3315 - Investments/Chapter 5 - Modern Portfolio Theories.md"
+                "file": "1;00 - 4325 - Enterprise System Management/Chapter 4 - Turning Data into Assets.md"
               }
             }
           }
@@ -159,10 +158,11 @@
   },
   "active": "5276e4075ffcbd9b",
   "lastOpenFiles": [
+    "5;30 - 3315 - Investments/Chapter 5 - Modern Portfolio Theories.md",
+    "1;00 - 4325 - Enterprise System Management/Chapter 4 - Turning Data into Assets.md",
     "screen-2024-09-11-18-23-47.png",
     "Pasted image 20240911182404.png",
     "5;30 - 3315 - Investments/Chapter 4 - Return and Risk.md",
-    "5;30 - 3315 - Investments/Chapter 5 - Modern Portfolio Theories.md",
     "Pasted image 20240911181023.png",
     "Pasted Pics/screen-2024-09-11-17-49-14.png",
     "2;30 - 4322 - Strategic Management/Chapter 4 - Firm's Intellectual Assets.md",
@@ -187,7 +187,6 @@
     "7;00 - 3303 - Money and Banking/Syllabus.md",
     "Pasted Pics/Pasted image 20240821174024.png",
     "Pasted Pics",
-    "Pasted Pics/Pasted image 20240821182154.png",
     "7;00 - 3303 - Money and Banking",
     "2;30 - 4322 - Strategic Management/Syllabus.md",
     "1;00 - 4325 - Enterprise System Management/4325 - The Digital Transformation Playbook.pdf",
