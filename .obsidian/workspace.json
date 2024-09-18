@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7738723955b47efb",
+        "id": "59218f0f7338732d",
         "type": "tabs",
         "children": [
           {
-            "id": "5276e4075ffcbd9b",
+            "id": "199c0d14aee5fdcb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1;00 - 4325 - Enterprise System Management/Chapter 4 - Turning Data into Assets.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -156,7 +152,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5276e4075ffcbd9b",
+  "active": "91e61c52a6065f60",
   "lastOpenFiles": [
     "5;30 - 3315 - Investments/Chapter 5 - Modern Portfolio Theories.md",
     "1;00 - 4325 - Enterprise System Management/Chapter 4 - Turning Data into Assets.md",
