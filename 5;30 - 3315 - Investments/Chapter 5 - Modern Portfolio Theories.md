@@ -38,4 +38,5 @@ Systematic vs Idiosyncratic Risk
 	- When corr. = 1, portfolios merely average the risk of the assets
 	- When corr < 1, portfolio's risk will be less than average
 	- When corr = -1, there will be some comb. of the assets that produce a portfolio with no risk at all
-- 
+# Frontier: Efficient and Inefficient
+![[screen-2024-09-18-17-54-44.png]]
