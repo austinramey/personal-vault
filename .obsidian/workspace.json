@@ -11,11 +11,9 @@
             "id": "199c0d14aee5fdcb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "5;30 - 3315 - Investments/Chapter? - Capital Asset Pricing Model (CAPM).md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted Pics/screen-2024-09-18-18-08-59.png"
               }
             }
           }
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -95,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5;30 - 3315 - Investments/Chapter? - Capital Asset Pricing Model (CAPM).md",
+                "file": "Pasted Pics/screen-2024-09-18-18-08-59.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5;30 - 3315 - Investments/Chapter? - Capital Asset Pricing Model (CAPM).md",
+                "file": "Pasted Pics/screen-2024-09-18-18-08-59.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5;30 - 3315 - Investments/Chapter? - Capital Asset Pricing Model (CAPM).md"
+                "file": "Pasted Pics/screen-2024-09-18-18-08-59.png"
               }
             }
           }
@@ -157,26 +154,25 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "199c0d14aee5fdcb",
+  "active": "91e61c52a6065f60",
   "lastOpenFiles": [
-    "screen-2024-09-18-18-08-59.png",
-    "screen-2024-09-18-18-06-43.png",
-    "5;30 - 3315 - Investments/Chapter 5 - Modern Portfolio Theories.md",
-    "screen-2024-09-18-17-54-44.png",
     "5;30 - 3315 - Investments/Chapter? - Capital Asset Pricing Model (CAPM).md",
-    "screen-2024-09-18-17-36-02.png",
-    "screen-2024-09-18-17-35-22.png",
+    "Pasted Pics/screen-2024-09-18-18-08-59.png",
+    "Pasted Pics/screen-2024-09-18-18-06-43.png",
+    "5;30 - 3315 - Investments/Chapter 5 - Modern Portfolio Theories.md",
+    "Pasted Pics/screen-2024-09-18-17-54-44.png",
+    "Pasted Pics/screen-2024-09-18-17-36-02.png",
+    "Pasted Pics/screen-2024-09-18-17-35-22.png",
     "1;00 - 4325 - Enterprise System Management/Chapter 4 - Turning Data into Assets.md",
-    "screen-2024-09-11-18-23-47.png",
-    "Pasted image 20240911182404.png",
+    "Pasted Pics/screen-2024-09-11-18-23-47.png",
+    "Pasted Pics/Pasted image 20240911182404.png",
     "5;30 - 3315 - Investments/Chapter 4 - Return and Risk.md",
-    "Pasted image 20240911181023.png",
+    "Pasted Pics/Pasted image 20240911181023.png",
     "Pasted Pics/screen-2024-09-11-17-49-14.png",
     "2;30 - 4322 - Strategic Management/Chapter 4 - Firm's Intellectual Assets.md",
     "Pasted Pics/Screenshot_2024-09-09_18-16-57.png",
     "5;30 - 3315 - Investments/Chapter 3 - Time Value of Money (TVM).md",
     "2;30 - 4322 - Strategic Management/Chapter 3 - Assessing Internal Environment.md",
-    "Pasted Pics/Screenshot_2024-09-04_17-50-53.png",
     "[.md",
     "1;00 - 4325 - Enterprise System Management/Chapter 2 - Harnessing Customer Connections.md",
     "5;30 - 3315 - Investments/Chapter 2 - Security Markets.md",
