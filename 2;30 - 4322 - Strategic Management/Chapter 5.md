@@ -18,6 +18,20 @@
 ### Differentiation
 - Products and/or services that are unique and valued
 - Emphasis on non-price attributes for which customers will gladly pay a premium
+- Take on many forms
+	- Quality
+	- Technology
+	- Innovation
+	- Features
+	- Customer service
+It requires:
+- A level of cost parity relative to competitors
+- Integration of multiple points along the value chain
+	- Superior material handling operations to minimize damage
+	- Low defect rates to improve quality
+	- Accurate and responsive order processing
+	- Personal relationships with key customers
+	- Rapid response to customer service requests
 ### Focus
 - Narrow product lines, buyer segments or targeted geographic markets
 	- Advantages obtained through differentiation or cost leadership
