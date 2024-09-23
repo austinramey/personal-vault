@@ -31,3 +31,8 @@
 2. Stock returns are volatile and hard to predict
 3. Stocks generally distribute less current income than some other investments
 ## Basic Characteristics
+- Rights offering
+	- Existing stockholders are given first opportunity to purchase new shares in proportion to their current ownership
+- Stock spin-off: conversion of one of a firm's subsidiaries or divisions to a stand-alone company
+- Stock split: when a company increased number of shares outstanding by exchanging a specified number of new shares of stock for each outstanding share
+- 
