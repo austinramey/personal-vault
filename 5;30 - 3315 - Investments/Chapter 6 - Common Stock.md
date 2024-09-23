@@ -12,4 +12,22 @@
 - __Common__ stock shareholders are __part owners__ of the firm, and thus have a __claim__ on the wealth created by the company
 	- This claim is not w/o limitations
 	- Residual owners:
-		- A common stockholder's claim on company with is subordinate t
+		- A common stockholder's claim on company with is __subordinate__ to the claims of other investors, such as __lenders__
+	- There is no guarantee they will receive any return on investment
+## Appeal of Common Stocks
+1. Popular investment for both individual and institutional investor
+2. Stocks may increase in value over time and generate capital gains
+3. Stocks may provide a periodic income stream through dividends
+## Advantages of Stock Ownership
+1. Provide opportunity for __substantial__ returns
+2. Stocks typically outperform bonds
+3. Stocks provide protection from inflation
+4. Stocks are easy to buy and sell
+5. Costs associated with trading stocks are modest
+6. Price and market information is easy to find
+7. Unit cost per share of stock is low enough to encourage ownership
+## Disadvantages of Stock Ownership
+1. Risk is the most significant disadvantage
+2. Stock returns are volatile and hard to predict
+3. Stocks generally distribute less current income than some other investments
+## Basic Characteristics
