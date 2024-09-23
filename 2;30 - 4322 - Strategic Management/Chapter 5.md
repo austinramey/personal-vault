@@ -21,3 +21,9 @@
 ### Focus
 - Narrow product lines, buyer segments or targeted geographic markets
 	- Advantages obtained through differentiation or cost leadership
+# Improving Competitive Position vis-a-vis the Five Forces: Cost Leadership
+- An overall low-cost position
+- Protects a firm against rivalry from compeittiors
+- Protects the firm against powerful buyers
+- Provides more flexibility to cope with demands from powerful suppliers who want to increase input costs
+- Provides substantial entry barriers due to economies of scale
