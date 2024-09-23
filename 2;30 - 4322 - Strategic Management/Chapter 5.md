@@ -37,7 +37,13 @@ Overall differentiation strategy
 - Provides higher margins that enable the firm to deal with supplier power
 - Reduces buyer power because buyers lack suitable alternatives
 - Establishes customer loyalty and less threat from substitutes
-
+Pitfalls of Differentiation
+- Unique does not mean valuable
+- Too much differentiation
+- Too high a price premium
+- Differentiation that is easily imitated
+- Dilution of brand identification through product line extensions
+- Perceptions of differentiation may vary between buyers and sellers
 ### Focus
 - Narrow product lines, buyer segments or targeted geographic markets
 	- Advantages obtained through differentiation or cost leadership
