@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/Chapter 5.md",
+                "file": "5;30 - 3315 - Investments/Chapter ? - CAPM.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/Chapter 5.md",
+                "file": "5;30 - 3315 - Investments/Chapter ? - CAPM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/Chapter 5.md",
+                "file": "5;30 - 3315 - Investments/Chapter ? - CAPM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/Chapter 5.md"
+                "file": "5;30 - 3315 - Investments/Chapter ? - CAPM.md"
               }
             }
           }
@@ -158,13 +159,14 @@
   },
   "active": "fd954ccb53ffe80b",
   "lastOpenFiles": [
+    "5;30 - 3315 - Investments/Chapter 5 - Modern Portfolio Theories.md",
+    "5;30 - 3315 - Investments/Chapter ? - CAPM.md",
     "2;30 - 4322 - Strategic Management/Chapter 5.md",
     "Bible/9-22 SCF.md",
     "Bible",
     "5;30 - 3315 - Investments/Chapter? - Capital Asset Pricing Model (CAPM).md",
     "Pasted Pics/screen-2024-09-18-18-08-59.png",
     "Pasted Pics/screen-2024-09-18-18-06-43.png",
-    "5;30 - 3315 - Investments/Chapter 5 - Modern Portfolio Theories.md",
     "Pasted Pics/screen-2024-09-18-17-54-44.png",
     "Pasted Pics/screen-2024-09-18-17-36-02.png",
     "Pasted Pics/screen-2024-09-18-17-35-22.png",
@@ -200,7 +202,6 @@
     "5;30 - 3315 - Investments",
     "2;30 - 4322 - Strategic Management",
     "Archive/SAD/Final Exam Notes.md",
-    "Archive/SAD/Chapter 11.md",
     "Archive",
     "1;00 - 4325 - Enterprise System Management",
     "Untitled.canvas",
