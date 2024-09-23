@@ -33,6 +33,13 @@
 ## Basic Characteristics
 - Rights offering
 	- Existing stockholders are given first opportunity to purchase new shares in proportion to their current ownership
-- Stock spin-off: conversion of one of a firm's subsidiaries or divisions to a stand-alone company
-- Stock split: when a company increased number of shares outstanding by exchanging a specified number of new shares of stock for each outstanding share
-- 
+- Stock spin-off: 
+	- conversion of one of a firm's subsidiaries or divisions to a stand-alone company
+- Stock split: 
+	- when a company increased number of shares outstanding by exchanging a specified number of new shares of stock for each outstanding share
+- Treasury stock
+	- When a company repurchases it's own stocks
+	- Often called buybacks
+- Classified Common Stock
+	- Common stock issued in different classes, each of which entitles holders to different privileges and benefits
+## Type
