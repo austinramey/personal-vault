@@ -11,8 +11,12 @@
             "id": "fd954ccb53ffe80b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2;30 - 4322 - Strategic Management/Chapter 5.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted Pics/screen-2024-09-18-18-08-59.png",
+                "file": "2;30 - 4322 - Strategic Management/Chapter 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted Pics/screen-2024-09-18-18-08-59.png",
+                "file": "2;30 - 4322 - Strategic Management/Chapter 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted Pics/screen-2024-09-18-18-08-59.png"
+                "file": "2;30 - 4322 - Strategic Management/Chapter 5.md"
               }
             }
           }
@@ -152,8 +156,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "91e61c52a6065f60",
+  "active": "fd954ccb53ffe80b",
   "lastOpenFiles": [
+    "2;30 - 4322 - Strategic Management/Chapter 5.md",
+    "Bible/9-22 SCF.md",
+    "Bible",
     "5;30 - 3315 - Investments/Chapter? - Capital Asset Pricing Model (CAPM).md",
     "Pasted Pics/screen-2024-09-18-18-08-59.png",
     "Pasted Pics/screen-2024-09-18-18-06-43.png",
@@ -194,11 +201,9 @@
     "2;30 - 4322 - Strategic Management",
     "Archive/SAD/Final Exam Notes.md",
     "Archive/SAD/Chapter 11.md",
-    "Archive/OPMA/Quality MGMT and Six Sigma.md",
     "Archive",
     "1;00 - 4325 - Enterprise System Management",
     "Untitled.canvas",
-    "Books/Kim D, Solomon MG - Fundamentals of Information_240221_083826-1.pdf",
-    "Books/Java How to Program.pdf"
+    "Books/Kim D, Solomon MG - Fundamentals of Information_240221_083826-1.pdf"
   ]
 }
