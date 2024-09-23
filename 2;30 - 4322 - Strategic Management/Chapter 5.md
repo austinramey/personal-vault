@@ -32,12 +32,18 @@ It requires:
 	- Accurate and responsive order processing
 	- Personal relationships with key customers
 	- Rapid response to customer service requests
+Overall differentiation strategy
+- Creates higher entry barriers due to customer loyalty
+- Provides higher margins that enable the firm to deal with supplier power
+- Reduces buyer power because buyers lack suitable alternatives
+- Establishes customer loyalty and less threat from substitutes
+
 ### Focus
 - Narrow product lines, buyer segments or targeted geographic markets
 	- Advantages obtained through differentiation or cost leadership
 # Improving Competitive Position vis-a-vis the Five Forces: Cost Leadership
 - An overall low-cost position
-- Protects a firm against rivalry from compeittiors
+- Protects a firm against rivalry from competitors
 - Protects the firm against powerful buyers
 - Provides more flexibility to cope with demands from powerful suppliers who want to increase input costs
 - Provides substantial entry barriers due to economies of scale
