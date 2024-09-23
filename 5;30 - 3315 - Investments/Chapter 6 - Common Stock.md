@@ -42,4 +42,32 @@
 	- Often called buybacks
 - Classified Common Stock
 	- Common stock issued in different classes, each of which entitles holders to different privileges and benefits
-## Type
+	- Prevents being taken over too quickly
+## Types of Stocks
+- Blue-chip stocks
+	- Stocks issued by large, well-established firms with long track records of earning profits and paying dividends
+- Income stocks
+	- Stocks with a long history of regularly paying higher-than-average dividends
+- Growth stocks
+	- Stocks issued by companies experiencing rapid growth in revenues and earnings
+- Tech stocks
+	- Representing tech sector of market
+- Speculative stocks
+	- Stocks that offer potential for substantial price appreciation, but lack sustained records of success
+- Cyclical stocks
+	- Stocks issued by companies whose earnings are closely linked to the overall economy
+- Defensive stocks
+	- Stocks that tend to hold their valu, and even do well, when the economy starts to falter
+- Large-cap stocks
+	- Stocks of large companies with market capitalizations over $10 billion
+- Mid-cap stocks
+	- Market cap between $2 billion and $10 billion
+- Small-cap stocks
+	- Less than $2 billion
+## Investment Strategies
+- Buy-and-Hold
+	- Objective is to place money in a secure investment and watch it grow over time
+	- Investors buy high quality that offer attractive current income/gains
+	- Investors hold these for extended periods
+	- Popular with value-oriented investors
+- 
