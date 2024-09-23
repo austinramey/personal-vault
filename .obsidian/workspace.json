@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "59218f0f7338732d",
+        "id": "2c4ed2402df089ce",
         "type": "tabs",
         "children": [
           {
-            "id": "199c0d14aee5fdcb",
+            "id": "fd954ccb53ffe80b",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted Pics/screen-2024-09-18-18-08-59.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
