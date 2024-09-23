@@ -9,9 +9,15 @@
 ### Overall cost leadership
 - Based on creating a low-cost position relative to a firm's peers
 - Managing relationships throughout the entire value chain to lower costs
+- Involves:
+	- Aggressive construction of efficient scale facilities
+	- Vigorous pursuit of cost reductions from experience
+	- Tight cost and overhead control
+	- Avoidance of marginal customer accounts
+	- Cost minimization, such as AI, research and dev, service, etc.
 ### Differentiation
 - Products and/or services that are unique and valued
 - Emphasis on non-price attributes for which customers will gladly pay a premium
 ### Focus
 - Narrow product lines, buyer segments or targeted geographic markets
-	- Advantages obtained through d or cost leadership
+	- Advantages obtained through differentiation or cost leadership
