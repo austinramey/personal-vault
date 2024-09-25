@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "59218f0f7338732d",
+        "id": "2c4ed2402df089ce",
         "type": "tabs",
         "children": [
           {
-            "id": "199c0d14aee5fdcb",
+            "id": "fd954ccb53ffe80b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted Pics/screen-2024-09-18-18-08-59.png"
+                "file": "5;30 - 3315 - Investments/Chapter 6 - Common Stock.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -92,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted Pics/screen-2024-09-18-18-08-59.png",
+                "file": "5;30 - 3315 - Investments/Chapter 6 - Common Stock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted Pics/screen-2024-09-18-18-08-59.png",
+                "file": "5;30 - 3315 - Investments/Chapter 6 - Common Stock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted Pics/screen-2024-09-18-18-08-59.png"
+                "file": "5;30 - 3315 - Investments/Chapter 6 - Common Stock.md"
               }
             }
           }
@@ -154,12 +157,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "91e61c52a6065f60",
+  "active": "fd954ccb53ffe80b",
   "lastOpenFiles": [
+    "5;30 - 3315 - Investments/Chapter ? - CAPM.md",
+    "5;30 - 3315 - Investments/Chapter 6 - Common Stock.md",
+    "screen-2024-09-23-17-46-40.png",
+    "screen-2024-09-23-17-42-47.png",
+    "5;30 - 3315 - Investments/Chapter 5 - Modern Portfolio Theories.md",
+    "2;30 - 4322 - Strategic Management/Chapter 5.md",
+    "Bible/9-22 SCF.md",
+    "Bible",
     "5;30 - 3315 - Investments/Chapter? - Capital Asset Pricing Model (CAPM).md",
     "Pasted Pics/screen-2024-09-18-18-08-59.png",
     "Pasted Pics/screen-2024-09-18-18-06-43.png",
-    "5;30 - 3315 - Investments/Chapter 5 - Modern Portfolio Theories.md",
     "Pasted Pics/screen-2024-09-18-17-54-44.png",
     "Pasted Pics/screen-2024-09-18-17-36-02.png",
     "Pasted Pics/screen-2024-09-18-17-35-22.png",
@@ -168,9 +178,7 @@
     "Pasted Pics/Pasted image 20240911182404.png",
     "5;30 - 3315 - Investments/Chapter 4 - Return and Risk.md",
     "Pasted Pics/Pasted image 20240911181023.png",
-    "Pasted Pics/screen-2024-09-11-17-49-14.png",
     "2;30 - 4322 - Strategic Management/Chapter 4 - Firm's Intellectual Assets.md",
-    "Pasted Pics/Screenshot_2024-09-09_18-16-57.png",
     "5;30 - 3315 - Investments/Chapter 3 - Time Value of Money (TVM).md",
     "2;30 - 4322 - Strategic Management/Chapter 3 - Assessing Internal Environment.md",
     "[.md",
@@ -194,13 +202,9 @@
     "Untitled Kanban.md",
     "5;30 - 3315 - Investments",
     "2;30 - 4322 - Strategic Management",
-    "Archive/SAD/Final Exam Notes.md",
-    "Archive/SAD/Chapter 11.md",
-    "Archive/OPMA/Quality MGMT and Six Sigma.md",
     "Archive",
     "1;00 - 4325 - Enterprise System Management",
     "Untitled.canvas",
-    "Books/Kim D, Solomon MG - Fundamentals of Information_240221_083826-1.pdf",
-    "Books/Java How to Program.pdf"
+    "Books/Kim D, Solomon MG - Fundamentals of Information_240221_083826-1.pdf"
   ]
 }
