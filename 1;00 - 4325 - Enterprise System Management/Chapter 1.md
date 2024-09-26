@@ -105,3 +105,4 @@ Realized
 	- SaaS
 		- Reduced operation expenses
 		- Reduced capital expenses
+[[4325 - The Digital Transformation Playbook.pdf#page=129&selection=30,0,30,7|4325 - The Digital Transformation Playbook, page 129]]
