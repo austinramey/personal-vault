@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd954ccb53ffe80b",
+            "id": "0fbd0534d86727bc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "1;00 - 4325 - Enterprise System Management/4325 - The Digital Transformation Playbook.pdf"
+                "file": "2;30 - 4322 - Strategic Management/Syllabus.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1;00 - 4325 - Enterprise System Management/4325 - The Digital Transformation Playbook.pdf",
+                "file": "2;30 - 4322 - Strategic Management/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1;00 - 4325 - Enterprise System Management/4325 - The Digital Transformation Playbook.pdf",
+                "file": "2;30 - 4322 - Strategic Management/Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1;00 - 4325 - Enterprise System Management/4325 - The Digital Transformation Playbook.pdf"
+                "file": "2;30 - 4322 - Strategic Management/Syllabus.md"
               }
             }
           }
@@ -154,10 +156,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fd954ccb53ffe80b",
+  "active": "0fbd0534d86727bc",
   "lastOpenFiles": [
-    "1;00 - 4325 - Enterprise System Management/Chapter 1.md",
+    "2;30 - 4322 - Strategic Management/Meeting Notes 9-27.md",
     "1;00 - 4325 - Enterprise System Management/4325 - The Digital Transformation Playbook.pdf",
+    "1;00 - 4325 - Enterprise System Management/Chapter 1.md",
     "1;00 - 4325 - Enterprise System Management/Chapter 4 - Turning Data into Assets.md",
     "1;00 - 4325 - Enterprise System Management/Chapter 2 - Harnessing Customer Connections.md",
     "1;00 - 4325 - Enterprise System Management/Syllabus.md",
@@ -195,7 +198,6 @@
     "7;00 - 3303 - Money and Banking/Syllabus.md",
     "Pasted Pics",
     "7;00 - 3303 - Money and Banking",
-    "2;30 - 4322 - Strategic Management/Syllabus.md",
     "5;30 - 3315 - Investments",
     "2;30 - 4322 - Strategic Management",
     "Archive",
