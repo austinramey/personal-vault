@@ -33,14 +33,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5b9a6f4769b2104",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "41883840575f7732",
             "type": "leaf",
             "state": {
@@ -56,14 +48,6 @@
             }
           },
           {
-            "id": "8a70e4422d687d2e",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
             "id": "91e61c52a6065f60",
             "type": "leaf",
             "state": {
@@ -72,9 +56,19 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "c6cb68e3ad318b26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2;30 - 4322 - Strategic Management/! Case Analysis.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -127,18 +121,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "c6cb68e3ad318b26",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2;30 - 4322 - Strategic Management/! Case Analysis.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -156,14 +141,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0fbd0534d86727bc",
+  "active": "c6cb68e3ad318b26",
   "lastOpenFiles": [
+    "2;30 - 4322 - Strategic Management/! Case Analysis.md",
     "screen-2024-09-27-19-00-47.png",
     "screen-2024-09-27-18-58-52.png",
     "screen-2024-09-27-18-57-21.png",
     "screen-2024-09-27-18-56-18.png",
     "2;30 - 4322 - Strategic Management/Syllabus.md",
-    "2;30 - 4322 - Strategic Management/! Case Analysis.md",
     "2;30 - 4322 - Strategic Management/Meeting Notes 9-27.md",
     "1;00 - 4325 - Enterprise System Management/4325 - The Digital Transformation Playbook.pdf",
     "1;00 - 4325 - Enterprise System Management/Chapter 1.md",
@@ -184,7 +169,6 @@
     "5;30 - 3315 - Investments/Chapter? - Capital Asset Pricing Model (CAPM).md",
     "Pasted Pics/screen-2024-09-18-18-08-59.png",
     "Pasted Pics/screen-2024-09-18-18-06-43.png",
-    "Pasted Pics/screen-2024-09-18-17-54-44.png",
     "5;30 - 3315 - Investments/Chapter 4 - Return and Risk.md",
     "2;30 - 4322 - Strategic Management/Chapter 4 - Firm's Intellectual Assets.md",
     "5;30 - 3315 - Investments/Chapter 3 - Time Value of Money (TVM).md",
