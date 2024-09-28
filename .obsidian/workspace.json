@@ -11,9 +11,11 @@
             "id": "0fbd0534d86727bc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted Pics/screen-2024-09-27-18-56-18.png"
+                "file": "2;30 - 4322 - Strategic Management/! Case Analysis.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -61,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted Pics/screen-2024-09-27-18-56-18.png"
+                "file": "2;30 - 4322 - Strategic Management/! Case Analysis.md"
               }
             }
           }
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted Pics/screen-2024-09-27-18-56-18.png",
+                "file": "2;30 - 4322 - Strategic Management/! Case Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted Pics/screen-2024-09-27-18-56-18.png",
+                "file": "2;30 - 4322 - Strategic Management/! Case Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,13 +141,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "91e61c52a6065f60",
+  "active": "0fbd0534d86727bc",
   "lastOpenFiles": [
+    "Pasted Pics/screen-2024-09-27-18-56-18.png",
     "2;30 - 4322 - Strategic Management/! Case Analysis.md",
     "Pasted Pics/screen-2024-09-27-19-00-47.png",
     "Pasted Pics/screen-2024-09-27-18-58-52.png",
     "Pasted Pics/screen-2024-09-27-18-57-21.png",
-    "Pasted Pics/screen-2024-09-27-18-56-18.png",
     "2;30 - 4322 - Strategic Management/Syllabus.md",
     "2;30 - 4322 - Strategic Management/Meeting Notes 9-27.md",
     "1;00 - 4325 - Enterprise System Management/4325 - The Digital Transformation Playbook.pdf",
