@@ -17,3 +17,25 @@
 ### Required Rate of Return
 - We can use CAPM to obtain the discount rates r
 ![[screen-2024-09-30-17-58-35.png]]
+- What is themost uncertain part in the CAPM equation?
+	- Expected market return
+### Example 1
+- p0 = 48
+- O1 = 4
+- p1 = 52
+- r = 12%
+HPR = CG + income / initial
+(p1-p0) + 01 / p0
+= 52-48+4/48
+= 16.67%
+Outperforming, so positive alpha value
+
+v0 = D1 + P1 / 1+r
+= 4+52 / 1.12
+v0 = 50 > p0
+Buy signal, undervalued stock
+
+## Model 2: Constant- and Zero-Growth DDM
+### Equation
+- We have to make some strong and simple assumptions
+- We will assume that dividends grow at a constant rate
