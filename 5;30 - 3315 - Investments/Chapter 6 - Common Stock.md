@@ -103,3 +103,15 @@
 	- Current price of the stock in the stock market
 	- Forward-looking, reflecting investors' expectations about how the company will perform in the future
 	- When a stock market value drops below book value, firm is usually dealing with financial distress
+- Investment Value:
+	- Amount that investors believe the stock should be trading for, or what they think it is worth
+	- Probably the most important measure
+## Common Stock Dividends
+- Dividends represent the return part of the profit of the company to the owners
+	- More predictable
+	- Preferred when seeking lower risk
+### Dividend Decision: Corporate vs Market Factors
+1. Corporate:
+	- Growth proespects: How much does the firm need of their earnings to invest and finance future growth?
+	- Cash position: Make sure dividends won't lead to a cash shortfall
+	- Loan agreements: Is the firm leagally limited in the amount of dividends it can pay
