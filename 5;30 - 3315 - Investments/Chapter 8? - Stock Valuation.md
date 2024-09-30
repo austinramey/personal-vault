@@ -11,4 +11,9 @@
 	- P = V -> firm is fairly priced
 ## Dividend-Discount Model (DDM)
 ### Setup
-- Suppose we planned to hold 
+- Suppose we planned to hold a stock for 2 years
+- Then we would recieve dividends in both year 1 and year two before selling the stock
+- ![[screen-2024-09-30-17-53-10.png]]
+### Required Rate of Return
+- We can use CAPM to obtain the discount rates r
+![[screen-2024-09-30-17-58-35.png]]
