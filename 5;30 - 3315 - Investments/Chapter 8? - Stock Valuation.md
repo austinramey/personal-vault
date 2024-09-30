@@ -49,4 +49,13 @@ Buy signal, undervalued stock
 	- Amount taht you are willing to pay, but any more and you lose money
 ## Variable-Growth DDM
 - Also known as multi-stage DDM
-	- Allows for variab
+	- Allows for variable rates of growth in idvidends over time
+	- Calculates a stock price in two stages
+	- Value of a share = PV of future during initial - growth period + PV of price at end of variable-growth period
+![[Pasted image 20240930182032.png]]
+
+### Example 4
+- annual dividend of $4.50 a share
+- Dividends are expected to grow at a rate of 8% a year for next 5
+- Then to level out at 3% a year
+- Stock has beta of 1.5, risk-free of 2%,
