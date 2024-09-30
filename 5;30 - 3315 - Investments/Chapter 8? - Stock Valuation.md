@@ -39,3 +39,14 @@ Buy signal, undervalued stock
 ### Equation
 - We have to make some strong and simple assumptions
 - We will assume that dividends grow at a constant rate
+- Works well with firms that will almost always give constant dividends
+![[Pasted image 20240930181120.png]]
+### Example 2
+- d1 = 2.3
+- r = 7%
+- g = 2%
+- v0 = D1/r-g = 2.3/7-2 = $46
+	- Amount taht you are willing to pay, but any more and you lose money
+## Variable-Growth DDM
+- Also known as multi-stage DDM
+	- Allows for variab
