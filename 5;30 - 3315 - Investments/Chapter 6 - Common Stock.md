@@ -70,4 +70,21 @@
 	- Investors buy high quality that offer attractive current income/gains
 	- Investors hold these for extended periods
 	- Popular with value-oriented investors
-- 
+- Current income
+	- Investors buy stocks that increasing ==dividend== yields
+	- Safety and stability of income are of primary importance
+	- Capital gains are of secondary importance
+	- Often used to provide a supplement to income, such as in ==retirement==
+- Aggressive growth
+	- Seeks attractive rates of return through a fully managed portfolio
+		- Aggressively trades in and out of stocks, holding for a short time
+		- Capital gains are the primary goal
+	- Timing security transactions and turning investment capital over are key elements of this strategy
+		- Substantial risks and trading costs
+		- Time consuming to manage
+- Speculation and short-term trading
+	- Main goal is capital gainst
+	- Risky
+	- Process of constantly switching from one position to another as opportunities appear
+	- Investors look for big score on unknown stocks
+	- Time consuming and high trading costs
