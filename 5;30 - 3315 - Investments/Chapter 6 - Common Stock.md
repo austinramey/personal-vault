@@ -88,3 +88,18 @@
 	- Process of constantly switching from one position to another as opportunities appear
 	- Investors look for big score on unknown stocks
 	- Time consuming and high trading costs
+## Different Categories of Stock Value
+- Par value
+	- Arbitrary amount assigned to to a stock when first issued
+	- Set very low, representing a min. value for the value of the stock
+	- Also known as stated/face value
+	- Mainly an accounting term and not useful
+- Book Value
+	- Stockholder equity as reported on the balance sheet
+	- Accounting term
+	- Diff. between company's assets and liabilities, and minus any preferred stock
+	- Backward-looking estimate of value
+- Market value
+	- Current price of the stock in the stock market
+	- Forward-looking, reflecting investors' expectations about how the company will perform in the future
+	- When a stock market value drops below book value, firm is usually dealing with financial distress
