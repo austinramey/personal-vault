@@ -58,4 +58,19 @@ Buy signal, undervalued stock
 - annual dividend of $4.50 a share
 - Dividends are expected to grow at a rate of 8% a year for next 5
 - Then to level out at 3% a year
-- Stock has beta of 1.5, risk-free of 2%,
+- Stock has beta of 1.5, risk-free of 2%, and expected return is 10%
+- Use CAPM to find required rate of return (r)
+What is v0?
+
+CAPM: r = rf + p0(E(rm)-rf)
+2% + 1.5(10-2) = 14%
+d0=4.5 | d1    | d2       |  d3       |  d4     | d5
+\----------------------------------------------------
+t=0       t=1      t=2        t=3        t=4        t=5
+
+d1 = d0(1+g) = 4.5(1+0.08) = 4.17
+d2 = d1(1+g) = 4.17(1.08) = 4.5
+d3 = d2(1+g) = 4.5(1.08) = 4.86
+d4 = d3(1+g) = 4.86(1.08) = 5.2
+d5 = d4(1+g) = 4.17(1.08) = 4.5
+
