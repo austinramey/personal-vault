@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/! Case Analysis.md",
+                "file": "2;30 - 4322 - Strategic Management/Chapter 6 - Creating Value through Diversification.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/! Case Analysis.md"
+                "file": "2;30 - 4322 - Strategic Management/Chapter 6 - Creating Value through Diversification.md"
               }
             }
           },
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/! Case Analysis.md",
+                "file": "2;30 - 4322 - Strategic Management/Chapter 6 - Creating Value through Diversification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/! Case Analysis.md",
+                "file": "2;30 - 4322 - Strategic Management/Chapter 6 - Creating Value through Diversification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,8 +152,11 @@
   },
   "active": "0fbd0534d86727bc",
   "lastOpenFiles": [
-    "Pasted Pics/screen-2024-09-27-18-56-18.png",
+    "2;30 - 4322 - Strategic Management/Chapter 5.md",
+    "2;30 - 4322 - Strategic Management/Chapter 6 - Creating Value through Diversification.md",
     "2;30 - 4322 - Strategic Management/! Case Analysis.md",
+    "Bible/9-29 SCF.md",
+    "Pasted Pics/screen-2024-09-27-18-56-18.png",
     "Pasted Pics/screen-2024-09-27-19-00-47.png",
     "Pasted Pics/screen-2024-09-27-18-58-52.png",
     "Pasted Pics/screen-2024-09-27-18-57-21.png",
@@ -171,7 +175,6 @@
     "screen-2024-09-23-17-46-40.png",
     "screen-2024-09-23-17-42-47.png",
     "5;30 - 3315 - Investments/Chapter 5 - Modern Portfolio Theories.md",
-    "2;30 - 4322 - Strategic Management/Chapter 5.md",
     "Bible/9-22 SCF.md",
     "Bible",
     "5;30 - 3315 - Investments/Chapter? - Capital Asset Pricing Model (CAPM).md",
@@ -187,7 +190,6 @@
     "1;00 - 4325 - Enterprise System Management/Chapter 1 - Cont..md",
     "5;30 - 3315 - Investments/Chapter 1 - The Investment Environment.md",
     "5;30 - 3315 - Investments/Syllabus.md",
-    "2;30 - 4322 - Strategic Management/Chapter 1 - Strategic Mgmt.md",
     "7;00 - 3303 - Money and Banking/Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition (2019, Pearson Education Limited) - libgen.li.pdf",
     "Pasted Pics",
     "7;00 - 3303 - Money and Banking",
