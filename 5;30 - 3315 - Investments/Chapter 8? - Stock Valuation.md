@@ -82,5 +82,18 @@ d4 = d3(1+g) = 4.86(1.08) = 5.2
 or 
 g = (reinvested earnings / total earnings) \* (earnings/book value)
 first part = retention rate                          second part = Return on Equity
+
+dividends per share = (1- retention ratio) * earnings per share
 ## Example 5
-- 
+- RoE = 12%
+- Payout ratio = 20%
+- EpS = $86.67
+- 1-0.12 * 86.67 = 10.40
+
+# P/E Ratio
+- Builds the stock valuation process around the stock's price-to-earning ratio
+	- Simple appraoch
+	- Favorite professional security analysts and widely used in practice
+Stock price = EPS * P/E ratio
+## Step 1: Forecasted Sales and Profits
+- Assumes that the company will continue to perform as it has
