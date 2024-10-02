@@ -145,4 +145,19 @@ Corporate entrepreneurship and new venture internal development motives
 - No need to face difficulties associated with combining activities across the value chains
 - No need to merge diverse corporate cultures
 - No need for external funding for new development
-Limi
+Limitations
+- Time-consuming
+- Need to continually develop new capabilities
+# Managerial Motives
+Mangers may act in their own self interest, eroding rather than enhancing value creation
+- Growth for growth's sake
+	- Top mangers gain more prestige, higher rankings, greater incomes, more job security
+	- Exciting and dramatic
+- Excessive egotism
+- Use of antitakeover tactics
+## Antitakeover Tactics
+- Greenmail
+- Golden parachutes
+- Poison pills
+Can benefit multiple stakeholders – not just management.
+Can raise ethical considerations because the managers of the firm are not acting in the best interests of the shareholders.
