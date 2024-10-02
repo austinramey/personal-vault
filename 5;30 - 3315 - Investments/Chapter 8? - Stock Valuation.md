@@ -133,3 +133,21 @@ Future Earings year T = Estimated Sales in T * Net Profit Margin in Year T
 3. p = P/E = EPS = $40
 4. HPR = (CG + income) / initial value = 40-25 + 0.7 / 25 = 62.8%
 #### Example 3
+- 100 mil in interest expense
+- Avg. rate of interest 5%
+- RoE = 18%, no dividends
+- Debt = 100 million / 0.05 = 2 billion
+- Debt (next year) = debt today * (1 + g)
+	- No g, use ROE
+	- g = RoE * rr
+	- Since rr = 1, g = 18%
+- Debt next year = 2 billion * (1+0.18) = 2.36 billion
+- interest rate = 5% * (1-0.25) = 3.75%
+- 2.36 billion * 3.75% - 88.5 million = interest expense next year
+# Alternative Methods
+## Price-to-Cash-Flow (P/CF)
+- Similar to p/e approach, but substitutes projected cash flow for earnings
+- Either uses Earnings Before Interest, Taxes, Depreciation and Amortization or CF for CF statement for measure of cash flow
+- P/CF ratio = Market price of common stock / Cash flow per share
+## Price to Sales (P/S)
+## Price-to-Book-Value(P/BV)
