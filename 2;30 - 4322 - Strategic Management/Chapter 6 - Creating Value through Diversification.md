@@ -29,3 +29,20 @@ Unrelated
 ## Leveraging Core Competencies
 - Core competencies reflect the collective learning in organizations. Can lead to the creation of value and synergy if
 	- They create superior customer value
+	- Value-chain elements in separate businesses require similar skills
+	- Difficult for competitors to imitate or find substitutes for
+## Sharing Activities
+- Can also achieve synergy by sharing activities accross business units
+- Sharing tangible and value-creating activities can provide payoffs
+	- Cost savings through elimination of jobs, facilities and related expenses or economies of sale
+	- Revenue enhancements through increased differentiation and sales growth
+## Market Power
+- Market power can lead to the creation of value and synergy through
+	- Pooled negotiating power
+		- Gaining greater bargaining power with suppliers and customers
+	- Verical integration - firm becomes its own supplier or distributor through
+		- Backward integation
+		- Forward integration
+# Making Diversification Work
+Diversification initiatives must create value for shareholders through
+- Mergers and acquisitions
