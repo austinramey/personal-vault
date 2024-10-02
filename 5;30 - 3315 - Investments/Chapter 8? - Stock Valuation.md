@@ -72,6 +72,15 @@ d1 = d0(1+g) = 4.5(1+0.08) = 4.17
 d2 = d1(1+g) = 4.17(1.08) = 4.5
 d3 = d2(1+g) = 4.5(1.08) = 4.86
 d4 = d3(1+g) = 4.86(1.08) = 5.2
-d5 = d4(1+g) = 4.17(1.08) = 4.5
 
 ## How to Estimate Growth Rate?
+- Dividend distributions depend on a firm's earnings
+	- Firms, however, can retain part of earnings to reinvest in new projects
+	- Thus, they can choose not to distribute all earnings
+- Withholding earnings and investing them in new projects can lead to higher chance of growth
+![[screen-2024-10-02-17-35-41.png]]
+or 
+g = (reinvested earnings / total earnings) \* (earnings/book value)
+first part = retention rate                          second part = Return on Equity
+## Example 5
+- 
