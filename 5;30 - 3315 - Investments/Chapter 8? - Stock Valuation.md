@@ -123,4 +123,13 @@ Future Earings year T = Estimated Sales in T * Net Profit Margin in Year T
 	- Amount of deb in a company's capital structure
 	- Current and prjected rate of inflation
 	- Dividend payout ratio
-## Estimati
+## Estimating the P/E Ratio
+### Relative Price-to-Earnings Multiple
+- Starting point for evaluating P/E ratio is average market multiple
+#### Example 2
+1. net earnings = estimated sales * net profit margin = 100 mil. * 0.05 = $5 mil
+2. EPS = 5 million / 2.5 million = $2
+	1. Dividends per share = 0.35 * 2 = 0.07
+3. p = P/E = EPS = $40
+4. HPR = (CG + income) / initial value = 40-25 + 0.7 / 25 = 62.8%
+#### Example 3
