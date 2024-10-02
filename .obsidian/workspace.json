@@ -11,8 +11,12 @@
             "id": "7fd6943f3c0f1852",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2;30 - 4322 - Strategic Management/Chapter 6 - Creating Value through Diversification.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -58,7 +62,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2;30 - 4322 - Strategic Management/Chapter 6 - Creating Value through Diversification.md"
+              }
             }
           },
           {
@@ -74,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -90,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2;30 - 4322 - Strategic Management/Chapter 6 - Creating Value through Diversification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2;30 - 4322 - Strategic Management/Chapter 6 - Creating Value through Diversification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
