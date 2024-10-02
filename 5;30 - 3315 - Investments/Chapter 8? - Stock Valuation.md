@@ -96,4 +96,31 @@ dividends per share = (1- retention ratio) * earnings per share
 	- Favorite professional security analysts and widely used in practice
 Stock price = EPS * P/E ratio
 ## Step 1: Forecasted Sales and Profits
-- Assumes that the company will continue to perform as it has
+- Assumes that the company will continue to perform as it has in the past, and extend historical trend
+- Focus is then put on net profit margin
+	- They want to know what profit the firm will earn on the sales
+	- One of the best ways of doing that is to use a common-size income statement
+		- Takes every entry found on an ordinary income statement or balance sheet and converts it to a percentage
+## Step 2: Estimate Future After-Tax Earnings
+- Given a sales forecast and estimate of future net profit margin, we can arrive at future earnings
+Future Earings year T = Estimated Sales in T * Net Profit Margin in Year T
+### Example 1
+- Sales = 100 million
+- Net profit margin 6%
+- Revenues will grow 8%
+- Earnings = 100 mil * 8% = 108 mil
+- 108 * 0.06 = 6.48 million
+## Step 3: Forecasted Dividends and Payout Ratio
+- Given earnings forecast, investors need 2 more things
+1. Estimate of future dividend payout ratios
+2. Number of common shares that will be outstanding over the forecast period
+	- Except during economic downturns, payouts are stable
+## Step 4: Estimating the P/E Ratio
+- Most difficult step is to estimate of the future P/E ratio
+- Functions as several variables
+	- Growth rate in earnings
+	- Generate state of the market
+	- Amount of deb in a company's capital structure
+	- Current and prjected rate of inflation
+	- Dividend payout ratio
+## Estimati
