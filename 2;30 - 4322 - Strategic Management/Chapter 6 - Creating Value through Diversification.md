@@ -46,3 +46,22 @@ Unrelated
 # Making Diversification Work
 Diversification initiatives must create value for shareholders through
 - Mergers and acquisitions
+- Strategic alliances
+- Joint ventures
+- Internal development
+Diversification should create synergy
+- B1 + B2 > both
+## Types of Diversification
+- Related
+	- Enables firm to beneift from horizontal relationships accross different businesses
+- Unrelated
+	- Benefit form veritcal or hierarchical relationships between the corporate office and individual business units
+# Unrelated Diversification
+Enables a firm to benefit from vertical or hierarchical relationships between the corporate office and inidividual business units through
+- Corprate parenting advantage
+	- Providing competent central functions
+- Restructuring to redistribute assets
+	- Asset, capital, and management restructuring
+- Portfolio management
+	- BCG growth/share matrix
+- 
