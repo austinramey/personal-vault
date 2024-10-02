@@ -158,3 +158,9 @@ P/BV = Market price of common stock / Book value per share
 # Free Cash Flow Method
 
 ![[screen-2024-10-02-18-25-03.png]]
+### Example 5
+FCF0 = after tax earnings + depreicaitoon - net working capital - fined assets costs
+FCF0 = 2200000 + 250000 - 50000-40000 = 2.36 million
+FCF1 per share = FCF0 per share
+V = FCF1 / r = 0.59 / 0.09 = $6.56
+#### Modified Question
