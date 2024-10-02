@@ -149,5 +149,12 @@ Future Earings year T = Estimated Sales in T * Net Profit Margin in Year T
 - Similar to p/e approach, but substitutes projected cash flow for earnings
 - Either uses Earnings Before Interest, Taxes, Depreciation and Amortization or CF for CF statement for measure of cash flow
 - P/CF ratio = Market price of common stock / Cash flow per share
+### Example 4
+
 ## Price to Sales (P/S)
+P/S = Market price of common stock / Sales per share
 ## Price-to-Book-Value(P/BV)
+P/BV = Market price of common stock / Book value per share
+# Free Cash Flow Method
+
+![[screen-2024-10-02-18-25-03.png]]
