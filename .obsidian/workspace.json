@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0fbd0534d86727bc",
+            "id": "7fd6943f3c0f1852",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2;30 - 4322 - Strategic Management/! Case Analysis.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -62,9 +58,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2;30 - 4322 - Strategic Management/! Case Analysis.md"
-              }
+              "state": {}
             }
           },
           {
@@ -96,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/! Case Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/! Case Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,18 +141,55 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0fbd0534d86727bc",
+  "floating": {
+    "id": "080814291482f4f9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0c027b86bd2bf767",
+        "type": "window",
+        "children": [
+          {
+            "id": "1a8f2a3b3a09f816",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0fbd0534d86727bc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2;30 - 4322 - Strategic Management/! Case Analysis.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 27,
+        "width": 683,
+        "height": 741,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7fd6943f3c0f1852",
   "lastOpenFiles": [
+    "2;30 - 4322 - Strategic Management/! Case Analysis.md",
+    "2;30 - 4322 - Strategic Management/Chapter 6 - Creating Value through Diversification.md",
+    "Pasted Pics/screen-2024-09-30-17-53-10.png",
+    "Pasted Pics/Pasted image 20240930181120.png",
     "5;30 - 3315 - Investments/Chapter 6 - Common Stock.md",
     "5;30 - 3315 - Investments/Chapter 8? - Stock Valuation.md",
-    "Pasted image 20240930182041.png",
-    "Pasted image 20240930182032.png",
-    "Pasted image 20240930181120.png",
-    "screen-2024-09-30-17-58-35.png",
-    "screen-2024-09-30-17-53-10.png",
-    "2;30 - 4322 - Strategic Management/Chapter 6 - Creating Value through Diversification.md",
+    "Pasted Pics/Pasted image 20240930182041.png",
+    "Pasted Pics/Pasted image 20240930182032.png",
+    "Pasted Pics/screen-2024-09-30-17-58-35.png",
     "2;30 - 4322 - Strategic Management/Chapter 5.md",
-    "2;30 - 4322 - Strategic Management/! Case Analysis.md",
     "Bible/9-29 SCF.md",
     "Pasted Pics/screen-2024-09-27-18-56-18.png",
     "Pasted Pics/screen-2024-09-27-19-00-47.png",
