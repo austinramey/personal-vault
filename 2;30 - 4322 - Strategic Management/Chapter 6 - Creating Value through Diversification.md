@@ -93,3 +93,56 @@ Diversification can reduce variablilty in revenues and profits over time
 - Pooling resources through strategic alliances and joint ventures
 - Internal development through corporate entrepreneurship or new venture development
 ## Mergers and Acquisitions
+- Involve a combination or consolidation of two firms to form a new legal entity
+	- On a relatively equal basis
+	- Realtively rare
+- Acquisitons involve one firm buying another either through stock purchase, cash or issuance of debt
+### Motives
+- Acquiring is faster than builidng
+- Acquiring valuable resources cna expand product offerings and serivces and/or enter new market segments
+- Mergers and acquistions help a firm develop synergy
+	- Leveraging core compentices
+	- Sharing activies
+	- Bulding market power
+- Can consolidate an industry, forcing other players to merge
+### Limitations
+- Takeover premiums for acquisitons are typically high
+- Competing firms can imitate advantages
+- Competing firms can copy synergies
+- Managers' egos get in the way of sound business decisions
+- Cultural issues may doom the intended benefits
+### Divestment Objectives
+- Cutting finanical losses on failed acquisition
+- Redirecting focus on the firm's core businesses
+- Freeing up resoruces to spend on more attrative alternatives
+- Raising cash to help fund existing businesses
+### Divestment Success
+- Removing emotion from decision
+- Knowing value of business you are selling
+- Timing the deal right
+- Maintaining a sizable pool of potential buyers
+- Telling a story about the deal
+- Running divestitures systematically through a project office
+- Communicating clearly and frequently
+# Strategic Alliances and Joint Ventures
+## Motives
+- Cooperative relationships between 2+ firms with potential advanatges
+	- Ability to enter new markets through
+		- Greater financial resources
+		- Greater marketing expertise
+	- Ability to reduce manufacturing or other costs in the value chain
+	- Ability to develop and diffuse new technologies
+## Limitations
+Need for proper partner:
+- Partners should have complementary strengths
+- Partner's strengths should be unique
+	- Uniqueness should create synergies
+	- Synergies should be easily sustained and defended
+- Partners must be compatible and wlling to trust each other
+# Internal Development
+Corporate entrepreneurship and new venture internal development motives
+- No need to share the wealth with alliance partners
+- No need to face difficulties associated with combining activities across the value chains
+- No need to merge diverse corporate cultures
+- No need for external funding for new development
+Limi
