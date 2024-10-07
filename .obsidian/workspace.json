@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/Chapter 4 - Firm's Intellectual Assets.md",
+                "file": "2;30 - 4322 - Strategic Management/Chapter 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/Chapter 4 - Firm's Intellectual Assets.md"
+                "file": "2;30 - 4322 - Strategic Management/Chapter 5.md"
               }
             }
           },
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/Chapter 4 - Firm's Intellectual Assets.md",
+                "file": "2;30 - 4322 - Strategic Management/Chapter 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/Chapter 4 - Firm's Intellectual Assets.md",
+                "file": "2;30 - 4322 - Strategic Management/Chapter 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,6 +151,7 @@
   },
   "active": "f4a5afb82944f4db",
   "lastOpenFiles": [
+    "2;30 - 4322 - Strategic Management/Chapter 4 - Firm's Intellectual Assets.md",
     "2;30 - 4322 - Strategic Management/Chapter 3 - Assessing Internal Environment.md",
     "2;30 - 4322 - Strategic Management/Chapter 2 - External Environment.md",
     "2;30 - 4322 - Strategic Management/Chapter 1 - Strategic Mgmt.md",
@@ -185,7 +185,6 @@
     "Bible",
     "5;30 - 3315 - Investments/Chapter? - Capital Asset Pricing Model (CAPM).md",
     "5;30 - 3315 - Investments/Chapter 4 - Return and Risk.md",
-    "2;30 - 4322 - Strategic Management/Chapter 4 - Firm's Intellectual Assets.md",
     "5;30 - 3315 - Investments/Chapter 3 - Time Value of Money (TVM).md",
     "[.md",
     "5;30 - 3315 - Investments/Chapter 2 - Security Markets.md",
