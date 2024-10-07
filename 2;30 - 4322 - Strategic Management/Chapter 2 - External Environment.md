@@ -113,3 +113,5 @@ Depends on existing barriers to entry
 - Buyer groups are powerful
 	- Profits are low and switching costs are few
 	- Backward integration is possible
+## Bargaining Power of Buyers
+= 
