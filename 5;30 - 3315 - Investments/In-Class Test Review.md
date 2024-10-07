@@ -11,4 +11,11 @@
 	- Expense ratios are typically lower as well
 - Capital gain is only selling price and initial price, not dividends
 	- Including dividends is toal return
-- Rights offering is 
+- Money market is for short-term securities
+- Primary market are for IPOs
+- Purchasing a stock with cash in hope of earning a capital gain is a long position
+	- If getting a loan from broker, then it might be margined position
+- Shorting is pessimistic
+- Ask -> what the person that is offering is asking to sell the price as
+- Bid -> The amount that 
+- 
