@@ -92,4 +92,12 @@ Social ties can link individuals and allows:
 # Protecting Intellectual Assets
 - IP rights are more difficult to define and protect than property rights for physical assets
 - IP can be easily stolen
-- IF IP rights are not reliably 
+- If IP rights are not reliably protected by state, no incentive to develop new products there
+- IP has significant dev. costs, but very low marginal costs
+- Effective protection is necessary before an investor will provide financing
+## Through Dynamic Capabilities
+- Involve the capacity to anticipate, shape and adapt to a shifting competitive landscape
+	- Identifiying developing and assessing technological opportunities that relate to customer needs
+	- Mobilizing resources to capture value
+	- Continuing the process of transforming, revolutionizing industries and economies
+	- 
