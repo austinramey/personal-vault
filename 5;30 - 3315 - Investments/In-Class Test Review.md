@@ -18,4 +18,5 @@
 - Shorting is pessimistic
 - Ask -> what the person that is offering is asking to sell the price as
 - Bid -> The amount that 
+- PV = FV / (1+r)^N
 - 
