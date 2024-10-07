@@ -68,4 +68,14 @@ Social ties can link individuals and allows:
 ### Closure Relationships
 - Degree to which all members of the social network have relationships with each other group member
 ### Bridging Relationships
-- 
+- Relationships in social network that connect otherwise disconnected people
+## Implications for Career Success
+- Effective social networks provide advantages for both firm and individual career
+	- Access to private information
+	- Access to diverse skill sets
+	- Access to power
+## Potential Downside
+- Groupthink
+- Dysfunctional human resource practices
+- Expensive socialization processes
+- Distortion or selective use of info to favor preferred courses of action
