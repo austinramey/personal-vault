@@ -4,4 +4,11 @@
 	- Practice Questions 1
 # Notes from in class
 - Direct ownership of stocks has been decreasing, mostly using indirect ownership
-- 
+- Investment is something that you are putting away and waiting for the value to go up
+	- As well as chance for getting a dividend out
+- Funds in a financial markets are generally supplied by individuals
+- Passively managed index funds have grown quite a lot
+	- Expense ratios are typically lower as well
+- Capital gain is only selling price and initial price, not dividends
+	- Including dividends is toal return
+- Rights offering is 
