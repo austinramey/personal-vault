@@ -92,4 +92,4 @@ Social ties can link individuals and allows:
 # Protecting Intellectual Assets
 - IP rights are more difficult to define and protect than property rights for physical assets
 - IP can be easily stolen
-- IF IP rights are not reliably [rp]
+- IF IP rights are not reliably 
