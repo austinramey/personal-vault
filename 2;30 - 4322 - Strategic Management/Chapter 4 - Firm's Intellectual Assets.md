@@ -79,3 +79,17 @@ Social ties can link individuals and allows:
 - Dysfunctional human resource practices
 - Expensive socialization processes
 - Distortion or selective use of info to favor preferred courses of action
+## Codifying Knowledge for Competitive Advantage
+### Tacit Knowledge
+- Embedded in personal experience
+- Shared only with the consent and participation of the individual 
+- Has the org. effectively used tech to codify knowledge for competitive advantage
+### Explicit knowledge
+- Can be documented
+- Can be widely distributed
+- Can be easily replicated
+- Can be reused many times at very low cost
+# Protecting Intellectual Assets
+- IP rights are more difficult to define and protect than property rights for physical assets
+- IP can be easily stolen
+- IF IP rights are not reliably [rp]
