@@ -3,7 +3,7 @@
 - Establish a hierarchy of goals - start with a "going for the moon" shot
 	- Vision
 	- Mission
-	- Strategic Objectives aa ll
+	- Strategic Objectives
 #### Analyzing org goals and objectives
 - Must monitor and scan environment and competitors
 	- General environment
