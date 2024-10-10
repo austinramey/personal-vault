@@ -154,3 +154,42 @@ Financial Ratio Analysis
 - Historical comparison
 - Comparison with industry norms
 - Comparison with key competitors
+## Financial Ratio Analysis
+1. Short-term solvency or liquidity
+2. Long-term solvency measures
+3. Asset management or turnover
+4. Profitability
+5. Market value
+Meaningful ratio analysis must include
+- Analysis of how ratios change over time
+- Comparison with industry norms
+- Comparison with key competitors
+# The Balanced Scorecard
+Balanced into 4 key categories
+- How do customers see us? (customer perspective)
+- What must we excel at? (internal perspective)
+- Can we continue to improve and create value? (innovation and learning perspective)
+- How do we look to shareholders? (financial perspective)
+## Customer Perspective vs Internal Business Perspecitve
+- Using balanced scorecard, managers articulate goals for customer concerns
+	- Time vs Quality
+	- Performance and service versus cost
+- Focus on those critical internal operations that enable them to satisfy customer needs
+	- Business processes
+	- Decisions
+	- Coordinated actions
+	- Key resources and capabilities
+## Innovation and Learning Perspective
+- Requires managers to make frequent changes to existing products and services as well as introduce entirely new products with extended capabilities
+- Requires:
+	- Human capital
+	- Info capital
+	- Org. capital
+## Limitation of the Balanced Scorecard
+Focus on improving balance across a set of criteria can yield consistent performance but
+- Not a quick fix
+- Needs a commitment to learning
+- Needs employee involvement in continuous process improvement
+- Needs cultural change
+- Needs focus on financial rather than financial measures
+- Needs data on actual performance

@@ -1,0 +1,31 @@
+- What to review
+	- In class all slides
+	- Book: 1, 2, 4, 5, 6, 8
+	- Practice Questions 1
+# Notes from in class
+- Direct ownership of stocks has been decreasing, mostly using indirect ownership
+- Investment is something that you are putting away and waiting for the value to go up
+	- As well as chance for getting a dividend out
+- Funds in a financial markets are generally supplied by individuals
+- Passively managed index funds have grown quite a lot
+	- Expense ratios are typically lower as well
+- Capital gain is only selling price and initial price, not dividends
+	- Including dividends is toal return
+- Money market is for short-term securities
+- Primary market are for IPOs
+- Purchasing a stock with cash in hope of earning a capital gain is a long position
+	- If getting a loan from broker, then it might be margined position
+- Shorting is pessimistic
+- Ask -> what the person that is offering is asking to sell the price as
+- Bid -> The amount that 
+- PV = FV / (1+r)^N
+- Uncorrelated means correlation of 0, not negative
+- Exposure to systematic/market risk can be reduced by adding low/negative beta stocks to portfolio
+	- dependent on beta, reduced by a negative beta
+- Total risk of a portfolio is measured by standard deviation
+- Best stock to own when stock market is at a peak and expected to decline in value is one with a low and negative beta (-1.0)
+- If negative beta and market decreases, your valuation is increased by that magnitude of beta
+- Best investment if you are retiring in 10 years, with a long investment, buy-and-hold strategy
+- Efficient frontier: ==need to research==
+- If required RoR is greater than actaul RoR, you have a negative alpha
+- 

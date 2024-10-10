@@ -42,7 +42,62 @@
 - Redefining jobs, such as breaking high-end knowledge work into specialized pieces, helps address skill shortages
 - Sound mgmt of diverse workforce can improve an org's effectiveness and comp advantages through
 	- Lower cost
-	- Better rep, leading to resouce acquisition
+	- Better rep, leading to resource acquisition
 	- Marketing sensitivity to client cultures
 	- Creativity through diversity of perspectives
 	- Better problem solving
+# Social Capital
+- Friendships and working relationships among talented individuals
+- It helps to tie knowledge workers to a given firm
+- Interaction, sharing and collaboration will help develop firm specificity with a higher probability of retaining key knowledge workers
+## How it helps attract and retain talent
+- Some candidates may bring other talent with them
+	- Homophily
+- Talent can emigrate from an org to form startup ventures
+- Social networks can provide a mechanism for obtaining resources and info form outside the organization
+## Social Networks
+Analyisis depicts interactions among individuals and help to diagnose effective and ineffective patterns
+- Who links to who within the network?
+- Who communicates to who an dhow effective is this communication
+Social ties can link individuals and allows:
+- Convey needed resources
+- Exchange info and support
+- Treat each other in positive ways
+- Develop trusting relationships to improve the groups' effectiveness
+## Social Network Analysis
+### Closure Relationships
+- Degree to which all members of the social network have relationships with each other group member
+### Bridging Relationships
+- Relationships in social network that connect otherwise disconnected people
+## Implications for Career Success
+- Effective social networks provide advantages for both firm and individual career
+	- Access to private information
+	- Access to diverse skill sets
+	- Access to power
+## Potential Downside
+- Groupthink
+- Dysfunctional human resource practices
+- Expensive socialization processes
+- Distortion or selective use of info to favor preferred courses of action
+## Codifying Knowledge for Competitive Advantage
+### Tacit Knowledge
+- Embedded in personal experience
+- Shared only with the consent and participation of the individual 
+- Has the org. effectively used tech to codify knowledge for competitive advantage
+### Explicit knowledge
+- Can be documented
+- Can be widely distributed
+- Can be easily replicated
+- Can be reused many times at very low cost
+# Protecting Intellectual Assets
+- IP rights are more difficult to define and protect than property rights for physical assets
+- IP can be easily stolen
+- If IP rights are not reliably protected by state, no incentive to develop new products there
+- IP has significant dev. costs, but very low marginal costs
+- Effective protection is necessary before an investor will provide financing
+## Through Dynamic Capabilities
+- Involve the capacity to anticipate, shape and adapt to a shifting competitive landscape
+	- Identifiying developing and assessing technological opportunities that relate to customer needs
+	- Mobilizing resources to capture value
+	- Continuing the process of transforming, revolutionizing industries and economies
+	- 
