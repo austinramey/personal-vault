@@ -53,3 +53,17 @@ Stock returns may be closely tied to the time of the year or time of the week
 - Uses P/E or market-to-book ratios to buy or sell stocks
 - On average, low P/E or market-to-book ratio stocks outperform high P/E or market-to-book ratio stocks
 # Behavioral finance
+## Challenge to EMH
+Market participants make systematic mistakes when they invest
+- These patterns in behavior could lead to predictable patterns in prices and returns
+## Investor Behavior and Security Prices
+1. Overconfidence: Investors tend to be overconfident in their judgement or ability and this leads them to underestimate risks
+2. Self-attribution bias: Investors tend to take credit for successes and blame factors out of their control for failures
+3. Loss aversion: tendency to exhibit risk-averse behavior when confronting gains and risk-seeking behavior when confronting losses
+4. Representativeness: cognitive biases that occur because people have difficulty thinking about randomness in outcomes
+5. Overreaction: Investors overreact to a string of good performance and overestimate the likelihood that the trend will continue
+6. Narrow framing: investors tend to analyze in isolation
+7. Belief perseverance: Investors ignore info that conflicts with their existing beliefs
+8. Anchoring: Individuals attempting to predict or estimate some unknown quantity too much weight on information that they have at hand, even when that info is not particularly relevant
+9. Familiarity bias: Investors buy stocks that are familiar to them without regard to whether the stocks are good buys or not
+10. 
