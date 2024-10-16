@@ -35,4 +35,21 @@ If the EMH is NOT true and markets are inefficient, then
 	- There is no info, public or private, that allows investors to consistently earn abnormally high returns
 ## Arbitrage and Efficient Markets
 ==Arbitrage==: type of transaction in which an investor simultaneously buys and sells the same asset at different prices to earn an instant, risk-free profit
-- Also known as the process that quickly eliminates price 
+- Also known as the process that quickly eliminates price discrepancies in efficient markets is know as
+- In the "real world" if price differences exist, arbitragers exploit those differences and through their buying and selling transactions push the prices closer together until no arbitrage opportunity remains
+# Market Anomalies
+## Calendar effects
+Stock returns may be closely tied to the time of the year or time of the week
+- Ex: January effect, where small-cap stocks tend to outperform large-cap stocks by a wide margin
+## Small-firm Effect (Size Effect)
+- Small firms tend to earn positive abnormal returns as much as 5% to 6% per year
+- Small firm may offer higher returns than larger firms, even after adjusting for risk
+## Post Earnings Announcement Drift
+- Stock price adjustments may continue after earnings adjustments have been announced
+- This pattern seems to create an opportunity for investors to earn abnormal returns by purchasing stocks that have recently issued good earnings news, or short selling if poor earnings
+## Momentum
+- Tendency for stocks that have gone up recently to keep going up, or vice versa for down
+## Value Effect
+- Uses P/E or market-to-book ratios to buy or sell stocks
+- On average, low P/E or market-to-book ratio stocks outperform high P/E or market-to-book ratio stocks
+# Behavioral finance
