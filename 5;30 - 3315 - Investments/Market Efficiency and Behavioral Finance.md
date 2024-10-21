@@ -143,5 +143,7 @@ MFCR = Mutual fund cash position / Total assets under management
 ## Charting
 Technical analysts use various types of charts to show summary of stock activity
 - Provides valuable info about developing trends
-- Price patterns evolve into chart formations that provide signals about future course of market or a stock
-![[Pasted image 20241021180345.png]]
+- Price patterns evolve into chart formations that provide signals about future course of market or a stocadmin
+- 
+admin
+admin
