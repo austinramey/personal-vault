@@ -134,3 +134,14 @@ TRIN3 = (276/220) / (875/629) =
 Indicator looks at the cash position of mutual funds as an indicator of future market performance
 MFCR = Mutual fund cash position / Total assets under management
 ### On-Balance Volume
+- Momentum indicator that relates volume to price change
+- It uses trading volume in addition to price and tracks trading volume as a running total
+- When analyzing OBV, it is the direction or trend that is important, not actual value
+### Moving Average
+- Used to look at overall trends in prices, instead of looking at daily standings
+- Moving average is mathematical procedure that records the average value of a series of prices, or other data, over time
+## Charting
+Technical analysts use various types of charts to show summary of stock activity
+- Provides valuable info about developing trends
+- Price patterns evolve into chart formations that provide signals about future course of market or a stock
+![[Pasted image 20241021180345.png]]
