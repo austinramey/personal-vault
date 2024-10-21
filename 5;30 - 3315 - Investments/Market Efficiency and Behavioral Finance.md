@@ -68,9 +68,28 @@ Market participants make systematic mistakes when they invest
 9. Familiarity bias: Investors buy stocks that are familiar to them without regard to whether the stocks are good buys or not
 # Technical Analysis
 ## Measuring the Market
-Confidence index: a measure that attempts to capture the tone of the market through bond returns
+### Confidence index:
+a measure that attempts to capture the tone of the market through bond returns
 - Ratio that reflects the spread between average yield on high-grade corporate bonds relative to yield on average
 - Ratio between average yield on corporate bonds relative to yield on average
 Confidence interval = 
 Average yield on 10 high-grade corporate bonds / 
 average yield on 10 intermediate-grade bonds
+- Grading: based on how safe they are, they get a better score
+
+### Market Volume
+- Amount of investors interest in the stock market
+- Increasing volume during a rising market is a positive sign that the upward movement in stocks
+	- Increasing value -> advances
+	- Decreasing value -> declines
+- When stocks have been moving up and volume begins to drop off, they signal end of a bull market
+- Easy statistic to track as it is reported by numerous sources
+### Breadth of Market
+- Looks at number of stocks that go up versus number of stock prices that go down
+- Number of advances and declines reflects underlying sentiment of investors
+	- Market is strong when advances outnumber declines
+	- Market is weak when declines outnumber advances
+- Data on advances and declines are widely available
+### Advance-Decline Line
+- Advance-decline line is just difference between these two numbers
+- Each day's net number is added/substrac
