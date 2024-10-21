@@ -92,4 +92,32 @@ average yield on 10 intermediate-grade bonds
 - Data on advances and declines are widely available
 ### Advance-Decline Line
 - Advance-decline line is just difference between these two numbers
-- Each day's net number is added/substrac
+- Each day's net number is added/subtracted from running total and results are plotted on a graph
+	- If rising, advancing is dominating declining and tech analysts conclude market is strong
+### New Highs-New Lows
+- Measure difference between stocks reaching a 52-week high and stocks reaching a 52-week low
+	- A 10-day moving average is plotted on a graph to view trends
+- Used as a signal to buy or sell stocks
+	- Market is strong when highs/lows
+	- Market is weak when lows/highs
+#### Example 1
+- July = 47-20 = 27
+- August = 54-24 = 30
+- September = 33
+- October = 38
+- November = 46
+- December = 58
+- Despite small drop in sep. and october, it is increasing, so it is a bullish market
+### Short Interest
+Number of shares of stocks sold short in the market at any point in time
+- More shares that are sold short, the higher the short interest
+- Can give two different interpretations
+	- Future demand for stock and present market optimism/pessimism
+### Odd-lot Trading
+Many small traders deal in transactions of fewer than 100 shares, or odd-lots
+### Theory of contrary opinion
+Uses amount and type of odd-lot trading as an indicator of current state of the market and pending changes
+- Assumes that small traders will do just the opposite of what should be done:
+	- Panic and sell when market is low
+	- Speculate and buy when market is high
+- 
