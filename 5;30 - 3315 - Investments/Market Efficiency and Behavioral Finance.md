@@ -120,4 +120,17 @@ Uses amount and type of odd-lot trading as an indicator of current state of the 
 - Assumes that small traders will do just the opposite of what should be done:
 	- Panic and sell when market is low
 	- Speculate and buy when market is high
-- 
+- When there is a significant difference between odd-low purchases and sales, they can signal a bull/bear market is about to end
+### Arms Index
+- Trading index (TRIN): Combines the A-D line with trading volume
+TRIN = (Number of up stocks/Number of down stocks) * (Volume in up stocks/Volume in down stocks)
+
+TRIN1 = (327/153) / (815/435) = 1.140743413929989
+TRIN2 = (265/240) / (424/720) = 
+TRIN3 = (276/220) / (875/629) = 
+
+## Trading Rules and Measures
+### Mutual Fund Cash Ratio
+Indicator looks at the cash position of mutual funds as an indicator of future market performance
+MFCR = Mutual fund cash position / Total assets under management
+### On-Balance Volume
