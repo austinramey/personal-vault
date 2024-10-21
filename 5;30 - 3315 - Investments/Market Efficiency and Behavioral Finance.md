@@ -66,4 +66,11 @@ Market participants make systematic mistakes when they invest
 7. Belief perseverance: Investors ignore info that conflicts with their existing beliefs
 8. Anchoring: Individuals attempting to predict or estimate some unknown quantity too much weight on information that they have at hand, even when that info is not particularly relevant
 9. Familiarity bias: Investors buy stocks that are familiar to them without regard to whether the stocks are good buys or not
-10. 
+# Technical Analysis
+## Measuring the Market
+Confidence index: a measure that attempts to capture the tone of the market through bond returns
+- Ratio that reflects the spread between average yield on high-grade corporate bonds relative to yield on average
+- Ratio between average yield on corporate bonds relative to yield on average
+Confidence interval = 
+Average yield on 10 high-grade corporate bonds / 
+average yield on 10 intermediate-grade bonds

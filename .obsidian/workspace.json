@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/! Case Analysis.md",
+                "file": "5;30 - 3315 - Investments/Market Efficiency and Behavioral Finance.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Market Efficiency and Behavioral Finance"
             }
           }
         ]
@@ -44,7 +46,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -54,7 +58,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -63,8 +69,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/! Case Analysis.md"
-              }
+                "file": "5;30 - 3315 - Investments/Market Efficiency and Behavioral Finance.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Market Efficiency and Behavioral Finance"
             }
           },
           {
@@ -72,7 +80,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ],
@@ -97,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/! Case Analysis.md",
+                "file": "5;30 - 3315 - Investments/Market Efficiency and Behavioral Finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +115,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Market Efficiency and Behavioral Finance"
             }
           },
           {
@@ -114,10 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/! Case Analysis.md",
+                "file": "5;30 - 3315 - Investments/Market Efficiency and Behavioral Finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Market Efficiency and Behavioral Finance"
             }
           },
           {
@@ -128,7 +142,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ],
@@ -152,14 +168,16 @@
   },
   "active": "f0d31b4d0ac5089e",
   "lastOpenFiles": [
+    "Bible/10-20 SCF.md",
+    "5;30 - 3315 - Investments/In-Class Test Review.md",
+    "5;30 - 3315 - Investments/Chapter 6 - Common Stock.md",
+    "5;30 - 3315 - Investments/Chapter 4 - Return and Risk.md",
+    "2;30 - 4322 - Strategic Management/! Case Analysis.md",
     "5;30 - 3315 - Investments/Market Efficiency and Behavioral Finance.md",
     "Bible/10-13 SCF.md",
     "2;30 - 4322 - Strategic Management/Innovation Session.md",
-    "2;30 - 4322 - Strategic Management/! Case Analysis.md",
     "Pasted Pics/screen-2024-09-27-19-00-47.png",
     "Bible/LG 10-9.md",
-    "5;30 - 3315 - Investments/In-Class Test Review.md",
-    "5;30 - 3315 - Investments/Chapter 6 - Common Stock.md",
     "2;30 - 4322 - Strategic Management/Chapter 5.md",
     "2;30 - 4322 - Strategic Management/Chapter 4 - Firm's Intellectual Assets.md",
     "2;30 - 4322 - Strategic Management/Chapter 3 - Assessing Internal Environment.md",
@@ -187,9 +205,7 @@
     "1;00 - 4325 - Enterprise System Management/Chapter 2.md",
     "5;30 - 3315 - Investments/Chapter ? - CAPM.md",
     "5;30 - 3315 - Investments/Chapter 5 - Modern Portfolio Theories.md",
-    "Bible/9-22 SCF.md",
     "Bible",
-    "5;30 - 3315 - Investments/Chapter? - Capital Asset Pricing Model (CAPM).md",
     "7;00 - 3303 - Money and Banking/Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition (2019, Pearson Education Limited) - libgen.li.pdf",
     "Pasted Pics",
     "7;00 - 3303 - Money and Banking",
