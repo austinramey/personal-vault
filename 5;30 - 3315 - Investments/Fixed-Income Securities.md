@@ -34,12 +34,31 @@ Corporate and govt. bond rates tend to move together, but coprorate bond yields 
 - Coupon rate: coupon divided by the bond's par value and it simply expresses interst payment of par value
 	- Current yield: measures the interst component of a bond's return relative to the bond's market price
 		- current yield = coupon payment / p0
-### Example 1
+- Yield to maturity: most important measure for a bond
+- Maturity date: date when a bond matures, and principal must be paid
+	- time to maturity: amount of time remaining until a bond matures
+### Coupon Examples
+#### Example 1
 - 6% bond with 1000 par value, priced at 950 current
 - What is current yield?
 - payment = 6% * 1000 = 60
 - yield = 60/950 = 
-### Example 2
+#### Example 2
 - Current yield = 5.3% market price 1100
 - payment = 1000 * 5.3% = 58.3
-- rate = 58.3/1100 = 
+- rate = 58.3/1000 = 5.83%
+#### Example 3
+- coupon rate = 9%
+- Paid $101.475
+- What is HPR at the end of the year, if year end price is $111.921
+- income = 9% x 1000 = $90
+- ((p1 - p0) + income )/p0 = ((111.921-101.475)+90)/101.475 = 98.99%
+#### Example 4
+- 9.5% bond, current yield 5.7%
+- one year later the yield is 7.6%
+- price today = coupon payment / current yield = 
+- (9.5% * 1000)/5.7% = $1666.67
+- (9.5% * 1000)/7.6% = $1250
+- pnextyear - ptoday + income = 1250-1666.67+95 = -321.67
+### Maturity Date
+- Term bond: 
