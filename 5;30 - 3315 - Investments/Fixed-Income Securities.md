@@ -80,4 +80,45 @@ Every bond is issued with a call feature, which stipulates whether and under wha
 2. Noncallable: cannot be called
 3. Deferred called: cannot be called until after some time has passed since issue date
 - Call features work for the benefit of the issuer, allowing issuers to take advantage of declines in interest rates
-- 
+### Sinking Funds
+Sinking fund provision stipulates how the issuer will pay off the bond over time
+- Provision applies only to term bonds
+- Serial issues already have a predetermined repayment schedule
+- Sinking fund requirements generally begin 1-5 years after the date of issue and continue anually thereafter until all or most of the issue is paid off
+Obligates issuer to pay off the bond over time
+### Secured vs Unsecured Debt
+#### Senior Bonds
+- Backed by a legal claim or some specific property of the issuer, secured obligation
+	- Mortgage bonds are secured by real estate
+	- Collateral trust bonds are secured by financial assets owned by the issuer but held in trust by a third party
+#### Junior Bonds
+- Backed by promise of issuer to pay interest and principal
+	- Debenture: bond that is totally unsecured, meaning no collateral
+	- Subordinated debenture: unsecured bond issues whose claim is secondary to other debenture bonds
+### Bond Ratings
+# The Market for Debt Securities
+## Treasury Bonds
+Issued by the US Treasury
+- Backed by the "full faith and credit" of the US govt.
+- Default risk-free
+- Treasury notes: issued with maturities of 2,3,5,7 and 10 years
+- Treasury bonds: maturity of 30 years
+- Interest is paid semiannually and exempt from state and local laws
+## Special Treasury Bonds
+### Treasury Inflation-Protected Securities
+Periodically adjust their returns for inflation
+- Pay interest semianually
+- Eliminates purchasing power risk
+- Lower risk than ordinary bonds, TIPS gnerally offer lower yields than ordinary Treasury bonds
+### Treasury strips
+Zero-coupon bonds created from the US treasury securities and sold by govt. securities dealers
+## Agency Bonds
+## Municipal Bonds
+Issued by states, counties, cities and other political subdivisions
+- Interest is tax-exempt for Federal taxes
+- Interest can be tax-exempt from state and local taxes if you live in the sate where the bond was issued
+	- General obligation bonds: backed by full faith and taxing power of the issuer
+	- Revenue bonds: serviced by income generated from income-producing projects
+### Tax Advantages
+- Taxable equivalent yield: yield that is equivalent to a municiapal bond's lower, tax-free yield
+Equivalent tax yield = 
