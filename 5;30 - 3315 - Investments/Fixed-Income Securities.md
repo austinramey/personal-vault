@@ -120,5 +120,38 @@ Issued by states, counties, cities and other political subdivisions
 	- General obligation bonds: backed by full faith and taxing power of the issuer
 	- Revenue bonds: serviced by income generated from income-producing projects
 ### Tax Advantages
-- Taxable equivalent yield: yield that is equivalent to a municiapal bond's lower, tax-free yield
-Equivalent tax yield = 
+- Taxable equivalent yield: yield that is equivalent to a municipal bond's lower, tax-free yield
+Equivalent tax yield = tax-free yield / 1 - (Tax rate)
+ETY = tax-free / 1 - (Fed + state*(1-fed))
+## Corporate Bonds
+- Wide variety of bond quality and bond types available
+- Normally, fixed coupon
+- Secured or unsecured
+- Long term or short term
+- Subject to default risk
+## Examples
+### Example 6
+- Tax free yield = 6.305%
+- federal = 35%
+- State = 3%
+- ETY = (6.305%) / (1 - (35% + 3%(1-35%))) = 10%
+### Example 7
+- 5.5% corporate bond
+- tax free 4.26%
+- = 4.26% / (1-24%) = 5.61%
+- Since 5.5 < 5.61, then municipal is better off
+## Collateralized Mortgage Obligations
+- CMOs
+- Mortgage-backed bond: pool that is dividied into "tranches", or classes based on if they want short, interm. or long-term investment
+- Principal payments go first to the shortest tranche until it is fully retired, then the next sequence is paid
+- Complex and potentially risky
+## Asset-Backed Securities
+- Securitizialion: lending vehicles transfored into marketable securities
+- Asset-backed securities: securities backed by pools of auto loans, credit card bills, etc
+	- Offer higher yields
+	- Short maturities, typically less than 5 years
+	- Interest and principal payments are monthly
+	- High credit quality
+# Global View of the Bond Market
+- Have to worry about currency fluctuations
+- Could be a big risk, but other markets are doing better in other markets
