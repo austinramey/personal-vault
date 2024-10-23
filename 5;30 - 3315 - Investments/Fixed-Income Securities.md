@@ -155,3 +155,13 @@ ETY = tax-free / 1 - (Fed + state*(1-fed))
 # Global View of the Bond Market
 - Have to worry about currency fluctuations
 - Could be a big risk, but other markets are doing better in other markets
+## Example 8
+- rate0 = 0.909 euro -> dollar
+- Paid $11,881 for bonds
+- At end, worth 10,600 euro
+- Recieved 400 euro in interest
+- rate1 = 0.921 euro -> dollar
+- HPR in USD?
+- p0 = 11881 * .909 = 10799.829 euro
+- p1 = 10,600 euro
+- income = 400 euro
