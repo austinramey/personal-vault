@@ -27,4 +27,19 @@ Corporate and govt. bond rates tend to move together, but coprorate bond yields 
 4. Liquidity Risk: bond cannot be sold at a reasonable price
 5. Call Risk: bond will be "called" before it's scheduled maturity risk
 ## Feature of a Bond
-- Coupon: 
+- Coupon: amount of annual interst income that it pays to bondholder
+	- Payments = coupon rate x face value
+		- Face value is 1000 in this class
+- Principal: amount that the borrower must repay at maturity; also called par/face value
+- Coupon rate: coupon divided by the bond's par value and it simply expresses interst payment of par value
+	- Current yield: measures the interst component of a bond's return relative to the bond's market price
+		- current yield = coupon payment / p0
+### Example 1
+- 6% bond with 1000 par value, priced at 950 current
+- What is current yield?
+- payment = 6% * 1000 = 60
+- yield = 60/950 = 
+### Example 2
+- Current yield = 5.3% market price 1100
+- payment = 1000 * 5.3% = 58.3
+- rate = 58.3/1100 = 
