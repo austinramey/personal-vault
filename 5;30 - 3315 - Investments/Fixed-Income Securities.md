@@ -60,5 +60,24 @@ Corporate and govt. bond rates tend to move together, but coprorate bond yields 
 - (9.5% * 1000)/5.7% = $1666.67
 - (9.5% * 1000)/7.6% = $1250
 - pnextyear - ptoday + income = 1250-1666.67+95 = -321.67
+#### Example 5
+- coupon rate = 6%
+- interst rate = 8%
+- This is a discount bond
+- 
 ### Maturity Date
-- Term bond: 
+- Term bond: bond issued has a single maturity data for all bonds issued
+- Serial bond: bond issued has a series of bonds with different maturity dates, as many as 15 or 20, within a single bond offering
+- Note: a debt security that's originally issued with a maturity of 2-10 years (unlike bonds which are more than 10 years)
+### Bond Price Relative to Par Value
+- Premium bond: bond that sells for more than its par value; 
+	- occurs when market interest rates drop below bond's coupon rate
+- Discount bond: bond that sells for less than its par value
+	- When market interest rates are above bond's coupon rate
+### Call Feature
+Every bond is issued with a call feature, which stipulates whether and under what conditions a bond can be called in for retirement to maturity
+1. Freely callable: issuer can retire whenever
+2. Noncallable: cannot be called
+3. Deferred called: cannot be called until after some time has passed since issue date
+- Call features work for the benefit of the issuer, allowing issuers to take advantage of declines in interest rates
+- 
