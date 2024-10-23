@@ -21,4 +21,10 @@ Corporate and govt. bond rates tend to move together, but coprorate bond yields 
 	- Diversification
 - Bonds add an element of stability to a portfolio
 ## Major Source of Risk for Bonds
-1. Interest 
+1. Interest rate risk: interest rates will bring down value
+2. Purchasing power risk: chance that the yield is below inflation
+3. Business/Financial Risk: issuer cannot meet obligation
+4. Liquidity Risk: bond cannot be sold at a reasonable price
+5. Call Risk: bond will be "called" before it's scheduled maturity risk
+## Feature of a Bond
+- Coupon: 
