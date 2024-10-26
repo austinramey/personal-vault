@@ -1,5 +1,5 @@
 # Case Question
-My question: Based solely on the information provided in the case, what is Johnson & Johnson’s corporate strategy (be as specific as possible)? What means has Johnson & Johnson used to achieve it? What synergies have they developed? In answering this question, provide evidence from the case (i.e., specific quotes) that indicates your answers to the questions are accurate. Lastly, list the importance of each unit to Johnson & Johnson according to the numbers provided in the case
+My question:  , provide evidence from the case (i.e., specific quotes) that indicates your answers to the questions are accurate. Lastly, list the importance of each unit to Johnson & Johnson according to the numbers provided in the case
 
 # Case Text
 ## Header 1
