@@ -26,4 +26,18 @@
 - Yield curve: graph that depicts this relationship
 # Why Yield Curve Shape Changes
 ## Expectations Hypothesis
+- Investors will ask for a higher price if interst rate is expected to go up, since stock prices will go down
+- 
 ## Liquidity Preference Theory
+- Investors associate longer term with higher risk, and ask for a higher payout
+## Market Segmentation Theory
+- Bond market is segmented on the basis of the maturity preferences of different investors
+# Pricing of Bonds
+## Concept
+- Bondholders receive two distinct types of cash flow
+	- Periodic interest income
+	- Principal at maturity
+- Bonds are priced according to the present value of their future cash flow streams
+Bond price = Present value of coupon payments + Present value of bond's par value
+BP = SUM((CPN / (1 + r)^t) + (FV/(1+r)^N))
+FV = Face Value
