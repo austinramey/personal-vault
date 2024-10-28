@@ -41,3 +41,21 @@
 Bond price = Present value of coupon payments + Present value of bond's par value
 BP = SUM((CPN / (1 + r)^t) + (FV/(1+r)^N))
 FV = Face Value
+# Yield to Maturity
+- Most important and widely used measure of a bond's return
+	- Also known as promised yield
+	- Rate of return earned by an investor who holds a bond to maturity and receives all principal and interest payments when promised
+	- Used not only to gauge return on a single issue, but also to measure required returns for bread classes on bonds
+	- Basically, internal rate of return on a bond
+YTM = (FV / PV) ^(1/N) - 1
+## Example 3
+- 15-year, zero coupon bond
+- Price = 315
+- If held to maturity, what is YTM?
+= 
+## Example 4
+- YTM?
+- Rate = 7.5%
+- $1000 Par value
+- 15 years to maturity
+- Currently $809.50 in market
