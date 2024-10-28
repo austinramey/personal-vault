@@ -165,3 +165,26 @@ ETY = tax-free / 1 - (Fed + state*(1-fed))
 - p0 = 11881 * .909 = 10799.829 euro
 - p1 = 10,600 euro
 - income = 400 euro
+# Convertible Securities
+Securities issued as bonds, can give investors the option to convert their bonds into shares of the issuing firm's stock
+- Convertibles are hybrid securities because they contain attributes of both debt and equity
+- Should be primarily viewed as a form of equity
+- Offer a predictable income and chance to profit from an increase in stock price
+- Equity kicker: right to convert these bonds into shares of company's common stock
+- Market price of a convertible often behaves much like price of underlying stock
+## Privilege
+- Key element is conversion privlege, which stipulates the conversion feature's conditions
+- Conversion ratio denotes number of common shares an investor recieves by converting a bond
+- Conversion price indicates implicit price/share that an investor pays by trading a bond for shares of stock
+## Value and Equvalent
+- Conversion value indicates what a convertible issue would trade for if it were priced to sell based on its stock value
+Conversion value = Conversion ratio X Current market price of the stock
+- Alternative measure is equivalent, also known as conversion parity
+	- Indicates price at which the common stock would have tosell to make the security worth its present market price
+Conversion equivalent = Current market price / conversion ratio
+### Example 9
+- Ratio = 1.7
+- Market price = $35.48
+Conversion value = 1.7 X 35.48 = 60.316
+Premium = 83.36 - 60.316 = 23.044
+Equivalent = 83.36 / 1.7 = 49.03
