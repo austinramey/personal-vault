@@ -52,7 +52,7 @@ YTM = (FV / PV) ^(1/N) - 1
 - 15-year, zero coupon bond
 - Price = 315
 - If held to maturity, what is YTM?
-= 
+= (1000/315)^1/15 - 1 = 0.080055227076252
 ## Example 4
 - YTM?
 - Rate = 7.5%
