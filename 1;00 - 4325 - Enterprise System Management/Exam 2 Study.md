@@ -128,18 +128,43 @@ Answer these two questions will place you in one of four quadrants
 	- What Business am I really in?
 ### Changes from Analog to Digital
 
-| FROM                           | TO                        |
-| ------------------------------ | ------------------------- |
-| Val. Prop. Defined by industry | Defined by customer needs |
-| Execute current Val. Prop      | Uncover                   |
-
+| FROM                                        | TO                                                |
+| ------------------------------------------- | ------------------------------------------------- |
+| Val. Prop. Defined by industry              | Defined by customer needs                         |
+| Execute current Val. Prop                   | Uncover next opportunity for customer value       |
+| Optimize bus. Model as long as possible     | Evolve before you must to stay ahead of the curve |
+| View change by how it impacts you right now | View change by how it could create more business  |
+| Market success allows for complacency       | Only the paranoid survive                         |
 
 ## Three Routes Out of a Shrinking Market Position
 ### New Customers
+- Find new customers to buy your same offering
+	- Could be difficult
 ### New Value
+- Serve the same customer but adapt to stay relevant
 ### New Value + New Customers
-## Adapt Before You Must
+- When a dramatic shift succeeds in capturing a new market of customers
+## Adopt Before You Must
+- No need to wait for a crisis in the company
+	- Look ahead to shifts in customer needs
+	- Preparing to ender new markets with new value props
+
 ## Five Concepts of Market Value
+1. Product
+	- Essential: most overused strategic lens
+2. Customer
+	- Helps identify who to focus on, but fails to focus on value delivered
+3. Use case
+	- Context in which customer uses the product or service
+	- Can lead to better customer segmentation
+4. Job to be done
+	- Focuses on underlying problem the customer is trying to solve
+		- Considers both the context in and purpose for use of the product
+5. Value proposition
+	- Benefits received by a customer from what a company is offering
+		- Both value-centric and customer centric
+		- More concrete, more specific
+
 ## Value Proposition Roadmap
 ## Org Challenges
 
