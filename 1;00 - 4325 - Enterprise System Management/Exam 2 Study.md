@@ -113,14 +113,13 @@ Answer these two questions will place you in one of four quadrants
 	- Building a Test-and-Learn culture
 	- Leading without deciding
 	- Involving Everyone
-	- Planning 
-
-
-
-
-
-
-
+	- Planning to fail and celebrating it
 # Chapter 6
+
+
+
+
+
+
 
 # Chapter 7
