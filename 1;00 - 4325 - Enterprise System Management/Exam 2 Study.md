@@ -18,16 +18,32 @@
 	- Optimizing and continually improving them
 	- Comparing versions in the later stages of an innovation process
 ## Tool: Divergent Experimental Method
+1st Stage
 1. Define the problem
 2. Set limits
-3. Pick your people
+- Time limit
+- Money limit
+- Scope limit
+1. Pick your people
+2nd Stage: Iteration
 4. Observe
 5. Generate more than one solution
 6. Build an MVP
 7. Field Test
-8. Decide
+- Customer value assumptions
+- Business model assumptions
+1. Decide
+3rd Stage: Action
 9. Scale up
 10. Share learning
+- Particularly useful for
+	- Innovations that are less defined from the outself
+	- Highly iterative
+	- May span weeks or months
+- Has 3 stages
+	- Preparation
+	- Iteration
+	- Action
 ## Innovation
 Any change to a business product, service or process that adds value
 - The process by which new business ideas are developed, tested, and brought to the market
