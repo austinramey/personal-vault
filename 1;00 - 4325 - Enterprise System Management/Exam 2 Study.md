@@ -38,7 +38,12 @@ An iterative process of learning what does or does not work
 - Provides qualitiatve feedback
 	- It was confusing
 	- I would use this if others were using it
-
+## Why you need both
+- Both are needed for different parts of the business
+- To balance exploratory learning and confirmatory learning
+- Convergent for improving existing businesses
+- Divergent for developing new business areas
+## 
 
 
 
