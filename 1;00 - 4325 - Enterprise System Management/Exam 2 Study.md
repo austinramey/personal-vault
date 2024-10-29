@@ -43,7 +43,32 @@ An iterative process of learning what does or does not work
 - To balance exploratory learning and confirmatory learning
 - Convergent for improving existing businesses
 - Divergent for developing new business areas
-## 
+## How Digital is Impacting both
+- Offering new tools for experimentation
+- Increasing speed at which innovation must happen
+- Convergent
+	- New software
+	- Increasing focus on data analytics
+	- Ubiquity with mobile computing and IoT
+- Divergent
+	- New ways to prototype ideas
+	- Newer programming lanaguages
+	- Robots taking over manual tasks
+## 7 Principles of Experimentation
+- Learn early
+- Be fast and iterate
+- Fall in love with the problem, not the solution
+- Get credible feedback
+- Measure what matters now
+- Test your assumptions
+- Fail smart
+### Learn Early
+- Traditional innovation cycle: 
+	- Observe, generate ideas, Analyze and discuss, team decision, design product, build product, launch and market, customer response
+- Innovation by rapid experimentation
+	- Observe, generate ideas, design prototype and test, customer response
+
+### 
 
 
 
