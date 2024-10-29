@@ -114,7 +114,7 @@ Answer these two questions will place you in one of four quadrants
 	- Leading without deciding
 	- Involving Everyone
 	- Planning to fail and celebrating it
-# Chapter 6
+# Chapter 6 - Adapt Value Proposition
 
 
 
