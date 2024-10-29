@@ -21,18 +21,22 @@
 1st Stage
 1. Define the problem
 2. Set limits
-- Time limit
-- Money limit
-- Scope limit
+	- Time limit
+	- Money limit
+	- Scope limit
 1. Pick your people
 2nd Stage: Iteration
 4. Observe
 5. Generate more than one solution
 6. Build an MVP
 7. Field Test
-- Customer value assumptions
-- Business model assumptions
-1. Decide
+	- Customer value assumptions
+	- Business model assumptions
+8. Decide
+	- Proceed
+	- Pivot
+	- Prepare to launch
+	- Pull the plug
 3rd Stage: Action
 9. Scale up
 10. Share learning
@@ -93,7 +97,23 @@ An iterative process of learning what does or does not work
 	- Observe, generate ideas, Analyze and discuss, team decision, design product, build product, launch and market, customer response
 - Innovation by rapid experimentation
 	- Observe, generate ideas, design prototype and test, customer response
-
+## Four Paths to Scaling Up an Innovation
+Answer these two questions will place you in one of four quadrants
+- Can iterate quickly after launch/Can limit roll-out => MVP roll-out
+	- First path for scaling up an innovation
+	- Easiest path for introducing an innovation
+	- Iterate and learn with real customers without much public scrutiny
+- Can iterate quickly after launch/Cannot limit roll-out => MVP launch
+	- Second path for scaling up an innovation
+	- Business is forced to iterate very quickly after launch
+	- Business has to rely on network effects
+## Org. Challenges of Innovation
+- Traditionally, Highest Paid Person Opinion made all the decisions
+- Today, rethinking innovation requires sig. org. changes, beginning with how decisions are made
+	- Building a Test-and-Learn culture
+	- Leading without deciding
+	- Involving Everyone
+	- Planning 
 
 
 
