@@ -115,7 +115,33 @@ Answer these two questions will place you in one of four quadrants
 	- Involving Everyone
 	- Planning to fail and celebrating it
 # Chapter 6 - Adapt Value Proposition
+## Rethinking Value: What Business Are You In?
+- How businesses adapt their value Proposition
+- Why every business should adapt before it needs to
+- How many businesses fail?
+- Org barriers prevent business from adapting how it serves customers
+- Traditionally, value prop was treated as a constant, and a source of competitive advantage for the long haul
+	- In digital age, focus on the same value prop is not longer sufficient
+- Constantly exame core value and ask:
+	- Why does the business exist?
+	- What needs does it serves?
+	- What Business am I really in?
+### Changes from Analog to Digital
 
+| FROM                           | TO                        |
+| ------------------------------ | ------------------------- |
+| Val. Prop. Defined by industry | Defined by customer needs |
+| Execute current Val. Prop      | Uncover                   |
+
+
+## Three Routes Out of a Shrinking Market Position
+### New Customers
+### New Value
+### New Value + New Customers
+## Adapt Before You Must
+## Five Concepts of Market Value
+## Value Proposition Roadmap
+## Org Challenges
 
 
 
