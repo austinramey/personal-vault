@@ -31,7 +31,14 @@ An iterative process of learning what does or does not work
 - Goal is learning about customers, markets, etc
 - ==Rapid experimentation==: transforming the way innovation happens
 ## Convergent Experiments
-- It is critical for establisthing 'causal' as o
+- It is critical for establishing 'causal' as opposed to 'correlation' relationships
+- Focused on finding causal examples, such as if I add this, it will increase customers on my site
+## Divergent Experiments
+- Process is more informal than convergent
+- Provides qualitiatve feedback
+	- It was confusing
+	- I would use this if others were using it
+
 
 
 
