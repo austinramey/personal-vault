@@ -1,12 +1,22 @@
 # Chapter 5
 ## Tool: The Convergent Experimental Method
 1. Define the Question and Its Variables
-2. Pick your testers
-3. Randomize your test and control
-4. Validate your sample
-5. Test and analyze
-6. Decide
-7. Share learning
+	- Question statement
+		- Independent variable (or cause)
+		- Dependent variable (or effect)
+1. Pick your testers
+2. Randomize your test and control
+3. Validate your sample
+	- Unit of analysis
+	- n = ? (sample size)
+	- Signal-to-noise ratio
+4. Test and analyze
+5. Decide
+6. Share learning
+- Useful for 
+	- Innovating on existing products
+	- Optimizing and continually improving them
+	- Comparing versions in the later stages of an innovation process
 ## Tool: Divergent Experimental Method
 1. Define the problem
 2. Set limits
@@ -68,7 +78,8 @@ An iterative process of learning what does or does not work
 - Innovation by rapid experimentation
 	- Observe, generate ideas, design prototype and test, customer response
 
-### 
+
+
 
 
 
