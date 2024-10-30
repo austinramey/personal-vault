@@ -107,3 +107,7 @@ Percent change in bond price =
 -1 x Modified Duration x Change in interest rates
 Modified Duration = 
 Macaulay Duration in years / 1 + YTM
+# Bond Immunization
+Allows you to derive a specified rate of return from bond investments over a given investment interval regardless of what happens to market interest rates
+- Happens when average duration of the bond portfolio equals the investment time horizion
+- Maintaining a fully immunized portfolio requires continual portfolio rebalancing
