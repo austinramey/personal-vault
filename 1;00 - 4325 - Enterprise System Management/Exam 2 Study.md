@@ -248,13 +248,40 @@ Answer these two questions will place you in one of four quadrants
 	- Data assets
 ## Variables in BMDT
 ### Customer Trajectory
-
+Focused on which customers will provide the initial basis for challenger's market entry
+- Can enter through one of two trajectories
+	- Outside-in: selling to buyers that are not currently served by incumbent
+	- Inside-out: selling to some sub-segment of current customers
 ### Disruptive Scope
-
+- In many cases the scope is not 100 percent:
+	- After being disrupted, incumbent's product/business model hangs on, confined to a smaller portion of the market
+- Predicting disruptive scope
+	- Use cases - Some customers will prefer the new product, and some will continue with the old
+	- Customer segments - New value prop is preferable to only some segments
+	- Network effects - Network effects can play an important role in determining scope of disruption
 ### Multiple Incumbents
-
+- Different industries or classes of companies are challenged by the same new disruptive business model
 ## Disruptive Business Model Map
-
+- Purpose: Asses whehter or not a new challenger poses a disruptive threat to an incumbent industry/business
+1. Challenger
+	- Analyze challenger: what is the disruptive business
+		- What is unique about it
+2. Incumbent
+	- Who is the incumbent and is there more than one?
+3. Customer
+	- Who is the target customer? Is there more than one type?
+4. Value Proposition
+	- What is the value offered by the challenger to the target customer?
+5. Value Proposition Differential
+	- How does the challenger's value prop differ?
+6. Value Network
+	- What enables the challenger to create, deliver and earn value from its offering
+7. Value Network Differential
+	- What sets them apart in this?
+8. Two-Part Test
+	- 1st Question: Does the challenger's value prop displace the value prop?
+	- 2nd Question: Do any of the differences in value networks create a barrier to prevent imitation?
 ## Disruptive Response Planner
-
+- Used when you have determined that you are looking at a disruptive challenger
+- Purpose: Designed to help map out how a disrupti
 ## Beyond Disruption
