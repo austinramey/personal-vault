@@ -180,9 +180,4 @@ Answer these two questions will place you in one of four quadrants
 - Dedicate leadership of who will be in charge of change
 - Move talent and money to new ventures
 - Avoid nearsightedness
-
-
-
-
-
-# Chapter 7
+# Chapter 7 - Masteri
