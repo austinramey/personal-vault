@@ -165,9 +165,21 @@ Answer these two questions will place you in one of four quadrants
 		- Both value-centric and customer centric
 		- More concrete, more specific
 
-## Value Proposition Roadmap
+## Value Proposition Road map
+- Used to assess and adapt value prop for customers and to identify
+	- New and emerging threats
+	- New opportunities that create customer value
+- Helps challenge assumptions
+1. Identify key customer types by value received
+2. Define current value for each customer
+3. Identify emerging threats
+4. Assess strength of current value elements
+5. Generate new potential value elements
+6. Synthesize new value prop
 ## Org Challenges
-
+- Dedicate leadership of who will be in charge of change
+- Move talent and money to new ventures
+- Avoid nearsightedness
 
 
 
