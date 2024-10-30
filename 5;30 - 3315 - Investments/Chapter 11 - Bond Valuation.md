@@ -83,4 +83,11 @@ Shows the yield on a bond assuming that the bond is called on its first call dat
 	- Investors who use coupon-paying bonds, there is uncertainty about the rate at which payments can be reinvested because interest rates do not stay the same
 - The longer it takes to get money back, due to interest, there is more risk
 - To find a less sensative one, you want to find a shorter length bond
-- 
+## Equation
+Duration = SUM((PV(Ct)/BP) x t)
+- Duration is the average amount of time it takes to recieve the ineterst and the principal
+## Steps in Calculating Duration
+1. Find present value of each coupon or principal payment
+2. Divide this present value by the current market price of a bond
+3. Multiply this weight by the year in which the cashflow is recieved
+4. Repeat 1-3 for each year in the life of the bond, then add
