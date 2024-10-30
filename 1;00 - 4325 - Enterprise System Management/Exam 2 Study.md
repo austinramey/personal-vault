@@ -194,12 +194,64 @@ Answer these two questions will place you in one of four quadrants
 	- Disrupter starts out selling to buyers in a new market
 	- Disrupter offers an innovative, cheaper, or more accessible product
 		- Typically worse performance and features
-		- 
+	- Existing companies ignore the challenger since it does not target its own customers
+	- Eventually, innovative product gets good enough to become a viable alternative to the existing company
 ## Business Model of Disruption
-
-## Digital Disrupters
-
+- Assumption: Best lens thorugh which to view disruption is business models
+	- Current disrupters are applying established tech to the design of new business models
+- Definition: wholistic view of how a business creates value, delivers it to the market, and captures value in return
+- Components (Johnson, Christensen and Kagermann):
+	- Customer value proposition
+	- Profit formula
+	- Key resources
+	- Key processes
+- Components (Osterwalder and Pigneur)
+	- Customer segments
+	- Value props
+	- Channels
+	- Customer relationships
+	- Revenue streams
+	- Key resources
+	- Key activities
+	- Key partnerships
+	- Cost structure
+- Two sides of a business model
+	1. Value proposition - value that a business offers to the customer
+	2. Value network - people, partners, assets and processes that enable a business to earn value from value proposition
+- To disrupt a business, challengers must:
+	- Have a difference in value proposition that displaces value provided from existing business
+	- Difference in value network that creates a barrier to imitation
+### Value Proposition Differential
+- Disrupters require a difference in value prop that can come from
+	- Price
+	- Free/Fremium offers
+	- Access
+	- Simplicity
+	- Personalization
+	- Aggregation
+	- Unbundling
+	- Integration
+	- Social
+### Value Network Differential
+- Disrupters require a difference in value network that is hard to imitate, from:
+	- Customers
+	- Channels
+	- Partners
+	- Networks
+	- Complementary products/services
+	- Brand
+	- Revenue model
+	- Cost structure
+	- Skills and processes
+	- Physical assets
+	- IP assets
+	- Data assets
 ## Variables in BMDT
+### Customer Trajectory
+
+### Disruptive Scope
+
+### Multiple Incumbents
 
 ## Disruptive Business Model Map
 
