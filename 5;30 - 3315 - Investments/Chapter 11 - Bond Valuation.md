@@ -76,3 +76,11 @@ Shows the yield on a bond assuming that the bond is called on its first call dat
 	- Other than as indicators of the rate of return
 - These investors need an alterative measure of return that they can use
 ![[screen-2024-10-30-17-39-37.png]]
+# Duration
+## Concept
+- Bond investors face many types of risk
+	- Even for bonds like Treasures, there is still risk that interest rates will move and cause bond prices to move in the opposite direction
+	- Investors who use coupon-paying bonds, there is uncertainty about the rate at which payments can be reinvested because interest rates do not stay the same
+- The longer it takes to get money back, due to interest, there is more risk
+- To find a less sensative one, you want to find a shorter length bond
+- 
