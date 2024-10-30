@@ -22,6 +22,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "5c2ae6a80b633db7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f77ff614377dc929",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "1;00 - 4325 - Enterprise System Management/4325 - The Digital Transformation Playbook.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "4325 - The Digital Transformation Playbook"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,8 +186,9 @@
   },
   "active": "f0d31b4d0ac5089e",
   "lastOpenFiles": [
-    "5;30 - 3315 - Investments/Chapter 11 - Bond Valuation.md",
+    "1;00 - 4325 - Enterprise System Management/4325 - The Digital Transformation Playbook.pdf",
     "1;00 - 4325 - Enterprise System Management/Exam 2 Study.md",
+    "5;30 - 3315 - Investments/Chapter 11 - Bond Valuation.md",
     "screen-2024-10-28-17-47-09.png",
     "5;30 - 3315 - Investments/Chapter 10 - Fixed-Income Securities.md",
     "2;30 - 4322 - Strategic Management/! Case Analysis.md",
@@ -200,11 +219,9 @@
     "Bible/9-29 SCF.md",
     "2;30 - 4322 - Strategic Management/Syllabus.md",
     "2;30 - 4322 - Strategic Management/Meeting Notes 9-27.md",
-    "1;00 - 4325 - Enterprise System Management/4325 - The Digital Transformation Playbook.pdf",
     "1;00 - 4325 - Enterprise System Management/Chapter 1.md",
     "1;00 - 4325 - Enterprise System Management/Chapter 4 - Turning Data into Assets.md",
     "1;00 - 4325 - Enterprise System Management/Chapter 2 - Harnessing Customer Connections.md",
-    "1;00 - 4325 - Enterprise System Management/Syllabus.md",
     "Bible",
     "7;00 - 3303 - Money and Banking/Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition (2019, Pearson Education Limited) - libgen.li.pdf",
     "Pasted Pics",

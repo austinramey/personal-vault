@@ -1,4 +1,4 @@
-# Chapter 5
+# Chapter 5 - Innovate by Rapid Experimentation
 ## Tool: The Convergent Experimental Method
 1. Define the Question and Its Variables
 	- Question statement
@@ -305,3 +305,4 @@ Focused on which customers will provide the initial basis for challenger's marke
 - Less than irresistible
 - Strategies the incumbent can use to adapt, diversify, and continue ite enterprise
 - Responding requires that a business be willing to question its own assumptions, and focus on unique mission of how it serves customers
+# 
