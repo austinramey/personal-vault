@@ -59,3 +59,20 @@ YTM = (FV / PV) ^(1/N) - 1
 - $1000 Par value
 - 15 years to maturity
 - Currently $809.50 in market
+# Accrued Interest
+- Most bonds pay interest every 6 months, but trade any time
+- Interest accrues on bonds between coupon payments
+	- Selling the bond prior to payment does not mean bondholders sacrifice any interest that they earned
+- Accrued interest is the amount earned since the last coupon payment
+# Yield to Call (YTC)
+Shows the yield on a bond assuming that the bond is called on its first call date
+- YTC is commonly used with bonds that carry deferred-call provisions
+- Finding YTC requires making two modifications to standard YTM equation
+	- Length of investment is number of years to the first call date
+	- Use the bond's call price insteat of par value
+# Expected Return
+- Some investors prefer to actively trade in and out of bonds securities over short investment horizons
+- Measures such as YTM and YTC have relatively little meaning
+	- Other than as indicators of the rate of return
+- These investors need an alterative measure of return that they can use
+![[screen-2024-10-30-17-39-37.png]]
