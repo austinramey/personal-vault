@@ -86,7 +86,9 @@ An iterative process of learning what does or does not work
 	- Robots taking over manual tasks
 ## 7 Principles of Experimentation
 - Learn early
+	- Start experimenting from the beginning so you can learn as early as possible
 - Be fast and iterate
+	- 
 - Fall in love with the problem, not the solution
 - Get credible feedback
 - Measure what matters now
