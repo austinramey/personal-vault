@@ -283,5 +283,25 @@ Focused on which customers will provide the initial basis for challenger's marke
 	- 2nd Question: Do any of the differences in value networks create a barrier to prevent imitation?
 ## Disruptive Response Planner
 - Used when you have determined that you are looking at a disruptive challenger
-- Purpose: Designed to help map out how a disrupti
+- Purpose: Designed to help map out how a disruptive challenger will likely play out
+- First three steps help assess threat from disrupter:
+	1. Customer trajectory
+	2. Disruptive Scope
+	3. Other Incumbents
+- 4th provides you as an incumbent with 6 possible responses
+	4. Six incumbent Responses to Disruption
+		- Become Disrupter
+			- Acquire disrupter
+			- Launch an independent disrupter
+			- Split disrupter's business model
+		- Mitigate losses
+			- Refocus on your defensible customer
+			- Diversify portfolio
+			- Plan for a fast exit
 ## Beyond Disruption
+- Disruption can happen both inside and out
+- Not every innovation is a disrupter
+- Rarely complete disruption, mostly just attract a significant part of market
+- Less than irresistible
+- Strategies the incumbent can use to adapt, diversify, and continue ite enterprise
+- Responding requires that a business be willing to question its own assumptions, and focus on unique mission of how it serves customers
