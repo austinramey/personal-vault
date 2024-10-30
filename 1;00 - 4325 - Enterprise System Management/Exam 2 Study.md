@@ -180,4 +180,29 @@ Answer these two questions will place you in one of four quadrants
 - Dedicate leadership of who will be in charge of change
 - Move talent and money to new ventures
 - Avoid nearsightedness
-# Chapter 7 - Masteri
+# Chapter 7 - Disruptive Business Models
+## Disruption Defined
+- Happens when an existing industry faces a challenger that offers more value to customers than what existing firms did
+	- Existing firms cannot compete directly with them
+## In the Digital Age
+- Digital tech enables the rewriting of the rules of business
+- New rules allow opportunities for new challengers to take on older, more profitable businesses
+## Theories
+1. Create destruction
+	- Process where capitalism inherently destroys old industries and economic systems
+2. Disruptive Innovation
+	- Disrupter starts out selling to buyers in a new market
+	- Disrupter offers an innovative, cheaper, or more accessible product
+		- Typically worse performance and features
+		- 
+## Business Model of Disruption
+
+## Digital Disrupters
+
+## Variables in BMDT
+
+## Disruptive Business Model Map
+
+## Disruptive Response Planner
+
+## Beyond Disruption
