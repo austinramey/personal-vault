@@ -91,3 +91,19 @@ Duration = SUM((PV(Ct)/BP) x t)
 2. Divide this present value by the current market price of a bond
 3. Multiply this weight by the year in which the cashflow is recieved
 4. Repeat 1-3 for each year in the life of the bond, then add
+## Other Notes
+- In general, bond duration possesses the following properties
+	- Higher coupons result in shorter durations
+	- Longer maturities mean longer durations
+	- Higher yields lead to shorter durations
+- Shorter the duration, less volatile
+# Modified Duration
+- There is no exact relationship between bond maturities and bon price volatiltieis with respect to interest rate changes
+	- There is a relationship between bond duration and price volatility
+- Bond's duration can be used as a viable predictor of price volatility as long as yield swings are relatively small
+- Mathmatical link between changes in interest rates and changes in bond prices involves modified duration
+## Equations
+Percent change in bond price =
+-1 x Modified Duration x Change in interest rates
+Modified Duration = 
+Macaulay Duration in years / 1 + YTM
