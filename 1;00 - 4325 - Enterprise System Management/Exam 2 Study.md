@@ -88,8 +88,9 @@ An iterative process of learning what does or does not work
 - Learn early
 	- Start experimenting from the beginning so you can learn as early as possible
 - Be fast and iterate
-	- 
+	- Companies need to speed up testing and focus on making as many iterations, as fast as possible
 - Fall in love with the problem, not the solution
+	- 
 - Get credible feedback
 - Measure what matters now
 - Test your assumptions
