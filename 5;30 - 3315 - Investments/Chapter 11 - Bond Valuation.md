@@ -59,3 +59,55 @@ YTM = (FV / PV) ^(1/N) - 1
 - $1000 Par value
 - 15 years to maturity
 - Currently $809.50 in market
+# Accrued Interest
+- Most bonds pay interest every 6 months, but trade any time
+- Interest accrues on bonds between coupon payments
+	- Selling the bond prior to payment does not mean bondholders sacrifice any interest that they earned
+- Accrued interest is the amount earned since the last coupon payment
+# Yield to Call (YTC)
+Shows the yield on a bond assuming that the bond is called on its first call date
+- YTC is commonly used with bonds that carry deferred-call provisions
+- Finding YTC requires making two modifications to standard YTM equation
+	- Length of investment is number of years to the first call date
+	- Use the bond's call price insteat of par value
+# Expected Return
+- Some investors prefer to actively trade in and out of bonds securities over short investment horizons
+- Measures such as YTM and YTC have relatively little meaning
+	- Other than as indicators of the rate of return
+- These investors need an alterative measure of return that they can use
+![[screen-2024-10-30-17-39-37.png]]
+# Duration
+## Concept
+- Bond investors face many types of risk
+	- Even for bonds like Treasures, there is still risk that interest rates will move and cause bond prices to move in the opposite direction
+	- Investors who use coupon-paying bonds, there is uncertainty about the rate at which payments can be reinvested because interest rates do not stay the same
+- The longer it takes to get money back, due to interest, there is more risk
+- To find a less sensative one, you want to find a shorter length bond
+## Equation
+Duration = SUM((PV(Ct)/BP) x t)
+- Duration is the average amount of time it takes to recieve the ineterst and the principal
+## Steps in Calculating Duration
+1. Find present value of each coupon or principal payment
+2. Divide this present value by the current market price of a bond
+3. Multiply this weight by the year in which the cashflow is recieved
+4. Repeat 1-3 for each year in the life of the bond, then add
+## Other Notes
+- In general, bond duration possesses the following properties
+	- Higher coupons result in shorter durations
+	- Longer maturities mean longer durations
+	- Higher yields lead to shorter durations
+- Shorter the duration, less volatile
+# Modified Duration
+- There is no exact relationship between bond maturities and bon price volatiltieis with respect to interest rate changes
+	- There is a relationship between bond duration and price volatility
+- Bond's duration can be used as a viable predictor of price volatility as long as yield swings are relatively small
+- Mathmatical link between changes in interest rates and changes in bond prices involves modified duration
+## Equations
+Percent change in bond price =
+-1 x Modified Duration x Change in interest rates
+Modified Duration = 
+Macaulay Duration in years / 1 + YTM
+# Bond Immunization
+Allows you to derive a specified rate of return from bond investments over a given investment interval regardless of what happens to market interest rates
+- Happens when average duration of the bond portfolio equals the investment time horizion
+- Maintaining a fully immunized portfolio requires continual portfolio rebalancing
