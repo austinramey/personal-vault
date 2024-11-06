@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/Chapter 6 - Creating Value through Diversification.md",
+                "file": "5;30 - 3315 - Investments/Chapter 14 - Options.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 6 - Creating Value through Diversification"
-            }
-          },
-          {
-            "id": "75546ecf90e0886c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "Chapter 14 - Options"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -178,11 +166,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "75546ecf90e0886c",
+  "active": "5db961ede02f6bfe",
   "lastOpenFiles": [
+    "5;30 - 3315 - Investments/Chapter 15 - Futures.md",
+    "5;30 - 3315 - Investments/Chapter 14 - Options.md",
+    "2;30 - 4322 - Strategic Management/Chapter 6 - Creating Value through Diversification.md",
     "2;30 - 4322 - Strategic Management/Chapter 4 - Firm's Intellectual Assets.md",
     "2;30 - 4322 - Strategic Management/Chapter 5.md",
-    "2;30 - 4322 - Strategic Management/Chapter 6 - Creating Value through Diversification.md",
     "5;30 - 3315 - Investments/Chapter 11 - Bond Valuation.md",
     "Pasted Pics/screen-2024-10-30-17-39-37.png",
     "Pasted Pics/screen-2024-10-28-17-47-09.png",
@@ -215,7 +205,6 @@
     "2;30 - 4322 - Strategic Management/Syllabus.md",
     "2;30 - 4322 - Strategic Management/Meeting Notes 9-27.md",
     "1;00 - 4325 - Enterprise System Management/Chapter 1.md",
-    "1;00 - 4325 - Enterprise System Management/Chapter 4 - Turning Data into Assets.md",
     "Bible",
     "7;00 - 3303 - Money and Banking/Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition (2019, Pearson Education Limited) - libgen.li.pdf",
     "Pasted Pics",
