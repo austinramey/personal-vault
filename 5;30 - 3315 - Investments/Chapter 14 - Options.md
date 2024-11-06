@@ -17,4 +17,28 @@ Advised AGAINST options due to high risk nature
 - Not confident in the stock that is underlying
 - Choose to sell at a specified exercise/strike price on or before expiration date
 	- Choose to pay a ==put premium==, and sell a stock at the specified price at the end of the option
+
+When I hear them, I want to think:
+- If call, want price to increase
+- If put, want price to decrease
+## Buyer vs Seller of Options
+### Buyer:
+- Has the right to buy or sell an underlying asset at a fixed price for a time
+- To acquire this right, option buyer must pay the option seller a fee known as the option premium
+- Buyers do not have to exercise their options, they can walk away if there is no exercising the option
+### Seller (or Writer):
+- Recieves the option premium from the buyer up front
+- Has the obligation to sell or buy the underlying assett according to the terms of the option contract
+- This obligation is binding
+# Examples
+## Example 1
+- Starts at 150
+- Ends at 152
+- Premium of 4.10
+## Example 2
+- Put option
+- Start at 150
+- Ends at 141
+- Selling for 5.91
+- Profit = 150 - 141 - 5.91 = 3.09
 - 
