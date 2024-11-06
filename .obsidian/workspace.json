@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Chapter 6 - Creating Value through Diversification"
             }
+          },
+          {
+            "id": "75546ecf90e0886c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5db961ede02f6bfe",
+  "active": "75546ecf90e0886c",
   "lastOpenFiles": [
     "2;30 - 4322 - Strategic Management/Chapter 4 - Firm's Intellectual Assets.md",
     "2;30 - 4322 - Strategic Management/Chapter 5.md",
