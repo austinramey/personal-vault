@@ -61,10 +61,11 @@ Payoff to call holder = {e Sr - X if sRr < X
 	2. Time value
 - Time Value and Time to Expiration
 	- Time Value: Amount by which an option's price exceeds its intrinsic value
-		- Market price of an option will alwaya be higher than its intrinsic value
+		- Market price of an option will always be higher than its intrinsic value
 		- Exception: option price = intrinsic value before it expires
 ## The put-call parity relationship
-
+- Consider buying a coll option as well as buying treasury bills with face value equal to the exercise price of the call, with maturity date equal to the expiration date of the option
+Price of a put option + price of a stock = Price of a call option + price of a risk-free bond
 # Examples
 ## Example 1
 - Starts at 150
