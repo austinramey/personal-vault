@@ -50,7 +50,20 @@ When I hear them, I want to think:
 ## Intrinsic Value
 - Relationship between an options strike price and the underlying stock's market price
 Intrinsic value = (Stock price - strike price) x 100 or 0, whichever is greater
-
+## Intrinsic of Options
+- ST as the value of the stock at expiration
+- X is the exercise price, has the following stock
+- X is the exercise price 
+Payoff to call holder = {e Sr - X if sRr < X
+## Pricing and Trading
+- Options prices can be reduced to two seperate components
+	1. Intrinsic value
+	2. Time value
+- Time Value and Time to Expiration
+	- Time Value: Amount by which an option's price exceeds its intrinsic value
+		- Market price of an option will alwaya be higher than its intrinsic value
+		- Exception: option price = intrinsic value before it expires
+- 
 # Examples
 ## Example 1
 - Starts at 150
@@ -65,3 +78,18 @@ Intrinsic value = (Stock price - strike price) x 100 or 0, whichever is greater
 - HPR = profit / cost = 3.09 / 5.91 = 52.28%
 - HPR means we get 52.28% in this placement
 - Otherwise, HPR = 151-141/141 = 6% < 52.28%
+## Example 3
+- Call option
+- Start 100 shares
+- St = 63.58
+- X = 52.45
+- Premium: 520
+- If HD stock rises to 63.58/share by the expiration what is the call holder's profit
+- What is the HPR?
+- Profit = 100 (63.58-52.45) - 520
+- = 593
+- HPR = 593 / 520 = 114.04
+## Example 4
+- Selling for 120.01 per share
+- Call options with $117 price
+- Options are priced at $1
