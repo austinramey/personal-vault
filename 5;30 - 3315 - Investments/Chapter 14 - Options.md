@@ -63,7 +63,8 @@ Payoff to call holder = {e Sr - X if sRr < X
 	- Time Value: Amount by which an option's price exceeds its intrinsic value
 		- Market price of an option will alwaya be higher than its intrinsic value
 		- Exception: option price = intrinsic value before it expires
-- 
+## The put-call parity relationship
+
 # Examples
 ## Example 1
 - Starts at 150
@@ -92,4 +93,20 @@ Payoff to call holder = {e Sr - X if sRr < X
 ## Example 4
 - Selling for 120.01 per share
 - Call options with $117 price
-- Options are priced at $1
+- Options are priced at $14.08
+	- What is intrinsic value?
+- ST = 120
+- X = 117
+- In the money since it went up
+- Intrinsic value = 120.01 - 117 = 3.01
+- What is the time value?
+	- TV = 14.08 - 3.01 = 11.07
+## Example 5
+- Stock sells for $71.75
+- Strike price is $70, put option
+- 3 months from now
+
+- P + S = C + pv(x)
+- ? + 71.75 = 6.74 + 70/1+0.5%
+- p + 71l75 = 6.74 + 69.65
+- p = 4.64
