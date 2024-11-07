@@ -30,6 +30,27 @@ When I hear them, I want to think:
 - Recieves the option premium from the buyer up front
 - Has the obligation to sell or buy the underlying assett according to the terms of the option contract
 - This obligation is binding
+## Options Expiration Date
+- American Options: allows investors to exercise their right to buy or sell underlying asset on or before expiration date
+	- All exchange-listed options in the US are American options
+- European options: only permit investors to exercise on the expiration date
+## Options Pricing
+- In the money
+	- Call option: when strike price is less than the market price of the underlying security
+	- Put option: when strike price is greater than the market price of hte underlying asset
+	- When an option is in the money, it's intrinisc value is greater than zero
+- Out of the money
+	- Call option: when strike price is greater than market price of the underlying securitiy
+	- Put option:When the strike price is less than the market priceof the underlying security
+- At the money: strike price = market price for both
+## Trading Options
+- Naked options: writer does not own the optioned securities, no limit on loss exposure
+- Cover options: writer owns the optioned securities, loss exposure is limited to the price originally paid
+- Option straddle: Simultaneous purchase of both a put and a call on the same stock
+## Intrinsic Value
+- Relationship between an options strike price and the underlying stock's market price
+Intrinsic value = (Stock price - strike price) x 100 or 0, whichever is greater
+
 # Examples
 ## Example 1
 - Starts at 150
@@ -41,4 +62,6 @@ When I hear them, I want to think:
 - Ends at 141
 - Selling for 5.91
 - Profit = 150 - 141 - 5.91 = 3.09
-- 
+- HPR = profit / cost = 3.09 / 5.91 = 52.28%
+- HPR means we get 52.28% in this placement
+- Otherwise, HPR = 151-141/141 = 6% < 52.28%
