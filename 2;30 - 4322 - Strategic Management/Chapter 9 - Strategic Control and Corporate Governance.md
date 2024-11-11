@@ -13,3 +13,11 @@ Effective rewards systems share common characteristics
 - Feedback is prompt, clear, and unambiguous
 - Compensation system is perceived as fair and equitable
 - Structure if flexible, it can adapt to changing circumstances
+# Corporate System
+## Corporate Goverancne
+Strategic control mechanism crporate governance focuses on relationships among
+- Shareholders
+- Management
+- Board of Directors
+## Agency Theory
+Managers != 
