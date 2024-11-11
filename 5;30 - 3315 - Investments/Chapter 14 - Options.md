@@ -111,3 +111,9 @@ Price of a put option + price of a stock = Price of a call option + price of a r
 - ? + 71.75 = 6.74 + 70/1+0.5%
 - p + 71l75 = 6.74 + 69.65
 - p = 4.64
+Black sholes
+- Stock price
+- Strike price
+- Time to Maturity
+- Standard deviation 
+- Risk-free rate
