@@ -14,10 +14,16 @@ Effective rewards systems share common characteristics
 - Compensation system is perceived as fair and equitable
 - Structure if flexible, it can adapt to changing circumstances
 # Corporate System
-## Corporate Goverancne
-Strategic control mechanism crporate governance focuses on relationships among
+## Corporate Governance
+Strategic control mechanism corporate governance focuses on relationships among
 - Shareholders
 - Management
 - Board of Directors
 ## Agency Theory
-Managers != 
+Managers != Owners
+- Agency theory deals with relationship between principals and agents
+- What to do when the goals of the principals and agents conflict
+- What to do when it is difficult or expensive for the principal to verify what the agent is actually doing
+- What happens when the principal and the agent have different attitudes and preferences toward risk?
+## Mechanisms
+Corporate governance mechanism - aligning the interest of onwers and mangers through
