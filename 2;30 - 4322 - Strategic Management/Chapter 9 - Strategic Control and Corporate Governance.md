@@ -32,3 +32,4 @@ Corporate governance mechanism - aligning the interest of owners and mangers thr
 - Managerial rewards and incentives
 	- Contract-based outcomes - reward and compensation agreements that align management and stockholder interests
 - Making a decision about CEO duality - should the CEO also be chairman of the board of directors
+### Shareholder Activism
