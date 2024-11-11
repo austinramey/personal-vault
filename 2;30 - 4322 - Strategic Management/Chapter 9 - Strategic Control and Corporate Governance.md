@@ -32,4 +32,13 @@ Corporate governance mechanism - aligning the interest of owners and mangers thr
 - Managerial rewards and incentives
 	- Contract-based outcomes - reward and compensation agreements that align management and stockholder interests
 - Making a decision about CEO duality - should the CEO also be chairman of the board of directors
-### Shareholder Activism
+### CEO Duality
+- Unity of command: in favor of duality: 
+	- provides clear focus
+	- Eliminates confusion and conflict
+	- Enhances a firm's responsiveness
+	- Enables quick decisions based on first-hand knowledge
+- Agency theory: in favor of seperation:
+	- Safeguards against corruption or incompetence
+	- Removes conflict of interest, especially regarding CEO succession
+- 
