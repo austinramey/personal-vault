@@ -26,4 +26,9 @@ Managers != Owners
 - What to do when it is difficult or expensive for the principal to verify what the agent is actually doing
 - What happens when the principal and the agent have different attitudes and preferences toward risk?
 ## Mechanisms
-Corporate governance mechanism - aligning the interest of onwers and mangers through
+Corporate governance mechanism - aligning the interest of owners and mangers through
+- Committed and involved Board of Directors
+- Shareholder activism and active engagement
+- Managerial rewards and incentives
+	- Contract-based outcomes - reward and compensation agreements that align management and stockholder interests
+- Making a decision about CEO duality - should the CEO also be chairman of the board of directors
