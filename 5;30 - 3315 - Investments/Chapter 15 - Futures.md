@@ -7,4 +7,39 @@
 	- Value = Size of contract x Quoted price
 - All trading is done on a margin basis
 	- Open interest: Total number of contracts that are open and have not been settled by delivery or offsetting transaction
+## IRL Markets
+- Chicago Board of Trade (CBOT) began in 1848
+- More than a dozen US commodities exchanges
+	- Chicago Merchantile Exchange (CME) is largest
+	- Chicago Board of Trade (CBOT)
+	- New York Merchantile Exchange (NYMEX)
 # Commodities
+- Type of product
+- Size of contract (in bushels, pounds, tons)
+- Exchange where contract is traded
+- Method of valuing contract (cents/pound, dollars per ton)
+- Delivery month
+- Settlement price: last price of the day, or closing price
+	- Important since it is used to determine the daily market vakue of the contract and, therefore, an investor's profit or loss for the day
+# Options VS Futures Contracts
+- Futures contracts are closely related to call options
+	- Both invovle future delivery of an underlying asset at an agreed-upon price
+	- Both are derivitave securities
+- Options
+	- Right to buy
+	- Strike price specified in option contract
+	- Up-front cost: premium
+- Futures
+	- Obligation to buy
+	- Delivery price set by supply and demand
+	- No up-front costs
+	- No limit on loss
+# Trading in Futures Market
+- Hedgers: companies that trade futures to mitigate some risk that is intrinsic to their business
+	- Protect their interests in the underlying commodity or finanical instrument
+	- Make their revenues more predictable by locking in prices, interest rates, or exchange rates
+- Speculators: trade futures contracts simply to earn a profit on expected price swings
+	- Provide liquidity
+# Margin Trading
+- Margin deposit: 
+	- Amount deposited with broker at time of 
