@@ -42,4 +42,21 @@
 	- Provide liquidity
 # Margin Trading
 - Margin deposit: 
-	- Amount deposited with broker at time of 
+	- Amount deposited with broker at time of commodity transaction to cover any loss in market value of futurs contract due to price movements
+	- Margin requirements range from 2% to 10%
+- Maintenance margin: 
+	- Minimum amount of deposity required at all times
+	- Margin call occurs if value drops below allowed amount
+- Mark-to-the-market: an investor's margin position is updated daily
+# Return:
+![[Pasted image 20241111180404.png]]
+
+## Example 1:
+## Example 2:
+# Financial Futures
+Segment of the futures market in which futures contracts are traded on financial insturments
+- Currency futures: foreign currency contracts
+	- Major market currencies such as british pound, Swiss franc, Canadian dollar, etc
+- Interst rate futures: futureus contract on debt securities
+- Stock Index futures: contracts pegged to broad-based measures of stock market performance
+- 
