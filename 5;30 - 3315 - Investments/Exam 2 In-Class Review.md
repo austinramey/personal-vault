@@ -1,2 +1,0 @@
-- Callable bond means that issuer can trade it back in when it is favorable for them
-- 
