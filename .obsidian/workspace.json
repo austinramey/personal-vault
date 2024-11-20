@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Exam 2 In-Class Review"
             }
+          },
+          {
+            "id": "282e84bcb0eff3c5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -166,7 +178,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5db961ede02f6bfe",
+  "active": "282e84bcb0eff3c5",
   "lastOpenFiles": [
     "5;30 - 3315 - Investments/Chapter 15 - Futures.md",
     "5;30 - 3315 - Investments/Exam 2 In-Class Review.md",
