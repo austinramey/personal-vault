@@ -18,7 +18,7 @@
 	- Actions of the Federal Reserve to control inflation
 6. Level of interest rates in major foreign markets
 # Inflation and Interest Rates
-![[screen-2024-10-28-17-47-09.png]]
+![[screen-2024-10-28-17-47-09 1.png]]
 # Term Structure and Yield curve
 - Bonds having different maturities typically have different interest rates
 - Term strucutrue of interest rates
@@ -75,7 +75,7 @@ Shows the yield on a bond assuming that the bond is called on its first call dat
 - Measures such as YTM and YTC have relatively little meaning
 	- Other than as indicators of the rate of return
 - These investors need an alterative measure of return that they can use
-![[screen-2024-10-30-17-39-37.png]]
+![[screen-2024-10-30-17-39-37 1.png]]
 # Duration
 ## Concept
 - Bond investors face many types of risk

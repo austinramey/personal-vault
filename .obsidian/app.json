@@ -19,5 +19,6 @@
     "editor:insert-link",
     "editor:toggle-checklist-status",
     "editor:configure-toolbar"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }
