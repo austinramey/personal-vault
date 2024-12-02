@@ -29,4 +29,22 @@ Municipal bond funds
 - Unsuitable for tax sheltered retirement account
 
 Put vs Call
-- 
+- Call
+	- Right to buy a security
+	- Writer wants the stock to go down
+	- Investor profits if the price goes up
+- Put
+	- Right to sell a security
+	- Writer wants the stock to rise
+	- Investor profits if the price goes down
+- When writing
+	- Always want the other side to ==not== exercise the action
+
+Prospectors
+- Not an option available to companies offering their stock for the first time
+
+Federal reserve acts to lower interest rates
+- Will lower rate of return on a stock whose price has doubled since you bought it
+
+
+- Growth and income
