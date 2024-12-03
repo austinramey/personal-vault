@@ -46,5 +46,19 @@ Prospectors
 Federal reserve acts to lower interest rates
 - Will lower rate of return on a stock whose price has doubled since you bought it
 
+US Stock Market
+- Emering stock market has a higher return
+- Accounts for about 50% of equity market
+- About 5k - 6K stocks
+- Decreasing as a percentage of the world's equity market
 
-- Growth and income
+DEFINITION OF ODD LOT TRADING
+
+Purpose of hedging
+- Reduce or eliminate risk
+- Protect yourself from up and down market movement
+
+Index Fund
+- Passively managed
+- Imitate movement of index
+
