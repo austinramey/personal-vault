@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2;30 - 4322 - Strategic Management/11-20.md",
+                "file": "5;30 - 3315 - Investments/FINAL REVIEW.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11-20"
+              "title": "FINAL REVIEW"
             }
           }
         ]
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "9a7c0cdef5d4102d",
@@ -163,13 +162,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "5db961ede02f6bfe",
   "lastOpenFiles": [
-    "2;30 - 4322 - Strategic Management/Chapter 9 - Strategic Control and Corporate Governance.md",
     "2;30 - 4322 - Strategic Management/11-20.md",
+    "5;30 - 3315 - Investments/FINAL REVIEW.md",
+    "Pasted Pics/Pasted image 20241111180404.png",
+    "Bible/SCF 11-24.md",
+    "Bible/12-1 SCF.md",
+    "2;30 - 4322 - Strategic Management/Chapter 9 - Strategic Control and Corporate Governance.md",
     "5;30 - 3315 - Investments/Exam 2 In-Class Review.md",
     "5;30 - 3315 - Investments/Chapter 15 - Futures.md",
     "Pasted image 20241111180404.png",
@@ -200,11 +204,7 @@
     "Bible/LG 10-9.md",
     "2;30 - 4322 - Strategic Management/Chapter 3 - Assessing Internal Environment.md",
     "2;30 - 4322 - Strategic Management/Chapter 2 - External Environment.md",
-    "2;30 - 4322 - Strategic Management/Chapter 1 - Strategic Mgmt.md",
     "Pasted Pics/screen-2024-10-02-17-35-41.png",
-    "5;30 - 3315 - Investments/Chapter 8? - Stock Valuation.md",
-    "Pasted Pics/screen-2024-10-02-18-25-03.png",
-    "Bible/9-29 SCF.md",
     "Bible",
     "7;00 - 3303 - Money and Banking/Frederic S. Mishkin - The Economics of Money, Banking, and Financial Markets, Global Edition (2019, Pearson Education Limited) - libgen.li.pdf",
     "Pasted Pics",
