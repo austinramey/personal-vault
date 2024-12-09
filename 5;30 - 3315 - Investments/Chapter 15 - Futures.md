@@ -20,11 +20,11 @@
 - Method of valuing contract (cents/pound, dollars per ton)
 - Delivery month
 - Settlement price: last price of the day, or closing price
-	- Important since it is used to determine the daily market vakue of the contract and, therefore, an investor's profit or loss for the day
+	- Important since it is used to determine the daily market value of the contract and, therefore, an investor's profit or loss for the day
 # Options VS Futures Contracts
 - Futures contracts are closely related to call options
-	- Both invovle future delivery of an underlying asset at an agreed-upon price
-	- Both are derivitave securities
+	- Both involve future delivery of an underlying asset at an agreed-upon price
+	- Both are derivative securities
 - Options
 	- Right to buy
 	- Strike price specified in option contract
